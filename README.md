@@ -1,5 +1,7 @@
 README
 
+This repository was created as an exercise for the 5803 Geomatics class at Carleton University. The following demostrates the intended outcomes of the Tutorial.
+
 ## Learning objectives 
 - Demonstrate the practicalities of open data (Walking through applying and assessing FAIR principles)
 - Reuse of open sea-ice data extent found through federated system
