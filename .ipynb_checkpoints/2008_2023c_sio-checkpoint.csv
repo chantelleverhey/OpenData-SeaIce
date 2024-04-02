@@ -1,0 +1,1379 @@
+year,month,name1,method4,method6,sio,antarctic,alaska,citizen,wrongby,abswrong,lastyear,extent
+2008,6,"Rigor","Heuristic","Heuristic",3.0999999,,,"Scientist",1.5874333,1.5874333,4.2672668,4.6874332
+2008,6,"Meier/Stroeve","Mixed","Mixed",3.48,,,"Scientist",1.2074332,1.2074332,4.2672668,4.6874332
+2008,6,"Kaleschke","Statistical","Statistical",3.5999999,,,"Scientist",1.0874333,1.0874333,4.2672668,4.6874332
+2008,6,"Miles","Heuristic","Heuristic",3.8,,,"Scientist",.88743329,.88743329,4.2672668,4.6874332
+2008,6,"Stabeno","Heuristic","Heuristic",4.0999999,,,"Scientist",.58743334,.58743334,4.2672668,4.6874332
+2008,6,"Prisenberg","Heuristic","Heuristic",4.3000002,,,"Scientist",.38743305,.38743305,4.2672668,4.6874332
+2008,6,"Maslanik/Drobot","Statistical","Statistical",4.3000002,,,"Scientist",.38743305,.38743305,4.2672668,4.6874332
+2008,6,"Lindsay","Statistical","Statistical",4.5,,,"Scientist",.18743324,.18743324,4.2672668,4.6874332
+2008,6,"Kwok","Heuristic","Heuristic",5,,,"Scientist",-.31256676,.31256676,4.2672668,4.6874332
+2008,6,"Bitz","Statistical","Statistical",5.3000002,,,"Scientist",-.61256695,.61256695,4.2672668,4.6874332
+2008,6,"Stern","Statistical","Statistical",5.5599999,,,"Scientist",-.8725667,.8725667,4.2672668,4.6874332
+2008,7,"Arbetter","Heuristic","Heuristic",2.6500001,,,"Scientist",2.0374331,2.0374331,4.2672668,4.6874332
+2008,7,"Rigor","Heuristic","Heuristic",3.0999999,,,"Scientist",1.5874333,1.5874333,4.2672668,4.6874332
+2008,7,"Meier/Stroeve","Mixed","Mixed",3.5,,,"Scientist",1.1874332,1.1874332,4.2672668,4.6874332
+2008,7,"Hutchings","Heuristic","Heuristic",3.5999999,,,"Scientist",1.0874333,1.0874333,4.2672668,4.6874332
+2008,7,"Maslanik/Drobot","Statistical","Statistical",4.4000001,,,"Scientist",.28743315,.28743315,4.2672668,4.6874332
+2008,7,"Kauker","Dynamical","Dynamical",4.4299998,,,"Scientist",.25743341,.25743341,4.2672668,4.6874332
+2008,7,"Lindsay","Statistical","Statistical",4.4400001,,,"Scientist",.24743319,.24743319,4.2672668,4.6874332
+2008,7,"Zhang","Dynamical","Dynamical",4.46,,,"Scientist",.2274332,.2274332,4.2672668,4.6874332
+2008,7,"Kwok","Heuristic","Heuristic",5,,,"Scientist",-.31256676,.31256676,4.2672668,4.6874332
+2008,7,"Bitz","Statistical","Statistical",5.3000002,,,"Scientist",-.61256695,.61256695,4.2672668,4.6874332
+2008,7,"Stern","Statistical","Statistical",5.5599999,,,"Scientist",-.8725667,.8725667,4.2672668,4.6874332
+2008,7,"Kaleschke","Statistical","Statistical",5.8000002,,,"Scientist",-1.1125669,1.1125669,4.2672668,4.6874332
+2008,8,"Rigor","Heuristic","Heuristic",3.2,,,"Scientist",1.4874332,1.4874332,4.2672668,4.6874332
+2008,8,"Arbetter","Heuristic","Heuristic",3.3199999,,,"Scientist",1.3674333,1.3674333,4.2672668,4.6874332
+2008,8,"Prisenberg","Heuristic","Heuristic",4.3000002,,,"Scientist",.38743305,.38743305,4.2672668,4.6874332
+2008,8,"Miles","Heuristic","Heuristic",4.4000001,,,"Scientist",.28743315,.28743315,4.2672668,4.6874332
+2008,8,"Pederson","Statistical","Statistical",4.46,,,"Scientist",.2274332,.2274332,4.2672668,4.6874332
+2008,8,"Kauker","Dynamical","Dynamical",4.5300002,,,"Scientist",.15743303,.15743303,4.2672668,4.6874332
+2008,8,"Meier/Stroeve","Mixed","Mixed",4.5599999,,,"Scientist",.1274333,.1274333,4.2672668,4.6874332
+2008,8,"Pokrovsky","Heuristic","Heuristic",4.5999999,,,"Scientist",.087433338,.087433338,4.2672668,4.6874332
+2008,8,"Maslanik/Drobot","Statistical","Statistical",4.8600001,,,"Scientist",-.17256689,.17256689,4.2672668,4.6874332
+2008,8,"Kwok","Heuristic","Heuristic",5,,,"Scientist",-.31256676,.31256676,4.2672668,4.6874332
+2008,8,"Zhang","Dynamical","Dynamical",5.0999999,,,"Scientist",-.41256666,.41256666,4.2672668,4.6874332
+2008,8,"Agnew","Heuristic","Heuristic",5.3000002,,,"Scientist",-.61256695,.61256695,4.2672668,4.6874332
+2008,8,"Bitz","Statistical","Statistical",5.3000002,,,"Scientist",-.61256695,.61256695,4.2672668,4.6874332
+2008,8,"Hori","Heuristic","Heuristic",5.4000001,,,"Scientist",-.71256685,.71256685,4.2672668,4.6874332
+2008,8,"Kaleschke","Statistical","Statistical",5.4000001,,,"Scientist",-.71256685,.71256685,4.2672668,4.6874332
+2008,8,"Stern","Statistical","Statistical",5.5599999,,,"Scientist",-.8725667,.8725667,4.2672668,4.6874332
+2009,6,"Zhang","Dynamical","Dynamical",4.1999998,,,"Scientist",1.0616336,1.0616336,4.6874332,5.2616334
+2009,6,"Oleg Pokrovsky","Dynamical","Dynamical",4.5999999,,,"Scientist",.66163349,.66163349,4.6874332,5.2616334
+2009,6,"Kauker et al","Heuristic","Heuristic",4.5999999,,,"Scientist",.66163349,.66163349,4.6874332,5.2616334
+2009,6,"Stroeve et al","Statistical","Statistical",4.5999999,,,"Scientist",.66163349,.66163349,4.6874332,5.2616334
+2009,6,"Harry Stern","Statistical","Statistical",4.6700001,,,"Scientist",.59163332,.59163332,4.6874332,5.2616334
+2009,6,"Arbetter","Heuristic","Heuristic",4.7399998,,,"Scientist",.52163363,.52163363,4.6874332,5.2616334
+2009,6,"Fowler et al","Statistical","Statistical",4.8899999,,,"Scientist",.37163353,.37163353,4.6874332,5.2616334
+2009,6,"Lindsay et al","Dynamical","Dynamical",4.9000001,,,"Scientist",.3616333,.3616333,4.6874332,5.2616334
+2009,6,"An Nguyen","Dynamical","Dynamical",4.9000001,,,"Scientist",.3616333,.3616333,4.6874332,5.2616334
+2009,6,"Kaleschke and Halfmann","Statistical","Statistical",4.9200001,,,"Scientist",.34163332,.34163332,4.6874332,5.2616334
+2009,6,"Robert Grumbine","Statistical","Statistical",4.9200001,,,"Scientist",.34163332,.34163332,4.6874332,5.2616334
+2009,7,"Lindsay","Dynamical","Dynamical",3.99,,,"Scientist",1.2716334,1.2716334,4.6874332,5.2616334
+2009,7,"Rigor et al (Ensemble I)","Statistical","Statistical",4.1599998,,,"Scientist",1.1016335,1.1016335,4.6874332,5.2616334
+2009,7,"Kauker et al (Ensemble I)","Dynamical","Dynamical",4.4000001,,,"Scientist",.8616333,.8616333,4.6874332,5.2616334
+2009,7,"Arbetter et al","Dynamical","Dynamical",4.5,,,"Scientist",.7616334,.7616334,4.6874332,5.2616334
+2009,7,"Pokrovsky","Heuristic","Heuristic",4.5,,,"Scientist",.7616334,.7616334,4.6874332,5.2616334
+2009,7,"Zhang","Heuristic","Heuristic",4.5,,,"Scientist",.7616334,.7616334,4.6874332,5.2616334
+2009,7,"Lukovich and Barber","Dynamical","Dynamical",4.5999999,,,"Scientist",.66163349,.66163349,4.6874332,5.2616334
+2009,7,"Pemberton et al","Heuristic","Heuristic",4.5999999,,,"Scientist",.66163349,.66163349,4.6874332,5.2616334
+2009,7,"Stroeve et al","Statistical","Statistical",4.5999999,,,"Scientist",.66163349,.66163349,4.6874332,5.2616334
+2009,7,"Stern","Statistical","Statistical",4.6700001,,,"Scientist",.59163332,.59163332,4.6874332,5.2616334
+2009,7,"Kay et al","Heuristic","Heuristic",4.73,,,"Scientist",.53163338,.53163338,4.6874332,5.2616334
+2009,7,"Kauker et al (Ensemble II)","Dynamical","Dynamical",4.9000001,,,"Scientist",.3616333,.3616333,4.6874332,5.2616334
+2009,7,"Kaleschke and Halfmann","Dynamical","Dynamical",4.9200001,,,"Scientist",.34163332,.34163332,4.6874332,5.2616334
+2009,7,"Hori et al","Dynamical","Dynamical",5,,,"Scientist",.2616334,.2616334,4.6874332,5.2616334
+2009,7,"Nguyen et al","Dynamical","Dynamical",5,,,"Scientist",.2616334,.2616334,4.6874332,5.2616334
+2009,7,"Morison and Untersteiner","Heuristic","Heuristic",5.1999998,,,"Scientist",.061633587,.061633587,4.6874332,5.2616334
+2009,8,"Arbetter et al","Heuristic","Heuristic",4.1500001,,,"Scientist",1.1116333,1.1116333,4.6874332,5.2616334
+2009,8,"Rigor et al","Statistical","Statistical",4.3000002,,,"Scientist",.96163321,.96163321,4.6874332,5.2616334
+2009,8,"Nguyen et al","Dynamical","Dynamical",4.4000001,,,"Scientist",.8616333,.8616333,4.6874332,5.2616334
+2009,8,"Kauker et al (Ensemble II)","Dynamical","Dynamical",4.4000001,,,"Scientist",.8616333,.8616333,4.6874332,5.2616334
+2009,8,"Wang","Dynamical","Dynamical",4.5,,,"Scientist",.7616334,.7616334,4.6874332,5.2616334
+2009,8,"Zhang","Heuristic","Heuristic",4.5,,,"Scientist",.7616334,.7616334,4.6874332,5.2616334
+2009,8,"Hori et al","Heuristic","Heuristic",4.5999999,,,"Scientist",.66163349,.66163349,4.6874332,5.2616334
+2009,8,"Pemberton et al","Dynamical","Dynamical",4.6199999,,,"Scientist",.64163351,.64163351,4.6874332,5.2616334
+2009,8,"Stern","Statistical","Statistical",4.6700001,,,"Scientist",.59163332,.59163332,4.6874332,5.2616334
+2009,8,"Meier et al","Heuristic","Heuristic",4.6999998,,,"Scientist",.56163359,.56163359,4.6874332,5.2616334
+2009,8,"Lukovich and Barber","Heuristic","Heuristic",4.6999998,,,"Scientist",.56163359,.56163359,4.6874332,5.2616334
+2009,8,"Kaleschke and Halfmann","Statistical","Statistical",4.9200001,,,"Scientist",.34163332,.34163332,4.6874332,5.2616334
+2009,8,"Lindsay","Statistical","Statistical",4.9400001,,,"Scientist",.32163334,.32163334,4.6874332,5.2616334
+2009,8,"Kauker et al (Ensemble I)","Dynamical","Dynamical",5,,,"Scientist",.2616334,.2616334,4.6874332,5.2616334
+2010,6,"Wilson","Heuristic","Heuristic",1,,,"Citizen",3.8650665,3.8650665,5.2616334,4.8650665
+2010,6,"Maslanik","Heuristic","Heuristic",4.1999998,,,"Scientist",.66506672,.66506672,5.2616334,4.8650665
+2010,6,"Lindsay and Zhang","Statistical","Statistical",4.4000001,,,"Scientist",.46506643,.46506643,5.2616334,4.8650665
+2010,6,"Zhang","Dynamical","Dynamical",4.6999998,,,"Scientist",.16506672,.16506672,5.2616334,4.8650665
+2010,6,"Kaleschke and Spreen","Statistical","Statistical",4.6999998,,,"Scientist",.16506672,.16506672,5.2616334,4.8650665
+2010,6,"Gauthier et al","Dynamical","Dynamical",4.9000001,,,"Scientist",-.034933567,.034933567,5.2616334,4.8650665
+2010,6,"Arbetter et al","Heuristic","Heuristic",4.9000001,,,"Scientist",-.034933567,.034933567,5.2616334,4.8650665
+2010,6,"Wu and Grumbine","Heuristic","Heuristic",4.9000001,,,"Scientist",-.034933567,.034933567,5.2616334,4.8650665
+2010,6,"Polar Science Weekend","Heuristic","Heuristic",5.0999999,,,"Scientist",-.23493338,.23493338,5.2616334,4.8650665
+2010,6,"Wellman","Statistical","Statistical",5.0999999,,,"Citizen",-.23493338,.23493338,5.2616334,4.8650665
+2010,6,"Morison and Untersteiner","Heuristic","Heuristic",5.3000002,,,"Scientist",-.43493366,.43493366,5.2616334,4.8650665
+2010,6,"Rigor et al","Dynamical","Dynamical",5.4000001,,,"Scientist",-.53493357,.53493357,5.2616334,4.8650665
+2010,6,"Kauker et al","Heuristic","Heuristic",5.4000001,,,"Scientist",-.53493357,.53493357,5.2616334,4.8650665
+2010,6,"Povkrovsky","Heuristic","Heuristic",5.5,,,"Scientist",-.63493347,.63493347,5.2616334,4.8650665
+2010,6,"Tivy","Statistical","Statistical",5.6999998,,,"Scientist",-.83493328,.83493328,5.2616334,4.8650665
+2010,7,"Wilson","Heuristic","Heuristic",1,,,"Citizen",3.8650665,3.8650665,5.2616334,4.8650665
+2010,7,"Lindsay and Zhang","Statistical","Statistical",3.96,,,"Scientist",.90506649,.90506649,5.2616334,4.8650665
+2010,7,"Lukovich et al","Heuristic","Heuristic",4,,,"Scientist",.86506653,.86506653,5.2616334,4.8650665
+2010,7,"Petrich","Heuristic","Heuristic",4,,,"Scientist",.86506653,.86506653,5.2616334,4.8650665
+2010,7,"Wellman","Statistical","Statistical",4.1999998,,,"Citizen",.66506672,.66506672,5.2616334,4.8650665
+2010,7,"Arbetter et al","Heuristic","Heuristic",4.27,,,"Scientist",.59506655,.59506655,5.2616334,4.8650665
+2010,7,"Maslanik","Heuristic","Heuristic",4.5,,,"Scientist",.36506653,.36506653,5.2616334,4.8650665
+2010,7,"Meier et al","Statistical","Statistical",4.7399998,,,"Scientist",.12506676,.12506676,5.2616334,4.8650665
+2010,7,"Zhang","Dynamical","Dynamical",4.8000002,,,"Scientist",.065066338,.065066338,5.2616334,4.8650665
+2010,7,"Kay et al.","Heuristic","Heuristic",4.8899999,,,"Scientist",-.024933338,.024933338,5.2616334,4.8650665
+2010,7,"Povkrovsky","Heuristic","Heuristic",4.9000001,,,"Scientist",-.034933567,.034933567,5.2616334,4.8650665
+2010,7,"Kaleschke and Spreen","Statistical","Statistical",5.1999998,,,"Scientist",-.33493328,.33493328,5.2616334,4.8650665
+2010,7,"Rigor et al","Heuristic","Heuristic",5.4000001,,,"Scientist",-.53493357,.53493357,5.2616334,4.8650665
+2010,7,"McLaren et al","Dynamical","Dynamical",5.5,,,"Scientist",-.63493347,.63493347,5.2616334,4.8650665
+2010,7,"Kauker et al","Dynamical","Dynamical",5.5599999,,,"Scientist",-.69493341,.69493341,5.2616334,4.8650665
+2010,7,"Morison and Untersteiner","Heuristic","Heuristic",5.5999999,,,"Scientist",-.73493338,.73493338,5.2616334,4.8650665
+2010,7,"Tivy","Statistical","Statistical",5.6999998,,,"Scientist",-.83493328,.83493328,5.2616334,4.8650665
+2010,8,"Wilson","Heuristic","Heuristic",2.5,,,"Citizen",2.3650665,2.3650665,5.2616334,4.8650665
+2010,8,"Petrich","Heuristic","Heuristic",4,,,"Scientist",.86506653,.86506653,5.2616334,4.8650665
+2010,8,"Lindsay and Zhang","Statistical","Statistical",4,,,"Scientist",.86506653,.86506653,5.2616334,4.8650665
+2010,8,"Arbetter et al","Heuristic","Heuristic",4.5,,,"Scientist",.36506653,.36506653,5.2616334,4.8650665
+2010,8,"Grumbine and Wu","Dynamical","Dynamical",4.5999999,,,"Scientist",.26506662,.26506662,5.2616334,4.8650665
+2010,8,"Zhang","Dynamical","Dynamical",4.8000002,,,"Scientist",.065066338,.065066338,5.2616334,4.8650665
+2010,8,"Hamilton","Statistical","Statistical",4.8000002,,,"Scientist",.065066338,.065066338,5.2616334,4.8650665
+2010,8,"Povkrovsky","Heuristic","Heuristic",4.9000001,,,"Scientist",-.034933567,.034933567,5.2616334,4.8650665
+2010,8,"Wang and Bai","Statistical","Statistical",4.9000001,,,"Scientist",-.034933567,.034933567,5.2616334,4.8650665
+2010,8,"Shibata et al","Heuristic","Heuristic",5,,,"Scientist",-.13493347,.13493347,5.2616334,4.8650665
+2010,8,"Lukovich et al","Heuristic","Heuristic",5,,,"Scientist",-.13493347,.13493347,5.2616334,4.8650665
+2010,8,"Meier et al","Statistical","Statistical",5,,,"Scientist",-.13493347,.13493347,5.2616334,4.8650665
+2010,8,"Goddard","Heuristic","Heuristic",5.0999999,,,"Citizen",-.23493338,.23493338,5.2616334,4.8650665
+2010,8,"Rigor et al","Heuristic","Heuristic",5.4000001,,,"Scientist",-.53493357,.53493357,5.2616334,4.8650665
+2010,8,"Kaleschke and Spreen","Statistical","Statistical",5.4000001,,,"Scientist",-.53493357,.53493357,5.2616334,4.8650665
+2010,8,"McLaren et al","Dynamical","Dynamical",5.5,,,"Scientist",-.63493347,.63493347,5.2616334,4.8650665
+2010,8,"Morison and Untersteiner","Dynamical","Dynamical",5.5999999,,,"Scientist",-.73493338,.73493338,5.2616334,4.8650665
+2010,8,"Kauker et al","Heuristic","Heuristic",5.5999999,,,"Scientist",-.73493338,.73493338,5.2616334,4.8650665
+2011,6,"Peterson","Dynamical","Dynamical",4,,,"Scientist",.56133318,.56133318,4.8650665,4.5613332
+2011,6,"Wadhams","Dynamical","Dynamical",4.0999999,,,"Scientist",.46133327,.46133327,4.8650665,4.5613332
+2011,6,"Zhang","Heuristic","Heuristic",4.0999999,,,"Scientist",.46133327,.46133327,4.8650665,4.5613332
+2011,6,"Andersen","Statistical","Statistical",4.0999999,,,"Scientist",.46133327,.46133327,4.8650665,4.5613332
+2011,6,"Grumbine","Statistical","Statistical",4.0999999,,,"Scientist",.46133327,.46133327,4.8650665,4.5613332
+2011,6,"Hamilton","Statistical","Statistical",4.4000001,,,"Scientist",.16133308,.16133308,4.8650665,4.5613332
+2011,6,"Tivy","Statistical","Statistical",4.5,,,"Scientist",.061333179,.061333179,4.8650665,4.5613332
+2011,6,"Lukovich","Heuristic","Heuristic",4.5999999,,,"Scientist",-.038666725,.038666725,4.8650665,4.5613332
+2011,6,"Folkerts","Statistical","Statistical",4.6999998,,,"Scientist",-.13866663,.13866663,4.8650665,4.5613332
+2011,6,"Stroeve et al","Statistical","Statistical",4.6999998,,,"Scientist",-.13866663,.13866663,4.8650665,4.5613332
+2011,6,"Morison","Heuristic","Heuristic",4.8000002,,,"Scientist",-.23866701,.23866701,4.8650665,4.5613332
+2011,6,"Beitsch","Statistical","Statistical",4.8000002,,,"Scientist",-.23866701,.23866701,4.8650665,4.5613332
+2011,6,"Lindsay","Statistical","Statistical",4.9000001,,,"Scientist",-.33866692,.33866692,4.8650665,4.5613332
+2011,6,"Wang","Dynamical","Dynamical",5,,,"Scientist",-.43866682,.43866682,4.8650665,4.5613332
+2011,6,"Canadian Ice Service","Statistical","Statistical",5,,,"Scientist",-.43866682,.43866682,4.8650665,4.5613332
+2011,6,"Kauker","Dynamical","Dynamical",5.4000001,,,"Scientist",-.83866692,.83866692,4.8650665,4.5613332
+2011,6,"WattsUpWithThat.com","Heuristic","Heuristic",5.5,,,"Citizen",-.93866682,.93866682,4.8650665,4.5613332
+2011,6,"Egan","Heuristic","Heuristic",5.5999999,,,"Scientist",-1.0386667,1.0386667,4.8650665,4.5613332
+2011,7,"Peterson et al","Dynamical","Dynamical",4,,,"Scientist",.56133318,.56133318,4.8650665,4.5613332
+2011,7,"Lindsay and Zhang","Statistical","Statistical",4.0999999,,,"Scientist",.46133327,.46133327,4.8650665,4.5613332
+2011,7,"Folkerts","Statistical","Statistical",4.1999998,,,"Scientist",.36133337,.36133337,4.8650665,4.5613332
+2011,7,"Zhang","Dynamical","Dynamical",4.3000002,,,"Scientist",.26133299,.26133299,4.8650665,4.5613332
+2011,7,"Randles","Statistical","Statistical",4.4000001,,,"Citizen",.16133308,.16133308,4.8650665,4.5613332
+2011,7,"Hamilton","Statistical","Statistical",4.4000001,,,"Scientist",.16133308,.16133308,4.8650665,4.5613332
+2011,7,"Lukovich et al","Dynamical","Dynamical",4.5999999,,,"Scientist",-.038666725,.038666725,4.8650665,4.5613332
+2011,7,"Blanchard-Wrigglesworth","Heuristic","Heuristic",4.5999999,,,"Scientist",-.038666725,.038666725,4.8650665,4.5613332
+2011,7,"Canadian Ice Service","Heuristic","Heuristic",4.6999998,,,"Scientist",-.13866663,.13866663,4.8650665,4.5613332
+2011,7,"Meier et al","Statistical","Statistical",4.6999998,,,"Scientist",-.13866663,.13866663,4.8650665,4.5613332
+2011,7,"Beitsch et al","Statistical","Statistical",4.6999998,,,"Scientist",-.13866663,.13866663,4.8650665,4.5613332
+2011,7,"Morison and Untersteiner","Heuristic","Heuristic",4.8000002,,,"Scientist",-.23866701,.23866701,4.8650665,4.5613332
+2011,7,"WattsUpWithThat.com","Heuristic","Heuristic",5.0999999,,,"Citizen",-.53866673,.53866673,4.8650665,4.5613332
+2011,7,"Kauker et al","Dynamical","Dynamical",5.5,,,"Scientist",-.93866682,.93866682,4.8650665,4.5613332
+2011,8,"Wadhams","Heuristic","Heuristic",3.96,,,"Scientist",.60133314,.60133314,4.8650665,4.5613332
+2011,8,"Peterson et al","Dynamical","Dynamical",4,,,"Scientist",.56133318,.56133318,4.8650665,4.5613332
+2011,8,"Lindsay and Zhang","Statistical","Statistical",4.0999999,,,"Scientist",.46133327,.46133327,4.8650665,4.5613332
+2011,8,"Andersen","Statistical","Statistical",4.0999999,,,"Scientist",.46133327,.46133327,4.8650665,4.5613332
+2011,8,"Folkerts","Statistical","Statistical",4.1999998,,,"Scientist",.36133337,.36133337,4.8650665,4.5613332
+2011,8,"Randles","Statistical","Statistical",4.3000002,,,"Citizen",.26133299,.26133299,4.8650665,4.5613332
+2011,8,"Lukovich et al","Heuristic","Heuristic",4.4000001,,,"Scientist",.16133308,.16133308,4.8650665,4.5613332
+2011,8,"Hamilton","Statistical","Statistical",4.4000001,,,"Scientist",.16133308,.16133308,4.8650665,4.5613332
+2011,8,"Arbetter et al","Statistical","Statistical",4.5,,,"Scientist",.061333179,.061333179,4.8650665,4.5613332
+2011,8,"Meier et al","Statistical","Statistical",4.5,,,"Scientist",.061333179,.061333179,4.8650665,4.5613332
+2011,8,"Wu et al","Dynamical","Dynamical",4.5999999,,,"Scientist",-.038666725,.038666725,4.8650665,4.5613332
+2011,8,"Blanchard-Wrigglesworth","Dynamical","Dynamical",4.5999999,,,"Scientist",-.038666725,.038666725,4.8650665,4.5613332
+2011,8,"Zhang","Dynamical","Dynamical",4.5999999,,,"Scientist",-.038666725,.038666725,4.8650665,4.5613332
+2011,8,"Liljegren","Statistical","Statistical",4.5999999,,,"Scientist",-.038666725,.038666725,4.8650665,4.5613332
+2011,8,"Beitsch et al","Statistical","Statistical",4.5999999,,,"Citizen",-.038666725,.038666725,4.8650665,4.5613332
+2011,8,"Canadian Ice Service","Heuristic","Heuristic",4.6999998,,,"Scientist",-.13866663,.13866663,4.8650665,4.5613332
+2011,8,"Stroeve et al","Statistical","Statistical",4.6999998,,,"Scientist",-.13866663,.13866663,4.8650665,4.5613332
+2011,8,"Morison and Untersteiner","Heuristic","Heuristic",4.8000002,,,"Scientist",-.23866701,.23866701,4.8650665,4.5613332
+2011,8,"WattsUpWithThat.com","Heuristic","Heuristic",5,,,"Citizen",-.43866682,.43866682,4.8650665,4.5613332
+2011,8,"Kauker et al","Dynamical","Dynamical",5.1999998,,,"Scientist",-.63866663,.63866663,4.8650665,4.5613332
+2011,8,"Shibata et al","Heuristic","Heuristic",5.4000001,,,"Scientist",-.83866692,.83866692,4.8650665,4.5613332
+2012,6,"Andersen","Statistical","Statistical",4.0999999,,,"Scientist",-.53439999,.53439999,4.5613332,3.5655999
+2012,6,"Morison","Heuristic","Heuristic",4.1999998,,,"Scientist",-.63439989,.63439989,4.5613332,3.5655999
+2012,6,"Lukovich et al","Heuristic","Heuristic",4.3000002,,,"Scientist",-.73440027,.73440027,4.5613332,3.5655999
+2012,6,"Hamilton","Statistical","Statistical",4.3000002,,,"Scientist",-.73440027,.73440027,4.5613332,3.5655999
+2012,6,"Randles*","Statistical","Statistical",4.3000002,,,"Citizen",-.73440027,.73440027,4.5613332,3.5655999
+2012,6,"Arbetter","Statistical","Statistical",4.3000002,,,"Scientist",-.73440027,.73440027,4.5613332,3.5655999
+2012,6,"Zhang and Lindsay","Dynamical","Dynamical",4.4000001,,,"Scientist",-.83440018,.83440018,4.5613332,3.5655999
+2012,6,"Keen et al","Dynamical","Dynamical",4.4000001,,,"Scientist",-.83440018,.83440018,4.5613332,3.5655999
+2012,6,"Grumbine et al","Statistical","Statistical",4.4000001,,,"Scientist",-.83440018,.83440018,4.5613332,3.5655999
+2012,6,"Folkerts","Statistical","Statistical",4.4000001,,,"Scientist",-.83440018,.83440018,4.5613332,3.5655999
+2012,6,"Stroeve et al","Statistical","Statistical",4.5999999,,,"Scientist",-1.0344,1.0344,4.5613332,3.5655999
+2012,6,"Cawley*","Statistical","Statistical",4.5999999,,,"Citizen",-1.0344,1.0344,4.5613332,3.5655999
+2012,6,"Canadian Ice Service","Heuristic","Heuristic",4.6999998,,,"Scientist",-1.1343999,1.1343999,4.5613332,3.5655999
+2012,6,"Chylek","Statistical","Statistical",4.6999998,,,"Scientist",-1.1343999,1.1343999,4.5613332,3.5655999
+2012,6,"Beitsch et al","Statistical","Statistical",4.6999998,,,"Scientist",-1.1343999,1.1343999,4.5613332,3.5655999
+2012,6,"Wu et al","Dynamical","Dynamical",4.8000002,,,"Scientist",-1.2344003,1.2344003,4.5613332,3.5655999
+2012,6,"WattsUpWithThat.com*","Heuristic","Heuristic",4.9000001,,,"Citizen",-1.3344002,1.3344002,4.5613332,3.5655999
+2012,6,"Wang et al","Dynamical","Dynamical",4.9000001,,,"Scientist",-1.3344002,1.3344002,4.5613332,3.5655999
+2012,6,"Blanchard-Wrigglesworth","Dynamical","Dynamical",4.9000001,,,"Scientist",-1.3344002,1.3344002,4.5613332,3.5655999
+2012,7,"Randles*","Statistical","Statistical",4,,,"Citizen",-.43440008,.43440008,4.5613332,3.5655999
+2012,7,"Andersen","Statistical","Statistical",4.0999999,,,"Scientist",-.53439999,.53439999,4.5613332,3.5655999
+2012,7,"Arbetter","Statistical","Statistical",4.0999999,,,"Scientist",-.53439999,.53439999,4.5613332,3.5655999
+2012,7,"Folkerts","Statistical","Statistical",4.0999999,,,"Scientist",-.53439999,.53439999,4.5613332,3.5655999
+2012,7,"Zhang and Lindsay","Dynamical","Dynamical",4.1999998,,,"Scientist",-.63439989,.63439989,4.5613332,3.5655999
+2012,7,"Morison","Heuristic","Heuristic",4.1999998,,,"Scientist",-.63439989,.63439989,4.5613332,3.5655999
+2012,7,"Lukovich et al","Heuristic","Heuristic",4.3000002,,,"Scientist",-.73440027,.73440027,4.5613332,3.5655999
+2012,7,"Hamilton","Statistical","Statistical",4.3000002,,,"Scientist",-.73440027,.73440027,4.5613332,3.5655999
+2012,7,"Keen et al","Dynamical","Dynamical",4.4000001,,,"Scientist",-.83440018,.83440018,4.5613332,3.5655999
+2012,7,"Grumbine et al","Statistical","Statistical",4.4000001,,,"Scientist",-.83440018,.83440018,4.5613332,3.5655999
+2012,7,"WattsUpWithThat.com*","Heuristic","Heuristic",4.5999999,,,"Citizen",-1.0344,1.0344,4.5613332,3.5655999
+2012,7,"Meier et al","Statistical","Statistical",4.5999999,,,"Scientist",-1.0344,1.0344,4.5613332,3.5655999
+2012,7,"Stroeve et al","Statistical","Statistical",4.5999999,,,"Scientist",-1.0344,1.0344,4.5613332,3.5655999
+2012,7,"Cawley*","Statistical","Statistical",4.5999999,,,"Citizen",-1.0344,1.0344,4.5613332,3.5655999
+2012,7,"Kauker et al","Dynamical","Dynamical",4.6999998,,,"Scientist",-1.1343999,1.1343999,4.5613332,3.5655999
+2012,7,"Wu et al","Dynamical","Dynamical",4.6999998,,,"Scientist",-1.1343999,1.1343999,4.5613332,3.5655999
+2012,7,"Canadian Ice Service","Heuristic","Heuristic",4.6999998,,,"Scientist",-1.1343999,1.1343999,4.5613332,3.5655999
+2012,7,"Naval Research Lab","Dynamical","Dynamical",4.8000002,,,"Scientist",-1.2344003,1.2344003,4.5613332,3.5655999
+2012,7,"Blanchard-Wrigglesworth","Dynamical","Dynamical",4.9000001,,,"Scientist",-1.3344002,1.3344002,4.5613332,3.5655999
+2012,7,"Wang et al","Dynamical","Dynamical",4.9000001,,,"Scientist",-1.3344002,1.3344002,4.5613332,3.5655999
+2012,7,"Beitsch et al","Statistical","Statistical",5,,,"Scientist",-1.4344001,1.4344001,4.5613332,3.5655999
+2012,8,"Wang et al","Dynamical","Dynamical",3.9000001,,,"Scientist",-.33440018,.33440018,4.5613332,3.5655999
+2012,8,"Klazes*","Statistical","Statistical",4,,,"Citizen",-.43440008,.43440008,4.5613332,3.5655999
+2012,8,"Arbetter","Statistical","Statistical",4,,,"Scientist",-.43440008,.43440008,4.5613332,3.5655999
+2012,8,"Hamilton","Statistical","Statistical",4,,,"Scientist",-.43440008,.43440008,4.5613332,3.5655999
+2012,8,"Andersen","Statistical","Statistical",4.0999999,,,"Scientist",-.53439999,.53439999,4.5613332,3.5655999
+2012,8,"Folkerts","Statistical","Statistical",4.0999999,,,"Scientist",-.53439999,.53439999,4.5613332,3.5655999
+2012,8,"Beitsch et al","Statistical","Statistical",4.0999999,,,"Scientist",-.53439999,.53439999,4.5613332,3.5655999
+2012,8,"Morison","Heuristic","Heuristic",4.1999998,,,"Scientist",-.63439989,.63439989,4.5613332,3.5655999
+2012,8,"Randles*","Statistical","Statistical",4.1999998,,,"Citizen",-.63439989,.63439989,4.5613332,3.5655999
+2012,8,"Lukovich et al","Dynamical","Dynamical",4.3000002,,,"Scientist",-.73440027,.73440027,4.5613332,3.5655999
+2012,8,"Netweather.tv*","Heuristic","Heuristic",4.3000002,,,"Citizen",-.73440027,.73440027,4.5613332,3.5655999
+2012,8,"Naval Research Lab","Heuristic","Heuristic",4.3000002,,,"Scientist",-.73440027,.73440027,4.5613332,3.5655999
+2012,8,"Zhang and Lindsay","Dynamical","Dynamical",4.4000001,,,"Scientist",-.83440018,.83440018,4.5613332,3.5655999
+2012,8,"Keen et al","Dynamical","Dynamical",4.4000001,,,"Scientist",-.83440018,.83440018,4.5613332,3.5655999
+2012,8,"WattsUpWithThat.com*","Heuristic","Heuristic",4.5,,,"Citizen",-.93440008,.93440008,4.5613332,3.5655999
+2012,8,"Kauker et al","Heuristic","Heuristic",4.5,,,"Scientist",-.93440008,.93440008,4.5613332,3.5655999
+2012,8,"Meier et al","Dynamical","Dynamical",4.5,,,"Scientist",-.93440008,.93440008,4.5613332,3.5655999
+2012,8,"Stroeve et al","Statistical","Statistical",4.5999999,,,"Scientist",-1.0344,1.0344,4.5613332,3.5655999
+2012,8,"Kay et al","Heuristic","Heuristic",4.6999998,,,"Scientist",-1.1343999,1.1343999,4.5613332,3.5655999
+2012,8,"Canadian Ice Service","Heuristic","Heuristic",4.6999998,,,"Scientist",-1.1343999,1.1343999,4.5613332,3.5655999
+2012,8,"Wu et al","Dynamical","Dynamical",4.6999998,,,"Scientist",-1.1343999,1.1343999,4.5613332,3.5655999
+2012,8,"Tivy","Statistical","Statistical",4.6999998,,,"Scientist",-1.1343999,1.1343999,4.5613332,3.5655999
+2012,8,"Blanchard-Wrigglesworth","Dynamical","Dynamical",4.9000001,,,"Scientist",-1.3344002,1.3344002,4.5613332,3.5655999
+2013,6,"UK Met Office","Dynamical","Dynamical",3.4000001,,,"Scientist",1.8082666,1.8082666,3.5655999,5.2082667
+2013,6,"Kauker et al","Dynamical","Dynamical",3.5,,,"Scientist",1.7082667,1.7082667,3.5655999,5.2082667
+2013,6,"Del Rio*","Statistical","Statistical",3.5,,,"Citizen",1.7082667,1.7082667,3.5655999,5.2082667
+2013,6,"Klazes*","Statistical","Statistical",3.5999999,,,"Citizen",1.6082668,1.6082668,3.5655999,5.2082667
+2013,6,"Morison","Heuristic","Heuristic",3.7,,,"Scientist",1.5082667,1.5082667,3.5655999,5.2082667
+2013,6,"Canadian Ice Service","Heuristic","Heuristic",3.8,,,"Scientist",1.4082668,1.4082668,3.5655999,5.2082667
+2013,6,"Andersen","Statistical","Statistical",3.8,,,"Scientist",1.4082668,1.4082668,3.5655999,5.2082667
+2013,6,"Hamilton","Statistical","Statistical",3.8,,,"Scientist",1.4082668,1.4082668,3.5655999,5.2082667
+2013,6,"Grumbine et al","Statistical","Statistical",3.9000001,,,"Scientist",1.3082666,1.3082666,3.5655999,5.2082667
+2013,6,"Asplin et al","Heuristic","Heuristic",4,,,"Scientist",1.2082667,1.2082667,3.5655999,5.2082667
+2013,6,"Wu et al","Dynamical","Dynamical",4.0999999,,,"Scientist",1.1082668,1.1082668,3.5655999,5.2082667
+2013,6,"Cawley*","Statistical","Statistical",4.0999999,,,"Scientist",1.1082668,1.1082668,3.5655999,5.2082667
+2013,6,"Hawkins et al/APPOSITE","Statistical","Statistical",4.0999999,,,"Scientist",1.1082668,1.1082668,3.5655999,5.2082667
+2013,6,"Hayes/Netweather.tv*","Heuristic","Heuristic",4.1999998,,,"Citizen",1.0082669,1.0082669,3.5655999,5.2082667
+2013,6,"Stroeve et al","Statistical","Statistical",4.1999998,,,"Scientist",1.0082669,1.0082669,3.5655999,5.2082667
+2013,6,"Zhang and Lindsay","Dynamical","Dynamical",4.3000002,,,"Scientist",.90826654,.90826654,3.5655999,5.2082667
+2013,6,"Wang et al","Dynamical","Dynamical",4.4000001,,,"Scientist",.80826664,.80826664,3.5655999,5.2082667
+2013,6,"Cullather et al/NASA GMAO","Dynamical","Dynamical",4.4000001,,,"Scientist",.80826664,.80826664,3.5655999,5.2082667
+2013,6,"Arbetter","Statistical","Statistical",4.6999998,,,"Scientist",.50826693,.50826693,3.5655999,5.2082667
+2013,6,"WattsUpWithThat.com*","Heuristic","Heuristic",4.8000002,,,"Citizen",.40826654,.40826654,3.5655999,5.2082667
+2013,6,"Naval Research Lab","Dynamical","Dynamical",4.9000001,,,"Scientist",.30826664,.30826664,3.5655999,5.2082667
+2013,6,"Barthelemy et al","Dynamical","Dynamical",5,,,"Scientist",.20826674,.20826674,3.5655999,5.2082667
+2013,6,"Shaw*","Heuristic","Heuristic",6,,,"Citizen",-.79173326,.79173326,3.5655999,5.2082667
+2013,7,"Arctic Sea Ice blog*","Heuristic","Heuristic",3.2,,,"Citizen",2.0082667,2.0082667,3.5655999,5.2082667
+2013,7,"UK Met Office","Dynamical","Dynamical",3.4000001,,,"Scientist",1.8082666,1.8082666,3.5655999,5.2082667
+2013,7,"Klazes*","Statistical","Statistical",3.5999999,,,"Citizen",1.6082668,1.6082668,3.5655999,5.2082667
+2013,7,"Morison","Heuristic","Heuristic",3.7,,,"Scientist",1.5082667,1.5082667,3.5655999,5.2082667
+2013,7,"Cullather et al/NASA GMAO","Dynamical","Dynamical",3.7,,,"Scientist",1.5082667,1.5082667,3.5655999,5.2082667
+2013,7,"Canadian Ice Service","Heuristic","Heuristic",3.8,,,"Scientist",1.4082668,1.4082668,3.5655999,5.2082667
+2013,7,"Hamilton","Statistical","Statistical",3.8,,,"Scientist",1.4082668,1.4082668,3.5655999,5.2082667
+2013,7,"Andersen","Statistical","Statistical",3.8,,,"Scientist",1.4082668,1.4082668,3.5655999,5.2082667
+2013,7,"Grumbine et al","Statistical","Statistical",3.9000001,,,"Scientist",1.3082666,1.3082666,3.5655999,5.2082667
+2013,7,"Asplin et al","Heuristic","Heuristic",4,,,"Scientist",1.2082667,1.2082667,3.5655999,5.2082667
+2013,7,"Zhang and Lindsay","Dynamical","Dynamical",4,,,"Scientist",1.2082667,1.2082667,3.5655999,5.2082667
+2013,7,"Kauker et al","Dynamical","Dynamical",4,,,"Scientist",1.2082667,1.2082667,3.5655999,5.2082667
+2013,7,"Hawkins et al","Statistical","Statistical",4.0999999,,,"Scientist",1.1082668,1.1082668,3.5655999,5.2082667
+2013,7,"Naval Research Lab","Dynamical","Dynamical",4.3000002,,,"Scientist",.90826654,.90826654,3.5655999,5.2082667
+2013,7,"Wang et al","Dynamical","Dynamical",4.4000001,,,"Scientist",.80826664,.80826664,3.5655999,5.2082667
+2013,7,"Arbetter & Potts","Statistical","Statistical",4.5999999,,,"Scientist",.60826683,.60826683,3.5655999,5.2082667
+2013,7,"Wu et al","Dynamical","Dynamical",4.6999998,,,"Scientist",.50826693,.50826693,3.5655999,5.2082667
+2013,7,"Faustusnotes Blog*","Statistical","Statistical",4.6999998,,,"Citizen",.50826693,.50826693,3.5655999,5.2082667
+2013,7,"Barthelemy et al","Dynamical","Dynamical",5,,,"Scientist",.20826674,.20826674,3.5655999,5.2082667
+2013,7,"Meier et al","Statistical","Statistical",5.0999999,,,"Scientist",.10826683,.10826683,3.5655999,5.2082667
+2013,7,"Msadek et al","Dynamical","Dynamical",5.9000001,,,"Scientist",-.69173336,.69173336,3.5655999,5.2082667
+2013,8,"Arctic Sea Ice blog*","Heuristic","Heuristic",3.5999999,,,"Citizen",1.6082668,1.6082668,3.5655999,5.2082667
+2013,8,"NCAR ensemble","Heuristic","Heuristic",3.8,,,"Scientist",1.4082668,1.4082668,3.5655999,5.2082667
+2013,8,"Hamilton","Statistical","Statistical",3.8,,,"Scientist",1.4082668,1.4082668,3.5655999,5.2082667
+2013,8,"Canadian Ice Service","Heuristic","Heuristic",4.0500002,,,"Scientist",1.1582665,1.1582665,3.5655999,5.2082667
+2013,8,"Naval Research Lab","Dynamical","Dynamical",4.1399999,,,"Scientist",1.0682669,1.0682669,3.5655999,5.2082667
+2013,8,"Wang et al","Dynamical","Dynamical",4.1999998,,,"Scientist",1.0082669,1.0082669,3.5655999,5.2082667
+2013,8,"Morison","Heuristic","Heuristic",4.5,,,"Scientist",.70826674,.70826674,3.5655999,5.2082667
+2013,8,"Wu et al","Dynamical","Dynamical",4.5999999,,,"Scientist",.60826683,.60826683,3.5655999,5.2082667
+2013,8,"Arbetter & Potts","Heuristic","Heuristic",4.73,,,"Scientist",.47826672,.47826672,3.5655999,5.2082667
+2013,8,"Meier","Statistical","Statistical",4.7800002,,,"Scientist",.42826653,.42826653,3.5655999,5.2082667
+2013,8,"WattsUpWithThat.com*","Heuristic","Heuristic",4.8000002,,,"Citizen",.40826654,.40826654,3.5655999,5.2082667
+2013,8,"Slater","Statistical","Statistical",5.0300002,,,"Scientist",.17826653,.17826653,3.5655999,5.2082667
+2013,8,"Barthelemy et al","Dynamical","Dynamical",5.0999999,,,"Scientist",.10826683,.10826683,3.5655999,5.2082667
+2013,8,"Msadekk et al","Dynamical","Dynamical",5.8000002,,,"Scientist",-.59173346,.59173346,3.5655999,5.2082667
+2014,6,"Rennie","Heuristic","Heuristic",3.2,,,"Scientist",2.0199335,2.0199335,5.2082667,5.2199335
+2014,6,"Beckwith","Heuristic","Heuristic",3.3,,,"Scientist",1.9199336,1.9199336,5.2082667,5.2199335
+2014,6,"Kauker et al (AWI/OASys)","Dynamical","Dynamical",3.7,,,"Scientist",1.5199335,1.5199335,5.2082667,5.2199335
+2014,6,"Andersen","Mixed","Heuristic",4,,,"Scientist",1.2199335,1.2199335,5.2082667,5.2199335
+2014,6,"Met Office (Peterson et al)","Dynamical","Dynamical",4.0999999,,,"Scientist",1.1199336,1.1199336,5.2082667,5.2199335
+2014,6,"Reynolds","Statistical","Statistical",4.0999999,,,"Scientist",1.1199336,1.1199336,5.2082667,5.2199335
+2014,6,"Hamilton","Statistical","Statistical",4.0999999,,,"Scientist",1.1199336,1.1199336,5.2082667,5.2199335
+2014,6,"Naval Research Lab/Posey et al","Dynamical","Dynamical",4.1999998,,,"Scientist",1.0199337,1.0199337,5.2082667,5.2199335
+2014,6,"Cawley*","Statistical","Statistical",4.3000002,,,"Citizen",.91993332,.91993332,5.2082667,5.2199335
+2014,6,"Blanchard-Wrigglesworth et al.","Dynamical","Dynamical",4.4000001,,,"Scientist",.81993341,.81993341,5.2082667,5.2199335
+2014,6,"Slater","Mixed","Statistical",4.5,,,"Scientist",.71993351,.71993351,5.2082667,5.2199335
+2014,6,"Zhang and Lindsay","Dynamical","Dynamical",4.5999999,,,"Scientist",.61993361,.61993361,5.2082667,5.2199335
+2014,6,"Dekker*","Statistical","Statistical",4.5999999,,,"Citizen",.61993361,.61993361,5.2082667,5.2199335
+2014,6,"Barthelemy et al","Dynamical","Dynamical",4.6999998,,,"Scientist",.5199337,.5199337,5.2082667,5.2199335
+2014,6,"Suckling","Statistical","Statistical",4.6999998,,,"Scientist",.5199337,.5199337,5.2082667,5.2199335
+2014,6,"Wu et al","Dynamical","Dynamical",4.8000002,,,"Scientist",.41993332,.41993332,5.2082667,5.2199335
+2014,6,"Kapsch et al","Statistical","Statistical",4.8000002,,,"Scientist",.41993332,.41993332,5.2082667,5.2199335
+2014,6,"Canadian Ice Service","Mixed","Statistical",4.9000001,,,"Scientist",.31993341,.31993341,5.2082667,5.2199335
+2014,6,"GFDL/NOAA (Msadek et al)","Dynamical","Dynamical",5,,,"Scientist",.21993351,.21993351,5.2082667,5.2199335
+2014,6,"Bosse*","Statistical","Statistical",5,,,"Citizen",.21993351,.21993351,5.2082667,5.2199335
+2014,6,"Stroeve et al/NSIDC","Statistical","Statistical",5,,,"Scientist",.21993351,.21993351,5.2082667,5.2199335
+2014,6,"Yuan et al","Statistical","Statistical",5.1999998,,,"Scientist",.019933701,.019933701,5.2082667,5.2199335
+2014,6,"NASA GMAO/Cullather et al","Dynamical","Dynamical",5.3000002,,,"Scientist",-.080066681,.080066681,5.2082667,5.2199335
+2014,6,"Global Weather & Climate Logistics","Statistical","Statistical",5.3000002,,,"Scientist",-.080066681,.080066681,5.2082667,5.2199335
+2014,6,"CPOM/Schroeder et al","Statistical","Statistical",5.4000001,,,"Scientist",-.18006659,.18006659,5.2082667,5.2199335
+2014,6,"Slater - Persistence","Heuristic","Heuristic",5.5,,,"Scientist",-.28006649,.28006649,5.2082667,5.2199335
+2014,6,"WattsUpWithThat.com*","Heuristic","Heuristic",6.0999999,,,"Scientist",-.88006639,.88006639,5.2082667,5.2199335
+2014,6,"Wang","Dynamical","Dynamical",6.3000002,,,"Scientist",-1.0800667,1.0800667,5.2082667,5.2199335
+2014,7,"Rennie*","Heuristic","Heuristic",3.2,,,"Citizen",2.0199335,2.0199335,5.2082667,5.2199335
+2014,7,"Kauker et al. (AWI/OASys)","Dynamical","Dynamical",3.8699999,,,"Scientist",1.3499336,1.3499336,5.2082667,5.2199335
+2014,7,"Andersen","Mixed","Heuristic",4,,,"Scientist",1.2199335,1.2199335,5.2082667,5.2199335
+2014,7,"Hamilton","Statistical","Statistical",4.0999999,,,"Scientist",1.1199336,1.1199336,5.2082667,5.2199335
+2014,7,"NRL ACNFS","Dynamical","Dynamical",4.1999998,,,"Scientist",1.0199337,1.0199337,5.2082667,5.2199335
+2014,7,"Cawley*","Statistical","Statistical",4.27,,,"Scientist",.94993353,.94993353,5.2082667,5.2199335
+2014,7,"Kay et al. (NCAR)","Heuristic","Heuristic",4.3800001,,,"Scientist",.8399334,.8399334,5.2082667,5.2199335
+2014,7,"Blanchard-Wrigglesworth et al.","Dynamical","Dynamical",4.3899999,,,"Scientist",.82993364,.82993364,5.2082667,5.2199335
+2014,7,"Morison","Heuristic","Heuristic",4.4000001,,,"Scientist",.81993341,.81993341,5.2082667,5.2199335
+2014,7,"Meier","Statistical","Statistical",4.52,,,"Scientist",.69993353,.69993353,5.2082667,5.2199335
+2014,7,"Suckling","Statistical","Statistical",4.6700001,,,"Scientist",.54993343,.54993343,5.2082667,5.2199335
+2014,7,"*Dekker","Statistical","Statistical",4.6999998,,,"Citizen",.5199337,.5199337,5.2082667,5.2199335
+2014,7,"Kapsch et al.","Statistical","Statistical",4.75,,,"Scientist",.46993351,.46993351,5.2082667,5.2199335
+2014,7,"Stroeve et al.","Statistical","Statistical",4.7600002,,,"Scientist",.45993328,.45993328,5.2082667,5.2199335
+2014,7,"NRL GOFS","Dynamical","Dynamical",4.8000002,,,"Scientist",.41993332,.41993332,5.2082667,5.2199335
+2014,7,"Zhang and Lindsay","Dynamical","Dynamical",4.8000002,,,"Scientist",.41993332,.41993332,5.2082667,5.2199335
+2014,7,"Slater","Statistical","Statistical",4.8499999,,,"Scientist",.36993361,.36993361,5.2082667,5.2199335
+2014,7,"Canadian Ice Service","Mixed","Statistical",4.9000001,,,"Scientist",.31993341,.31993341,5.2082667,5.2199335
+2014,7,"Barthelemy et al.","Dynamical","Dynamical",5,,,"Scientist",.21993351,.21993351,5.2082667,5.2199335
+2014,7,"Bosse*","Statistical","Statistical",5,,,"Citizen",.21993351,.21993351,5.2082667,5.2199335
+2014,7,"Yuan et al.","Statistical","Statistical",5.0100002,,,"Scientist",.20993328,.20993328,5.2082667,5.2199335
+2014,7,"GFDL NOAA (Msadek et al.)","Dynamical","Dynamical",5.0500002,,,"Scientist",.16993332,.16993332,5.2082667,5.2199335
+2014,7,"Wu et al.","Dynamical","Dynamical",5.0999999,,,"Scientist",.11993361,.11993361,5.2082667,5.2199335
+2014,7,"Li and Li","Statistical","Statistical",5.3699999,,,"Scientist",-.15006638,.15006638,5.2082667,5.2199335
+2014,7,"Global Weather & Climate Logistics","Statistical","Statistical",5.3899999,,,"Scientist",-.17006636,.17006636,5.2082667,5.2199335
+2014,7,"Slater-Persistence","Statistical","Statistical",5.5,,,"Scientist",-.28006649,.28006649,5.2082667,5.2199335
+2014,7,"CPOM (Schroeder et al.)","Statistical","Statistical",5.5100002,,,"Scientist",-.29006672,.29006672,5.2082667,5.2199335
+2014,7,"Wang","Dynamical","Dynamical",5.9000001,,,"Scientist",-.68006659,.68006659,5.2082667,5.2199335
+2014,8,"Andersen","Mixed","Heuristic",4,,,"Scientist",1.2199335,1.2199335,5.2082667,5.2199335
+2014,8,"Kauker et al. (AWI/OASys)","Dynamical","Dynamical",4,,,"Scientist",1.2199335,1.2199335,5.2082667,5.2199335
+2014,8,"NRL ACNFS","Dynamical","Dynamical",4.0999999,,,"Scientist",1.1199336,1.1199336,5.2082667,5.2199335
+2014,8,"Rennie*","Heuristic","Heuristic",4.4000001,,,"Citizen",.81993341,.81993341,5.2082667,5.2199335
+2014,8,"Blanchard-Wrigglesworth et al.","Dynamical","Dynamical",4.4000001,,,"Scientist",.81993341,.81993341,5.2082667,5.2199335
+2014,8,"NRL GOFS","Dynamical","Dynamical",4.5,,,"Scientist",.71993351,.71993351,5.2082667,5.2199335
+2014,8,"Suckling","Statistical","Statistical",4.6999998,,,"Scientist",.5199337,.5199337,5.2082667,5.2199335
+2014,8,"Kapsch et al.","Statistical","Statistical",4.6999998,,,"Scientist",.5199337,.5199337,5.2082667,5.2199335
+2014,8,"Meier","Statistical","Statistical",4.8000002,,,"Scientist",.41993332,.41993332,5.2082667,5.2199335
+2014,8,"Stroeve et al.","Statistical","Statistical",4.8000002,,,"Scientist",.41993332,.41993332,5.2082667,5.2199335
+2014,8,"Slater Persistence","Statistical","Statistical",4.9000001,,,"Scientist",.31993341,.31993341,5.2082667,5.2199335
+2014,8,"Morison","Heuristic","Heuristic",5,,,"Scientist",.21993351,.21993351,5.2082667,5.2199335
+2014,8,"Yuan et al.","Statistical","Statistical",5,,,"Scientist",.21993351,.21993351,5.2082667,5.2199335
+2014,8,"GFDL NOAA (Msadek et al.)","Dynamical","Dynamical",5.0999999,,,"Scientist",.11993361,.11993361,5.2082667,5.2199335
+2014,8,"Bartelemy et al.","Dynamical","Dynamical",5.0999999,,,"Scientist",.11993361,.11993361,5.2082667,5.2199335
+2014,8,"Zhang and Lindsay","Dynamical","Dynamical",5.0999999,,,"Scientist",.11993361,.11993361,5.2082667,5.2199335
+2014,8,"Slater","Statistical","Statistical",5.0999999,,,"Scientist",.11993361,.11993361,5.2082667,5.2199335
+2014,8,"Peterson et al. (Met Office)","Dynamical","Dynamical",5.3000002,,,"Scientist",-.080066681,.080066681,5.2082667,5.2199335
+2014,8,"NASA GMAO","Dynamical","Dynamical",5.3000002,,,"Scientist",-.080066681,.080066681,5.2082667,5.2199335
+2014,8,"Li and Li (NMEFC)","Statistical","Statistical",5.4000001,,,"Scientist",-.18006659,.18006659,5.2082667,5.2199335
+2014,8,"CPOM (Schroeder et al.)","Statistical","Statistical",5.5,,,"Scientist",-.28006649,.28006649,5.2082667,5.2199335
+2014,8,"Wattsupwiththat.com*","Heuristic","Heuristic",5.5999999,,,"Citizen",-.38006639,.38006639,5.2082667,5.2199335
+2014,8,"Wang","Dynamical","Dynamical",5.5999999,,,"Scientist",-.38006639,.38006639,5.2082667,5.2199335
+2015,6,"Sea Ice/Polar Oceanography Grp U Cambridge","Heuristic","Heuristic",.98000002,,,"Scientist",3.6357665,3.6357665,5.2199335,4.6157665
+2015,6,"Cole*","Statistical","Statistical",3.26,,,"Citizen",1.3557665,1.3557665,5.2199335,4.6157665
+2015,6,"Kaleschke and Tian-Kunze","Mixed","Statistical",3.5999999,,,"Scientist",1.0157666,1.0157666,5.2199335,4.6157665
+2015,6,"Rennie*","Heuristic","Heuristic",3.8,,,"Citizen",.81576657,.81576657,5.2199335,4.6157665
+2015,6,"Andersen","Mixed","Heuristic",3.9000001,,,"Scientist",.71576643,.71576643,5.2199335,4.6157665
+2015,6,"Kapsch et al.","Statistical","Statistical",4.0999999,,,"Scientist",.51576662,.51576662,5.2199335,4.6157665
+2015,6,"Hamilton","Statistical","Statistical",4.1999998,,,"Scientist",.41576672,.41576672,5.2199335,4.6157665
+2015,6,"Kay/Bailey/Holland (NCAR/CU)","Heuristic","Heuristic",4.3899999,,,"Scientist",.22576666,.22576666,5.2199335,4.6157665
+2015,6,"Met Office, Peterson et al.","Dynamical","Dynamical",4.4000001,,,"Scientist",.21576643,.21576643,5.2199335,4.6157665
+2015,6,"Barthélemy et al.","Dynamical","Dynamical",4.5,,,"Scientist",.11576653,.11576653,5.2199335,4.6157665
+2015,6,"NIPR/UT, Kimura et al.","Statistical","Statistical",4.5799999,,,"Scientist",.035766602,.035766602,5.2199335,4.6157665
+2015,6,"Wu and Grumbine","Dynamical","Dynamical",4.5999999,,,"Scientist",.015766621,.015766621,5.2199335,4.6157665
+2015,6,"Canadian Ice Service","Mixed","Statistical",4.6999998,,,"Scientist",-.084233284,.084233284,5.2199335,4.6157665
+2015,6,"Morison","Heuristic","Heuristic",4.8000002,,,"Scientist",-.18423367,.18423367,5.2199335,4.6157665
+2015,6,"Dekker*","Statistical","Statistical",4.9000001,,,"Citizen",-.28423357,.28423357,5.2199335,4.6157665
+2015,6,"Yuan et al.","Statistical","Statistical",4.9899998,,,"Scientist",-.37423325,.37423325,5.2199335,4.6157665
+2015,6,"NASA Global Modeling & Assimilation Off","Dynamical","Dynamical",5.0300002,,,"Scientist",-.41423368,.41423368,5.2199335,4.6157665
+2015,6,"Jin/IARC","Dynamical","Dynamical",5.0599999,,,"Scientist",-.44423342,.44423342,5.2199335,4.6157665
+2015,6,"Barton et al.","Dynamical","Dynamical",5.0700002,,,"Scientist",-.45423365,.45423365,5.2199335,4.6157665
+2015,6,"CPOM (Schroeder et al.)","Statistical","Statistical",5.0999999,,,"Scientist",-.48423338,.48423338,5.2199335,4.6157665
+2015,6,"Reynolds*","Statistical","Statistical",5.1500001,,,"Citizen",-.53423357,.53423357,5.2199335,4.6157665
+2015,6,"GFDL NOAA (Msadek et al.)","Dynamical","Dynamical",5.1700001,,,"Scientist",-.55423355,.55423355,5.2199335,4.6157665
+2015,6,"NRL Sea Ice Team","Dynamical","Dynamical",5.1999998,,,"Scientist",-.58423328,.58423328,5.2199335,4.6157665
+2015,6,"Zhang","Dynamical","Dynamical",5.1999998,,,"Scientist",-.58423328,.58423328,5.2199335,4.6157665
+2015,6,"Slater-Persistence","Statistical","Statistical",5.2199998,,,"Scientist",-.60423326,.60423326,5.2199335,4.6157665
+2015,6,"Li and Li (NMEFC)","Statistical","Statistical",5.48,,,"Scientist",-.86423349,.86423349,5.2199335,4.6157665
+2015,6,"Global Weather & Climate Logistics","Statistical","Statistical",5.54,,,"Scientist",-.92423344,.92423344,5.2199335,4.6157665
+2015,6,"Bosse*","Statistical","Statistical",5.5999999,,,"Citizen",-.98423338,.98423338,5.2199335,4.6157665
+2015,6,"AWI Consortium (Kauker et al.)","Dynamical","Dynamical",5.6700001,,,"Scientist",-1.0542336,1.0542336,5.2199335,4.6157665
+2015,6,"Wang","Dynamical","Dynamical",5.6999998,,,"Scientist",-1.0842333,1.0842333,5.2199335,4.6157665
+2015,7,"Wadhams (SIPOG)","Heuristic","Heuristic",.98000002,,,"Scientist",3.6357665,3.6357665,5.2199335,4.6157665
+2015,7,"Cole*","Statistical","Statistical",3.26,,,"Citizen",1.3557665,1.3557665,5.2199335,4.6157665
+2015,7,"Kaleschke and Tian-Kunze","Mixed","Statistical",3.5999999,,,"Scientist",1.0157666,1.0157666,5.2199335,4.6157665
+2015,7,"Rennie*","Heuristic","Heuristic",3.8,,,"Citizen",.81576657,.81576657,5.2199335,4.6157665
+2015,7,"Andersen","Mixed","Heuristic",3.9000001,,,"Scientist",.71576643,.71576643,5.2199335,4.6157665
+2015,7,"Kapsch et al.","Statistical","Statistical",4.0999999,,,"Scientist",.51576662,.51576662,5.2199335,4.6157665
+2015,7,"Barthelemy et al.","Dynamical","Dynamical",4.1999998,,,"Scientist",.41576672,.41576672,5.2199335,4.6157665
+2015,7,"Hamilton","Statistical","Statistical",4.1999998,,,"Scientist",.41576672,.41576672,5.2199335,4.6157665
+2015,7,"Cawley","Statistical","Statistical",4.3499999,,,"Scientist",.26576662,.26576662,5.2199335,4.6157665
+2015,7,"Kay/Bailey/Holland (NCAR/CU)","Heuristic","Heuristic",4.3899999,,,"Scientist",.22576666,.22576666,5.2199335,4.6157665
+2015,7,"Met Office (Peterson et al.)","Dynamical","Dynamical",4.4000001,,,"Scientist",.21576643,.21576643,5.2199335,4.6157665
+2015,7,"Slater","Statistical","Statistical",4.5300002,,,"Scientist",.085766315,.085766315,5.2199335,4.6157665
+2015,7,"Dekker*","Statistical","Statistical",4.5999999,,,"Citizen",.015766621,.015766621,5.2199335,4.6157665
+2015,7,"NIRP UT (Kimura et al.)","Statistical","Statistical",4.6700001,,,"Scientist",-.054233551,.054233551,5.2199335,4.6157665
+2015,7,"Canadian Ice Service","Mixed","Statistical",4.6999998,,,"Scientist",-.084233284,.084233284,5.2199335,4.6157665
+2015,7,"GFDL NOAA (Msadek et al.)","Dynamical","Dynamical",4.8499999,,,"Scientist",-.23423338,.23423338,5.2199335,4.6157665
+2015,7,"NCAR CESM (Blanchard-Wrigglesworth et al.)","Dynamical","Dynamical",4.9899998,,,"Scientist",-.37423325,.37423325,5.2199335,4.6157665
+2015,7,"Wu and Grumbine","Dynamical","Dynamical",5,,,"Scientist",-.38423347,.38423347,5.2199335,4.6157665
+2015,7,"NASA GMAO (Cullather et al.)","Dynamical","Dynamical",5.0300002,,,"Scientist",-.41423368,.41423368,5.2199335,4.6157665
+2015,7,"Jin IARC","Dynamical","Dynamical",5.0599999,,,"Scientist",-.44423342,.44423342,5.2199335,4.6157665
+2015,7,"LDEO/Columbia Univ. (Yuan et al.)","Statistical","Statistical",5.0799999,,,"Scientist",-.4642334,.4642334,5.2199335,4.6157665
+2015,7,"Meier NASA-Goddard","Statistical","Statistical",5.0900002,,,"Scientist",-.47423363,.47423363,5.2199335,4.6157665
+2015,7,"Zhang","Dynamical","Dynamical",5.0999999,,,"Scientist",-.48423338,.48423338,5.2199335,4.6157665
+2015,7,"Reynolds*","Statistical","Statistical",5.1500001,,,"Citizen",-.53423357,.53423357,5.2199335,4.6157665
+2015,7,"Slater-Persistence","Statistical","Statistical",5.1599998,,,"Scientist",-.54423332,.54423332,5.2199335,4.6157665
+2015,7,"CPOM (Schroeder et al.)","Statistical","Statistical",5.27,,,"Scientist",-.65423346,.65423346,5.2199335,4.6157665
+2015,7,"FIO ESM (Qiao et al.)","Dynamical","Dynamical",5.3000002,,,"Scientist",-.68423367,.68423367,5.2199335,4.6157665
+2015,7,"NRL-SSC (Metzger et al.)*","Dynamical","Dynamical",5.3000002,,,"Citizen",-.68423367,.68423367,5.2199335,4.6157665
+2015,7,"NMEFC (Li and Li)","Statistical","Statistical",5.48,,,"Scientist",-.86423349,.86423349,5.2199335,4.6157665
+2015,7,"Morison","Heuristic","Heuristic",5.5,,,"Scientist",-.88423347,.88423347,5.2199335,4.6157665
+2015,7,"Global Weather Climate Logistics","Statistical","Statistical",5.5500002,,,"Scientist",-.93423367,.93423367,5.2199335,4.6157665
+2015,7,"AWI OASys (Kauker et al.)","Dynamical","Dynamical",5.5799999,,,"Scientist",-.9642334,.9642334,5.2199335,4.6157665
+2015,7,"Bosse*","Statistical","Statistical",5.5999999,,,"Citizen",-.98423338,.98423338,5.2199335,4.6157665
+2015,7,"Wang","Dynamical","Dynamical",5.6999998,,,"Scientist",-1.0842333,1.0842333,5.2199335,4.6157665
+2015,8,"Wadhams (SIPOG)","Heuristic","Heuristic",.98000002,,,"Scientist",3.6357665,3.6357665,5.2199335,4.6157665
+2015,8,"Malone*","Mixed","Heuristic",2.6900001,,,"Citizen",1.9257665,1.9257665,5.2199335,4.6157665
+2015,8,"Kaleschke and Tian-Kunze","Mixed","Statistical",3.5999999,,,"Scientist",1.0157666,1.0157666,5.2199335,4.6157665
+2015,8,"Met Office (Peterson et al.)","Dynamical","Dynamical",3.7,,,"Scientist",.91576648,.91576648,5.2199335,4.6157665
+2015,8,"Andersen","Mixed","Heuristic",3.9000001,,,"Scientist",.71576643,.71576643,5.2199335,4.6157665
+2015,8,"Cole*","Statistical","Statistical",3.9000001,,,"Citizen",.71576643,.71576643,5.2199335,4.6157665
+2015,8,"Rennie*","Heuristic","Heuristic",4.0999999,,,"Citizen",.51576662,.51576662,5.2199335,4.6157665
+2015,8,"Bartholemy et al.","Dynamical","Dynamical",4.0999999,,,"Scientist",.51576662,.51576662,5.2199335,4.6157665
+2015,8,"Kapsch et al.","Statistical","Statistical",4.0999999,,,"Scientist",.51576662,.51576662,5.2199335,4.6157665
+2015,8,"Hamilton","Statistical","Statistical",4.1999998,,,"Scientist",.41576672,.41576672,5.2199335,4.6157665
+2015,8,"Cawley","Statistical","Statistical",4.3499999,,,"Scientist",.26576662,.26576662,5.2199335,4.6157665
+2015,8,"Kay/Bailey/Holland (NCAR/CU)","Heuristic","Heuristic",4.3899999,,,"Scientist",.22576666,.22576666,5.2199335,4.6157665
+2015,8,"Barton &c Navy Atmos-Ocean-Ice coupled modeling","Dynamical","Dynamical",4.5,,,"Scientist",.11576653,.11576653,5.2199335,4.6157665
+2015,8,"Slater","Statistical","Statistical",4.5500002,,,"Scientist",.065766335,.065766335,5.2199335,4.6157665
+2015,8,"Dekker*","Statistical","Statistical",4.5999999,,,"Citizen",.015766621,.015766621,5.2199335,4.6157665
+2015,8,"NIRP UT (Kimura et al.)","Statistical","Statistical",4.6700001,,,"Scientist",-.054233551,.054233551,5.2199335,4.6157665
+2015,8,"Canadian Ice Service","Mixed","Statistical",4.6999998,,,"Scientist",-.084233284,.084233284,5.2199335,4.6157665
+2015,8,"Morison","Heuristic","Heuristic",4.8000002,,,"Scientist",-.18423367,.18423367,5.2199335,4.6157665
+2015,8,"GFDL NOAA (Msadek et al.)","Dynamical","Dynamical",4.8200002,,,"Scientist",-.20423365,.20423365,5.2199335,4.6157665
+2015,8,"Meier NASA-Goddard","Statistical","Statistical",4.8800001,,,"Scientist",-.26423359,.26423359,5.2199335,4.6157665
+2015,8,"NCAR CESM (Blanchard-Wrigglesworth et al.)","Dynamical","Dynamical",4.9899998,,,"Scientist",-.37423325,.37423325,5.2199335,4.6157665
+2015,8,"NRL-SSC (Metzger et al.)*","Dynamical","Dynamical",5,,,"Citizen",-.38423347,.38423347,5.2199335,4.6157665
+2015,8,"Wang","Dynamical","Dynamical",5,,,"Scientist",-.38423347,.38423347,5.2199335,4.6157665
+2015,8,"NASA GMAO (Cullather et al.)","Dynamical","Dynamical",5.0300002,,,"Scientist",-.41423368,.41423368,5.2199335,4.6157665
+2015,8,"Jin IARC","Dynamical","Dynamical",5.0599999,,,"Scientist",-.44423342,.44423342,5.2199335,4.6157665
+2015,8,"Wu and Grumbine","Dynamical","Dynamical",5.0599999,,,"Scientist",-.44423342,.44423342,5.2199335,4.6157665
+2015,8,"Reynolds*","Statistical","Statistical",5.1500001,,,"Citizen",-.53423357,.53423357,5.2199335,4.6157665
+2015,8,"LDEO/Columbia Univ. (Yuan et al.)","Statistical","Statistical",5.1799998,,,"Scientist",-.5642333,.5642333,5.2199335,4.6157665
+2015,8,"Zhang","Dynamical","Dynamical",5.1999998,,,"Scientist",-.58423328,.58423328,5.2199335,4.6157665
+2015,8,"CPOM (Schroeder et al.)","Statistical","Statistical",5.27,,,"Scientist",-.65423346,.65423346,5.2199335,4.6157665
+2015,8,"FIO ESM (Qiao et al.)","Dynamical","Dynamical",5.3299999,,,"Scientist",-.7142334,.7142334,5.2199335,4.6157665
+2015,8,"Slater-Persistence","Statistical","Statistical",5.3600001,,,"Scientist",-.74423361,.74423361,5.2199335,4.6157665
+2015,8,"Global Weather Climate Logistics","Statistical","Statistical",5.4400001,,,"Scientist",-.82423353,.82423353,5.2199335,4.6157665
+2015,8,"NMEFC (Li and Li)","Statistical","Statistical",5.48,,,"Scientist",-.86423349,.86423349,5.2199335,4.6157665
+2015,8,"BSC-ES (EC-Earth 2.3)","Dynamical","Dynamical",5.5500002,,,"Scientist",-.93423367,.93423367,5.2199335,4.6157665
+2015,8,"AWI OASys (Kauker et al.)","Dynamical","Dynamical",5.5500002,,,"Scientist",-.93423367,.93423367,5.2199335,4.6157665
+2015,8,"Bosse*","Statistical","Statistical",5.5999999,,,"Citizen",-.98423338,.98423338,5.2199335,4.6157665
+2016,6,"RASM","Dynamical","Dynamical",3.4000001,,,"Scientist",1.1285,1.1285,4.6157665,4.5285001
+2016,6,"MetOffice","Dynamical","Dynamical",3.5999999,,,"Scientist",.92850018,.92850018,4.6157665,4.5285001
+2016,6,"Dekker*","Statistical","Statistical",3.8,,,"Citizen",.72850013,.72850013,4.6157665,4.5285001
+2016,6,"Kaleschke","Statistical","Statistical",3.8,,,"Scientist",.72850013,.72850013,4.6157665,4.5285001
+2016,6,"Kay","Heuristic","Heuristic",3.9100001,,,"Scientist",.61849999,.61849999,4.6157665,4.5285001
+2016,6,"Wu & Grumbine","Dynamical","Dynamical",3.95,,,"Scientist",.57850003,.57850003,4.6157665,4.5285001
+2016,6,"Morison","Heuristic","Heuristic",4,,,"Scientist",.52850008,.52850008,4.6157665,4.5285001
+2016,6,"NMEFC","Statistical","Statistical",4.04,,,"Scientist",.48850012,.48850012,4.6157665,4.5285001
+2016,6,"Barthelemy","Dynamical","Dynamical",4.0999999,,,"Scientist",.42850018,.42850018,4.6157665,4.5285001
+2016,6,"Bosse*","Statistical","Statistical",4.0999999,,,"Citizen",.42850018,.42850018,4.6157665,4.5285001
+2016,6,"Hamilton","Heuristic","Heuristic",4.1399999,,,"Scientist",.38850021,.38850021,4.6157665,4.5285001
+2016,6,"IARC","Statistical","Statistical",4.1700001,,,"Scientist",.3585,.3585,4.6157665,4.5285001
+2016,6,"Lamont","Statistical","Statistical",4.1900001,,,"Scientist",.33850002,.33850002,4.6157665,4.5285001
+2016,6,"Zhang & Schweiger","Dynamical","Dynamical",4.1999998,,,"Scientist",.32850027,.32850027,4.6157665,4.5285001
+2016,6,"Cawley","Statistical","Statistical",4.27,,,"Scientist",.2585001,.2585001,4.6157665,4.5285001
+2016,6,"Slater","Statistical","Statistical",4.29,,,"Scientist",.23850012,.23850012,4.6157665,4.5285001
+2016,6,"Arbetter","Statistical","Statistical",4.3200002,,,"Scientist",.20849991,.20849991,4.6157665,4.5285001
+2016,6,"CPOM","Statistical","Statistical",4.5,,,"Scientist",.02850008,.02850008,4.6157665,4.5285001
+2016,6,"GFDL","Dynamical","Dynamical",4.5500002,,,"Scientist",-.021500111,.021500111,4.6157665,4.5285001
+2016,6,"FIO ESM","Dynamical","Dynamical",4.5799999,,,"Scientist",-.051499844,.051499844,4.6157665,4.5285001
+2016,6,"Reynolds*","Statistical","Statistical",4.5999999,,,"Citizen",-.071499825,.071499825,4.6157665,4.5285001
+2016,6,"UAF Jin","Dynamical","Dynamical",4.6199999,,,"Scientist",-.091499805,.091499805,4.6157665,4.5285001
+2016,6,"Wang","Dynamical","Dynamical",4.6300001,,,"Scientist",-.10150003,.10150003,4.6157665,4.5285001
+2016,6,"Ionita","Statistical","Statistical",4.6799998,,,"Scientist",-.15149975,.15149975,4.6157665,4.5285001
+2016,6,"AWI","Dynamical","Dynamical",4.73,,,"Scientist",-.20149994,.20149994,4.6157665,4.5285001
+2016,6,"NRL","Dynamical","Dynamical",4.8000002,,,"Scientist",-.27150011,.27150011,4.6157665,4.5285001
+2016,6,"Utokyo","Statistical","Statistical",4.8600001,,,"Scientist",-.33150005,.33150005,4.6157665,4.5285001
+2016,6,"Kondrashov","Statistical","Statistical",4.9400001,,,"Scientist",-.41149998,.41149998,4.6157665,4.5285001
+2016,6,"NRL","Dynamical","Dynamical",5.1999998,,,"Scientist",-.67149973,.67149973,4.6157665,4.5285001
+2016,6,"NASA Cullather","Dynamical","Dynamical",5.23,,,"Scientist",-.70149994,.70149994,4.6157665,4.5285001
+2016,7,"RASM (Kamal et al.)","Dynamical","Dynamical",3.5999999,,,"Scientist",.92850018,.92850018,4.6157665,4.5285001
+2016,7,"Barthélemy et al.","Dynamical","Dynamical",3.8,,,"Scientist",.72850013,.72850013,4.6157665,4.5285001
+2016,7,"Met Office","Dynamical","Dynamical",3.8,,,"Scientist",.72850013,.72850013,4.6157665,4.5285001
+2016,7,"Ionita-Scholtz and Grosfeld (NSIDC Data)","Statistical","Statistical",3.9000001,,,"Scientist",.62849998,.62849998,4.6157665,4.5285001
+2016,7,"Kay, Bailey, and Holland (NCAR/CU)","Heuristic","Heuristic",3.9100001,,,"Scientist",.61849999,.61849999,4.6157665,4.5285001
+2016,7,"Morison","Heuristic","Heuristic",4,,,"Scientist",.52850008,.52850008,4.6157665,4.5285001
+2016,7,"NMEFC, of China (Li and Li)","Statistical","Statistical",4.04,,,"Scientist",.48850012,.48850012,4.6157665,4.5285001
+2016,7,"NOAA/NCEP/EMC (Wu and Grumbine)","Dynamical","Dynamical",4.0900002,,,"Scientist",.43849993,.43849993,4.6157665,4.5285001
+2016,7,"Dekker*","Statistical","Statistical",4.0999999,,,"Citizen",.42850018,.42850018,4.6157665,4.5285001
+2016,7,"Bosse*","Statistical","Statistical",4.0999999,,,"Citizen",.42850018,.42850018,4.6157665,4.5285001
+2016,7,"Petty","Statistical","Statistical",4.1199999,,,"Scientist",.40850019,.40850019,4.6157665,4.5285001
+2016,7,"Hamilton","Heuristic","Heuristic",4.1399999,,,"Scientist",.38850021,.38850021,4.6157665,4.5285001
+2016,7,"Ionita-Scholtz and Grosfeld (IUP Bremen Data)","Statistical","Statistical",4.25,,,"Scientist",.27850008,.27850008,4.6157665,4.5285001
+2016,7,"Cawley","Statistical","Statistical",4.27,,,"Scientist",.2585001,.2585001,4.6157665,4.5285001
+2016,7,"Canadian Ice Service","Mixed","Statistical",4.3000002,,,"Scientist",.22849989,.22849989,4.6157665,4.5285001
+2016,7,"Meier (NASA GSFC Cryo Sciences)","Statistical","Statistical",4.3000002,,,"Scientist",.22849989,.22849989,4.6157665,4.5285001
+2016,7,"Arbetter and Potts","Statistical","Statistical",4.3099999,,,"Scientist",.21850014,.21850014,4.6157665,4.5285001
+2016,7,"AWI Consortium (Kauker et al.)","Dynamical","Dynamical",4.3200002,,,"Scientist",.20849991,.20849991,4.6157665,4.5285001
+2016,7,"Lamont (Yuan et al.)","Statistical","Statistical",4.3299999,,,"Scientist",.19850016,.19850016,4.6157665,4.5285001
+2016,7,"FIO-ESM (Qiao et al.)","Dynamical","Dynamical",4.3600001,,,"Scientist",.16849995,.16849995,4.6157665,4.5285001
+2016,7,"UAF (Brettschneider, Walsh, and Thoman)","Statistical","Statistical",4.3600001,,,"Scientist",.16849995,.16849995,4.6157665,4.5285001
+2016,7,"CNRM (Chevallier et al.)","Dynamical","Dynamical",4.3899999,,,"Scientist",.13850021,.13850021,4.6157665,4.5285001
+2016,7,"Slater (SPIE)","Statistical","Statistical",4.4000001,,,"Scientist",.12849998,.12849998,4.6157665,4.5285001
+2016,7,"Sun*","Mixed","Statistical",4.48,,,"Citizen",.048500061,.048500061,4.6157665,4.5285001
+2016,7,"Slater (Multi-Persistence)","Statistical","Statistical",4.5300002,,,"Scientist",-.0015001297,.0015001297,4.6157665,4.5285001
+2016,7,"Kaleschke","Statistical","Statistical",4.5999999,,,"Scientist",-.071499825,.071499825,4.6157665,4.5285001
+2016,7,"Jin (IARC)","Dynamical","Dynamical",4.6199999,,,"Scientist",-.091499805,.091499805,4.6157665,4.5285001
+2016,7,"Wang and Collow","Dynamical","Dynamical",4.6300001,,,"Scientist",-.10150003,.10150003,4.6157665,4.5285001
+2016,7,"UTokyo (Kimura et al.)","Statistical","Statistical",4.6799998,,,"Scientist",-.15149975,.15149975,4.6157665,4.5285001
+2016,7,"GFDL NOAA (Bushuk et al.)","Dynamical","Dynamical",4.6999998,,,"Scientist",-.17149973,.17149973,4.6157665,4.5285001
+2016,7,"NRL_atm-ocn-ice","Dynamical","Dynamical",4.8000002,,,"Scientist",-.27150011,.27150011,4.6157665,4.5285001
+2016,7,"Kondrashov","Statistical","Statistical",4.9699998,,,"Scientist",-.44149971,.44149971,4.6157665,4.5285001
+2016,7,"Zhang and Schweiger","Dynamical","Dynamical",5,,,"Scientist",-.47149992,.47149992,4.6157665,4.5285001
+2016,7,"NRL_ocn-ice","Dynamical","Dynamical",5.1999998,,,"Scientist",-.67149973,.67149973,4.6157665,4.5285001
+2016,7,"CPOM (Schroeder et al)","Statistical","Statistical",5.1999998,,,"Scientist",-.67149973,.67149973,4.6157665,4.5285001
+2016,7,"NASA Global Modeling (Cullather et al.)","Dynamical","Dynamical",5.23,,,"Scientist",-.70149994,.70149994,4.6157665,4.5285001
+2016,8,"Barthélemy et al.","Dynamical","Dynamical",3.7,,,"Scientist",.82850003,.82850003,4.6157665,4.5285001
+2016,8,"Kay, Bailey, and Holland (NCAR/CU)","Heuristic","Heuristic",3.9100001,,,"Scientist",.61849999,.61849999,4.6157665,4.5285001
+2016,8,"RASM (Kamal et al.)","Dynamical","Dynamical",3.97,,,"Scientist",.55850005,.55850005,4.6157665,4.5285001
+2016,8,"Morison","Heuristic","Heuristic",4,,,"Scientist",.52850008,.52850008,4.6157665,4.5285001
+2016,8,"NMEFC, of China (Li and Li)","Statistical","Statistical",4.0500002,,,"Scientist",.47849989,.47849989,4.6157665,4.5285001
+2016,8,"Met Office","Dynamical","Dynamical",4.0999999,,,"Scientist",.42850018,.42850018,4.6157665,4.5285001
+2016,8,"Bosse*","Statistical","Statistical",4.0999999,,,"Citizen",.42850018,.42850018,4.6157665,4.5285001
+2016,8,"Dekker*","Statistical","Statistical",4.0999999,,,"Citizen",.42850018,.42850018,4.6157665,4.5285001
+2016,8,"Hamilton","Heuristic","Heuristic",4.1399999,,,"Scientist",.38850021,.38850021,4.6157665,4.5285001
+2016,8,"FIO-ESM (Qiao et al.)","Dynamical","Dynamical",4.1500001,,,"Scientist",.37849998,.37849998,4.6157665,4.5285001
+2016,8,"NOAA/NCEP/EMC (Wu and Grumbine)","Dynamical","Dynamical",4.1599998,,,"Scientist",.36850023,.36850023,4.6157665,4.5285001
+2016,8,"UAF (Brettschneider, Walsh, & Thoman)","Statistical","Statistical",4.2399998,,,"Scientist",.28850031,.28850031,4.6157665,4.5285001
+2016,8,"Cawley","Statistical","Statistical",4.27,,,"Scientist",.2585001,.2585001,4.6157665,4.5285001
+2016,8,"AWI Consortium (Kauker et al.)","Dynamical","Dynamical",4.29,,,"Scientist",.23850012,.23850012,4.6157665,4.5285001
+2016,8,"Arbetter and Potts","Statistical","Statistical",4.3099999,,,"Scientist",.21850014,.21850014,4.6157665,4.5285001
+2016,8,"Ionita and Grosfeld (NSIDC)","Statistical","Statistical",4.3099999,,,"Scientist",.21850014,.21850014,4.6157665,4.5285001
+2016,8,"Canadian Ice Service","Mixed","Statistical",4.3200002,,,"Scientist",.20849991,.20849991,4.6157665,4.5285001
+2016,8,"Petty","Statistical","Statistical",4.3699999,,,"Scientist",.15850019,.15850019,4.6157665,4.5285001
+2016,8,"Zhan","Statistical","Statistical",4.3800001,,,"Scientist",.14849997,.14849997,4.6157665,4.5285001
+2016,8,"Chylek (LANL/EES)","Statistical","Statistical",4.3800001,,,"Scientist",.14849997,.14849997,4.6157665,4.5285001
+2016,8,"CNRM (Chevallier et al.)","Dynamical","Dynamical",4.3899999,,,"Scientist",.13850021,.13850021,4.6157665,4.5285001
+2016,8,"Slater (SPIE)","Statistical","Statistical",4.3899999,,,"Scientist",.13850021,.13850021,4.6157665,4.5285001
+2016,8,"Sun*","Mixed","Statistical",4.4000001,,,"Citizen",.12849998,.12849998,4.6157665,4.5285001
+2016,8,"Kaleschke","Statistical","Statistical",4.4000001,,,"Scientist",.12849998,.12849998,4.6157665,4.5285001
+2016,8,"Lamont (Yuan et al.)","Statistical","Statistical",4.5500002,,,"Scientist",-.021500111,.021500111,4.6157665,4.5285001
+2016,8,"Jin (IARC)","Dynamical","Dynamical",4.6199999,,,"Scientist",-.091499805,.091499805,4.6157665,4.5285001
+2016,8,"Wang and Collow","Dynamical","Dynamical",4.6300001,,,"Scientist",-.10150003,.10150003,4.6157665,4.5285001
+2016,8,"UTokyo (Kimura et al.)","Statistical","Statistical",4.6500001,,,"Scientist",-.12150002,.12150002,4.6157665,4.5285001
+2016,8,"Meier (NASA GSFC Cryo Sciences)","Statistical","Statistical",4.6500001,,,"Scientist",-.12150002,.12150002,4.6157665,4.5285001
+2016,8,"GFDL NOAA (Bushuk et al.)","Dynamical","Dynamical",4.6999998,,,"Scientist",-.17149973,.17149973,4.6157665,4.5285001
+2016,8,"BSC-ES (Fučkar et al.)","Dynamical","Dynamical",4.7199998,,,"Scientist",-.19149971,.19149971,4.6157665,4.5285001
+2016,8,"Slater (Multi-Persistence)","Statistical","Statistical",4.73,,,"Scientist",-.20149994,.20149994,4.6157665,4.5285001
+2016,8,"NRL-atm-ocn-ice","Dynamical","Dynamical",4.8000002,,,"Scientist",-.27150011,.27150011,4.6157665,4.5285001
+2016,8,"Kondrashov","Statistical","Statistical",4.8000002,,,"Scientist",-.27150011,.27150011,4.6157665,4.5285001
+2016,8,"Ionita and Grosfeld (IUP Bremen)","Statistical","Statistical",4.8200002,,,"Scientist",-.29150009,.29150009,4.6157665,4.5285001
+2016,8,"Zhang and Schweiger","Dynamical","Dynamical",5.0999999,,,"Scientist",-.57149982,.57149982,4.6157665,4.5285001
+2016,8,"NRL_ocn-ice","Dynamical","Dynamical",5.1999998,,,"Scientist",-.67149973,.67149973,4.6157665,4.5285001
+2016,8,"CPOM (Schroeder et al)","Statistical","Statistical",5.1999998,,,"Scientist",-.67149973,.67149973,4.6157665,4.5285001
+2016,8,"NASA Global Modeling (Cullather et al.)","Dynamical","Dynamical",5.23,,,"Scientist",-.70149994,.70149994,4.6157665,4.5285001
+2017,6,"Morison","Heuristic","Heuristic",3.4000001,,,"Scientist",1.4218998,1.4218998,4.5285001,4.8218999
+2017,6,"Zhang & Schweiger","Dynamical","Dynamical",3.7,,,"Scientist",1.1218998,1.1218998,4.5285001,4.8218999
+2017,6,"Met Office","Dynamical","Dynamical",3.8,,,"Scientist",1.0218999,1.0218999,4.5285001,4.8218999
+2017,6,"Barthélemy et al.","Dynamical","Dynamical",3.8,,,"Scientist",1.0218999,1.0218999,4.5285001,4.8218999
+2017,6,"McGill Team","Statistical","Statistical",3.95,,,"Scientist",.87189984,.87189984,4.5285001,4.8218999
+2017,6,"CIS (Tivy et al.)","Mixed","Statistical",4,,,"Scientist",.82189989,.82189989,4.5285001,4.8218999
+2017,6,"Kaleschke","Statistical","Statistical",4,,,"Scientist",.82189989,.82189989,4.5285001,4.8218999
+2017,6,"NCAR/CU (Kay et al.)","Heuristic","Heuristic",4.0799999,,,"Scientist",.74189997,.74189997,4.5285001,4.8218999
+2017,6,"MPAS-CWSM (Cavallo et al.)","Dynamical","Dynamical",4.0999999,,,"Scientist",.72189999,.72189999,4.5285001,4.8218999
+2017,6,"Nico Sun","Mixed","Statistical",4.0999999,,,"Citizen",.72189999,.72189999,4.5285001,4.8218999
+2017,6,"Ionita & Grosfeld","Statistical","Statistical",4.1199999,,,"Scientist",.70190001,.70190001,4.5285001,4.8218999
+2017,6,"Gavin Cawley","Statistical","Statistical",4.23,,,"Scientist",.59189987,.59189987,4.5285001,4.8218999
+2017,6,"Wang et al.","Dynamical","Dynamical",4.2800002,,,"Scientist",.54189968,.54189968,4.5285001,4.8218999
+2017,6,"RASM (Kamal et al.)","Dynamical","Dynamical",4.3530002,,,"Scientist",.46889973,.46889973,4.5285001,4.8218999
+2017,6,"Wu & Grumbine","Dynamical","Dynamical",4.3899999,,,"Scientist",.43190002,.43190002,4.5285001,4.8218999
+2017,6,"CNRM (Chevallier et al.)","Dynamical","Dynamical",4.3899999,,,"Scientist",.43190002,.43190002,4.5285001,4.8218999
+2017,6,"Sanwa Elementary School (Iihoshi et al.)","Heuristic","Heuristic",4.4299998,,,"Citizen",.39190006,.39190006,4.5285001,4.8218999
+2017,6,"GFDL/NOAA (Bushuk et al.)","Dynamical","Dynamical",4.4400001,,,"Scientist",.38189983,.38189983,4.5285001,4.8218999
+2017,6,"Brettschneider et al.","Statistical","Statistical",4.48,,,"Scientist",.34189987,.34189987,4.5285001,4.8218999
+2017,6,"FIO-ESM (Qiao et al.)","Dynamical","Dynamical",4.5,,,"Scientist",.32189989,.32189989,4.5285001,4.8218999
+2017,6,"Modified CanSIPS","Dynamical","Dynamical",4.5300002,,,"Scientist",.29189968,.29189968,4.5285001,4.8218999
+2017,6,"Frank Bosse","Mixed","Statistical",4.6199999,,,"Citizen",.20190001,.20190001,4.5285001,4.8218999
+2017,6,"Dmitri Kondrashov (UCLA)","Statistical","Statistical",4.6700001,,,"Scientist",.15189981,.15189981,4.5285001,4.8218999
+2017,6,"NMEFC (Li & Li)","Statistical","Statistical",4.6900001,,,"Scientist",.13189983,.13189983,4.5285001,4.8218999
+2017,6,"UTokyo (Kimura et al.)","Statistical","Statistical",4.71,,,"Scientist",.11189985,.11189985,4.5285001,4.8218999
+2017,6,"Slater/Barrett NSIDC","Statistical","Statistical",4.7399998,,,"Scientist",.08190012,.08190012,4.5285001,4.8218999
+2017,6,"Alek Petty, NASA-GSFC","Statistical","Statistical",4.8099999,,,"Scientist",.011899948,.011899948,4.5285001,4.8218999
+2017,6,"AWI Consortium","Dynamical","Dynamical",4.8200002,,,"Scientist",.0018997192,.0018997192,4.5285001,4.8218999
+2017,6,"Meier, NASA","Statistical","Statistical",4.8200002,,,"Scientist",.0018997192,.0018997192,4.5285001,4.8218999
+2017,6,"CPOM (D. Schroeder, et al.)","Statistical","Statistical",5,,,"Scientist",-.17810011,.17810011,4.5285001,4.8218999
+2017,6,"Cullather et al.","Dynamical","Dynamical",5.3000002,,,"Scientist",-.4781003,.4781003,4.5285001,4.8218999
+2017,6,"Rob Dekker","Statistical","Statistical",5.4000001,,,"Citizen",-.5781002,.5781002,4.5285001,4.8218999
+2017,6,"NESM","Dynamical","Dynamical",6,,,"Scientist",-1.1781001,1.1781001,4.5285001,4.8218999
+2017,7,"CNRM (Chevallier et al.)","Dynamical","Dynamical",3.1099999,18.370001,,"Scientist",1.7119,1.7119,4.5285001,4.8218999
+2017,7,"Morison","Heuristic","Heuristic",3.4000001,,,"Scientist",1.4218998,1.4218998,4.5285001,4.8218999
+2017,7,"Barthélemy et al.","Dynamical","Dynamical",3.5999999,18.1,,"Scientist",1.2219,1.2219,4.5285001,4.8218999
+2017,7,"McGill Team","Statistical","Statistical",3.95,,,"Scientist",.87189984,.87189984,4.5285001,4.8218999
+2017,7,"Met Office","Dynamical","Dynamical",4,17.6,,"Scientist",.82189989,.82189989,4.5285001,4.8218999
+2017,7,"CIS (Tivy et al.)","Mixed","Statistical",4,,,"Scientist",.82189989,.82189989,4.5285001,4.8218999
+2017,7,"NCAR/CU (Kay et al.)","Heuristic","Heuristic",4.0799999,,,"Scientist",.74189997,.74189997,4.5285001,4.8218999
+2017,7,"RASM (Kamal et al.)","Dynamical","Dynamical",4.1100001,,,"Scientist",.71189976,.71189976,4.5285001,4.8218999
+2017,7,"Wu & Grumbine","Dynamical","Dynamical",4.21,19.639999,,"Scientist",.61189985,.61189985,4.5285001,4.8218999
+2017,7,"GFDL/NOAA (Bushuk et al.)","Dynamical","Dynamical",4.21,,,"Scientist",.61189985,.61189985,4.5285001,4.8218999
+2017,7,"Gavin Cawley","Statistical","Statistical",4.23,,,"Scientist",.59189987,.59189987,4.5285001,4.8218999
+2017,7,"Nico Sun","Mixed","Statistical",4.243,,,"Citizen",.57889986,.57889986,4.5285001,4.8218999
+2017,7,"Modified CanSIPS","Dynamical","Dynamical",4.3299999,,,"Scientist",.49189997,.49189997,4.5285001,4.8218999
+2017,7,"Sanwa Elementary School (Iihoshi et al.)","Heuristic","Heuristic",4.4299998,,,"Citizen",.39190006,.39190006,4.5285001,4.8218999
+2017,7,"FIO-ESM (Qiao et al.)","Dynamical","Dynamical",4.4499998,,,"Scientist",.37190008,.37190008,4.5285001,4.8218999
+2017,7,"MPAS-CWSM (Cavallo et al.)","Dynamical","Dynamical",4.5,18.1,,"Scientist",.32189989,.32189989,4.5285001,4.8218999
+2017,7,"NESM","Dynamical","Dynamical",4.5,21.200001,,"Scientist",.32189989,.32189989,4.5285001,4.8218999
+2017,7,"Zhang & Schweiger","Dynamical","Dynamical",4.5,,,"Scientist",.32189989,.32189989,4.5285001,4.8218999
+2017,7,"Alek Petty, NASA-GSFC","Statistical","Statistical",4.5,18.93,,"Scientist",.32189989,.32189989,4.5285001,4.8218999
+2017,7,"Dmitri Kondrashov (UCLA)","Statistical","Statistical",4.5,,,"Scientist",.32189989,.32189989,4.5285001,4.8218999
+2017,7,"Brettschneider et al.","Statistical","Statistical",4.52,,,"Scientist",.30189991,.30189991,4.5285001,4.8218999
+2017,7,"Meier, NASA","Statistical","Statistical",4.52,,,"Scientist",.30189991,.30189991,4.5285001,4.8218999
+2017,7,"Wang et al.","Dynamical","Dynamical",4.5999999,,,"Scientist",.22189999,.22189999,4.5285001,4.8218999
+2017,7,"Frank Bosse","Mixed","Statistical",4.6199999,,,"Citizen",.20190001,.20190001,4.5285001,4.8218999
+2017,7,"CNRM System 6","Dynamical","Dynamical",4.6700001,17.9,,"Scientist",.15189981,.15189981,4.5285001,4.8218999
+2017,7,"NMEFC (Li & Li)","Statistical","Statistical",4.6900001,,,"Scientist",.13189983,.13189983,4.5285001,4.8218999
+2017,7,"Ionita & Grosfeld","Statistical","Statistical",4.7399998,19.209999,,"Scientist",.08190012,.08190012,4.5285001,4.8218999
+2017,7,"UTokyo (Kimura et al.)","Statistical","Statistical",4.79,,,"Scientist",.031899929,.031899929,4.5285001,4.8218999
+2017,7,"Slater/Barrett NSIDC","Statistical","Statistical",4.8200002,,,"Scientist",.0018997192,.0018997192,4.5285001,4.8218999
+2017,7,"NASA GMAO","Dynamical","Dynamical",4.9000001,,,"Scientist",-.078100204,.078100204,4.5285001,4.8218999
+2017,7,"John, Christian","Statistical","Statistical",4.9029999,,,"Citizen",-.081099987,.081099987,4.5285001,4.8218999
+2017,7,"AWI Consortium","Dynamical","Dynamical",4.9299998,,,"Scientist",-.10809994,.10809994,4.5285001,4.8218999
+2017,7,"CPOM (D. Schroeder, et al.)","Statistical","Statistical",5.0999999,,,"Scientist",-.27810001,.27810001,4.5285001,4.8218999
+2017,7,"Lamont (Yuan & Li)","Statistical","Statistical",5.1399999,20.41,,"Scientist",-.31809998,.31809998,4.5285001,4.8218999
+2017,7,"Rob Dekker","Statistical","Statistical",5.4000001,,,"Citizen",-.5781002,.5781002,4.5285001,4.8218999
+2017,7,"Yizhe Zhan","Statistical","Statistical",5.46,,,"Scientist",-.63810015,.63810015,4.5285001,4.8218999
+2017,8,"BSC-ES (Fučkar et al.)","Dynamical","Dynamical",3.0799999,21.5,,"Scientist",1.7419,1.7419,4.5285001,4.8218999
+2017,8,"Morison","Heuristic","Heuristic",3.4000001,,,"Scientist",1.4218998,1.4218998,4.5285001,4.8218999
+2017,8,"Barthélemy et al.","Dynamical","Dynamical",3.5999999,18,,"Scientist",1.2219,1.2219,4.5285001,4.8218999
+2017,8,"NESM","Dynamical","Dynamical",3.9000001,20.5,,"Scientist",.9218998,.9218998,4.5285001,4.8218999
+2017,8,"McGill Team","Statistical","Statistical",3.95,,,"Scientist",.87189984,.87189984,4.5285001,4.8218999
+2017,8,"GFDL/NOAA (Bushuk et al.)","Dynamical","Dynamical",3.97,,,"Scientist",.85189986,.85189986,4.5285001,4.8218999
+2017,8,"Met Office","Dynamical","Dynamical",4,17.6,,"Scientist",.82189989,.82189989,4.5285001,4.8218999
+2017,8,"CIS (Tivy et al.)","Mixed","Statistical",4,,,"Scientist",.82189989,.82189989,4.5285001,4.8218999
+2017,8,"NCAR/CU (Kay et al.)","Heuristic","Heuristic",4.0799999,,,"Scientist",.74189997,.74189997,4.5285001,4.8218999
+2017,8,"Kaleschke","Statistical","Statistical",4.1700001,,,"Scientist",.65189981,.65189981,4.5285001,4.8218999
+2017,8,"Gavin Cawley","Statistical","Statistical",4.23,,,"Scientist",.59189987,.59189987,4.5285001,4.8218999
+2017,8,"FIO-ESM (Qiao et al.)","Dynamical","Dynamical",4.25,,,"Scientist",.57189989,.57189989,4.5285001,4.8218999
+2017,8,"RASM (Kamal et al.)","Dynamical","Dynamical",4.323,,,"Scientist",.49889994,.49889994,4.5285001,4.8218999
+2017,8,"Sanwa Elementary School (Iihoshi et al.)","Heuristic","Heuristic",4.4299998,,,"Citizen",.39190006,.39190006,4.5285001,4.8218999
+2017,8,"Modified CanSIPS","Dynamical","Dynamical",4.4499998,,,"Scientist",.37190008,.37190008,4.5285001,4.8218999
+2017,8,"Wu & Grumbine","Dynamical","Dynamical",4.4899998,19.58,,"Scientist",.33190012,.33190012,4.5285001,4.8218999
+2017,8,"Zhang & Schweiger","Dynamical","Dynamical",4.5,,,"Scientist",.32189989,.32189989,4.5285001,4.8218999
+2017,8,"Brettschneider et al.","Statistical","Statistical",4.52,,,"Scientist",.30189991,.30189991,4.5285001,4.8218999
+2017,8,"Dmitri Kondrashov (UCLA)","Statistical","Statistical",4.54,,,"Scientist",.28189993,.28189993,4.5285001,4.8218999
+2017,8,"Meier, NSIDC","Statistical","Statistical",4.5799999,,,"Scientist",.24189997,.24189997,4.5285001,4.8218999
+2017,8,"Nico Sun","Mixed","Statistical",4.5999999,,,"Citizen",.22189999,.22189999,4.5285001,4.8218999
+2017,8,"Frank Bosse","Mixed","Statistical",4.6199999,,,"Citizen",.20190001,.20190001,4.5285001,4.8218999
+2017,8,"CNRM System 6","Dynamical","Dynamical",4.6700001,17.9,,"Scientist",.15189981,.15189981,4.5285001,4.8218999
+2017,8,"Wang et al.","Dynamical","Dynamical",4.6799998,,,"Scientist",.14190006,.14190006,4.5285001,4.8218999
+2017,8,"NMEFC (Li & Li)","Statistical","Statistical",4.6900001,,,"Scientist",.13189983,.13189983,4.5285001,4.8218999
+2017,8,"Alek Petty, NASA-GSFC","Statistical","Statistical",4.7399998,18.82,,"Scientist",.08190012,.08190012,4.5285001,4.8218999
+2017,8,"Slater/Barrett NSIDC","Statistical","Statistical",4.77,,,"Scientist",.05189991,.05189991,4.5285001,4.8218999
+2017,8,"UTokyo (Kimura et al.)","Statistical","Statistical",4.79,,,"Scientist",.031899929,.031899929,4.5285001,4.8218999
+2017,8,"NASA GMAO","Dynamical","Dynamical",4.9000001,,,"Scientist",-.078100204,.078100204,4.5285001,4.8218999
+2017,8,"Lamont (Yuan & Li)","Statistical","Statistical",4.9000001,19.41,,"Scientist",-.078100204,.078100204,4.5285001,4.8218999
+2017,8,"John, Christian","Statistical","Statistical",4.9710002,,,"Citizen",-.1491003,.1491003,4.5285001,4.8218999
+2017,8,"MPAS-CWSM (Cavallo et al.)","Dynamical","Dynamical",5,18.1,,"Scientist",-.17810011,.17810011,4.5285001,4.8218999
+2017,8,"AWI Consortium","Heuristic","Heuristic",5.0599999,,,"Scientist",-.23810005,.23810005,4.5285001,4.8218999
+2017,8,"CPOM (D. Schroeder, et al.)","Statistical","Statistical",5.0999999,,,"Scientist",-.27810001,.27810001,4.5285001,4.8218999
+2017,8,"Ionita & Grosfeld","Statistical","Statistical",5.1700001,18.5,,"Scientist",-.34810019,.34810019,4.5285001,4.8218999
+2017,8,"Rob Dekker","Statistical","Statistical",5.4000001,,,"Citizen",-.5781002,.5781002,4.5285001,4.8218999
+2017,8,"Yizhe Zhan","Statistical","Statistical",5.46,,,"Scientist",-.63810015,.63810015,4.5285001,4.8218999
+2018,6,"Morison","Heuristic","Heuristic",3.4000001,,,"Scientist",1.3852334,1.3852334,4.8218999,4.7852335
+2018,6,"MPAS-CESM","Dynamical","Dynamical",4,17.700001,.30000001,"Scientist",.7852335,.7852335,4.8218999,4.7852335
+2018,6,"Gavin Cawley","Statistical","Statistical",4.1486139,,,"Scientist",.63661957,.63661957,4.8218999,4.7852335
+2018,6,"Sean Horvath, NSIDC","Statistical","Statistical",4.1599998,,,"Scientist",.62523365,.62523365,4.8218999,4.7852335
+2018,6,"Muyin Wang","Heuristic","Heuristic",4.1999998,,,"Scientist",.58523369,.58523369,4.8218999,4.7852335
+2018,6,"UCL","Dynamical","Dynamical",4.25,20.959999,.44999999,"Scientist",.5352335,.5352335,4.8218999,4.7852335
+2018,6,"Grimm","Statistical","Statistical",4.2600002,,,"Scientist",.52523327,.52523327,4.8218999,4.7852335
+2018,6,"Nico Sun","Statistical","Statistical",4.3000002,,,"Citizen",.48523331,.48523331,4.8218999,4.7852335
+2018,6,"McGill (Tremblay et al.)","Statistical","Statistical",4.3099999,,,"Scientist",.47523355,.47523355,4.8218999,4.7852335
+2018,6,"Walt Meier","Statistical","Statistical",4.3800001,17.77,,"Scientist",.40523338,.40523338,4.8218999,4.7852335
+2018,6,"Dmitri Kondrashov (UCLA)","Statistical","Statistical",4.3899999,,.5,"Scientist",.39523363,.39523363,4.8218999,4.7852335
+2018,6,"Dr. Monica Ionita, Dr. Klaus Grosfeld","Statistical","Statistical",4.4000001,,,"Scientist",.3852334,.3852334,4.8218999,4.7852335
+2018,6,"NMEFC of China (Li and Li )","Statistical","Statistical",4.4200001,,,"Scientist",.36523342,.36523342,4.8218999,4.7852335
+2018,6,"Sanwa elementary school","Heuristic","Heuristic",4.4299998,,,"Citizen",.35523367,.35523367,4.8218999,4.7852335
+2018,6,"Modified CanSIPS","Dynamical","Dynamical",4.4400001,,,"Scientist",.34523344,.34523344,4.8218999,4.7852335
+2018,6,"NSIDC Group Entry","Heuristic","Heuristic",4.5500002,,,"Scientist",.23523331,.23523331,4.8218999,4.7852335
+2018,6,"Xingren Wu and Robert Grumbine","Dynamical","Dynamical",4.5799999,19.16,,"Scientist",.20523357,.20523357,4.8218999,4.7852335
+2018,6,"UNCW (McNamara & Wagner)","Statistical","Statistical",4.6100001,,,"Scientist",.17523336,.17523336,4.8218999,4.7852335
+2018,6,"NCEP CPC","Dynamical","Dynamical",4.6300001,,.85000002,"Scientist",.15523338,.15523338,4.8218999,4.7852335
+2018,6,"Rob Dekker","Statistical","Statistical",4.6500001,,,"Citizen",.1352334,.1352334,4.8218999,4.7852335
+2018,6,"CNRM","Dynamical","Dynamical",4.6599998,17.200001,,"Scientist",.12523365,.12523365,4.8218999,4.7852335
+2018,6,"Lamont (Yuan et al.)","Statistical","Statistical",4.71,18.68,.54000002,"Scientist",.075233459,.075233459,4.8218999,4.7852335
+2018,6,"UTokyo (Kimura et al.)","Statistical","Statistical",4.71,,,"Scientist",.075233459,.075233459,4.8218999,4.7852335
+2018,6,"Qing Bao, (LASG, IAP)","Mixed","Dynamical",4.8699999,18.01,.36000001,"Scientist",-.084766388,.084766388,4.8218999,4.7852335
+2018,6,"Met Office","Dynamical","Dynamical",4.9000001,17.799999,.57999998,"Scientist",-.1147666,.1147666,4.8218999,4.7852335
+2018,6,"Slater, Barrett, NSIDC","Statistical","Statistical",4.9099998,,,"Scientist",-.12476635,.12476635,4.8218999,4.7852335
+2018,6,"GFDL/NOAA, Bushuk et al.","Dynamical","Dynamical",4.9299998,,.14,"Scientist",-.14476633,.14476633,4.8218999,4.7852335
+2018,6,"Alek Petty, NASA-GSFC","Statistical","Statistical",4.98,18.51,.52999997,"Scientist",-.19476652,.19476652,4.8218999,4.7852335
+2018,6,"FIO-ESM (Qiao et al.)","Dynamical","Dynamical",5.1100001,,,"Scientist",-.32476664,.32476664,4.8218999,4.7852335
+2018,6,"RASM (Kamal et al.)","Dynamical","Dynamical",5.1149998,,.44999999,"Scientist",-.32976627,.32976627,4.8218999,4.7852335
+2018,6,"Frank Bosse","Mixed","Statistical",5.1999998,,,"Citizen",-.41476631,.41476631,4.8218999,4.7852335
+2018,6,"AWI consortium (Kauker et al.)","Dynamical","Dynamical",5.27,,,"Scientist",-.48476648,.48476648,4.8218999,4.7852335
+2018,6,"CPOM","Statistical","Statistical",5.3000002,,,"Scientist",-.51476669,.51476669,4.8218999,4.7852335
+2018,6,"NRL-NESM","Dynamical","Dynamical",5.9000001,20.4,.94,"Scientist",-1.1147666,1.1147666,4.8218999,4.7852335
+2018,7,"Morison","Heuristic","Heuristic",3.4000001,,,"Scientist",1.3852334,1.3852334,4.8218999,4.7852335
+2018,7,"NASA GMAO","Dynamical","Dynamical",3.9100001,,.20999999,"Scientist",.87523341,.87523341,4.8218999,4.7852335
+2018,7,"Gavin Cawley","Statistical","Statistical",4.1486139,,,"Scientist",.63661957,.63661957,4.8218999,4.7852335
+2018,7,"Kay/Bailey/Holland (NCAR/CU)","Heuristic","Heuristic",4.1999998,,,"Scientist",.58523369,.58523369,4.8218999,4.7852335
+2018,7,"John, Christian","Statistical","Statistical",4.2399998,,,"Citizen",.54523373,.54523373,4.8218999,4.7852335
+2018,7,"UC Louvain (Massonnet et al.)","Dynamical","Dynamical",4.25,20.959999,.44999999,"Scientist",.5352335,.5352335,4.8218999,4.7852335
+2018,7,"Robert Grimm","Statistical","Statistical",4.3000002,,,"Scientist",.48523331,.48523331,4.8218999,4.7852335
+2018,7,"McGill Team","Statistical","Statistical",4.3099999,,,"Scientist",.47523355,.47523355,4.8218999,4.7852335
+2018,7,"NMEFC (Li & Li)","Statistical","Statistical",4.4200001,,,"Scientist",.36523342,.36523342,4.8218999,4.7852335
+2018,7,"Sanwa Elementary School (Iihoshi et al.)","Heuristic","Heuristic",4.4299998,,,"Citizen",.35523367,.35523367,4.8218999,4.7852335
+2018,7,"Yizhe Zhan","Statistical","Statistical",4.4499998,,,"Scientist",.33523369,.33523369,4.8218999,4.7852335
+2018,7,"Nico Sun","Statistical","Statistical",4.48,,,"Citizen",.30523348,.30523348,4.8218999,4.7852335
+2018,7,"GFDL/NOAA (Bushuk et al.)","Dynamical","Dynamical",4.4899998,,.13,"Scientist",.29523373,.29523373,4.8218999,4.7852335
+2018,7,"MPAS-CESM","Dynamical","Dynamical",4.5,17.700001,.40000001,"Scientist",.2852335,.2852335,4.8218999,4.7852335
+2018,7,"NSIDC Hivemind","Heuristic","Heuristic",4.5500002,,,"Scientist",.23523331,.23523331,4.8218999,4.7852335
+2018,7,"Sean Horvath, NSIDC","Statistical","Statistical",4.5900002,,,"Scientist",.19523335,.19523335,4.8218999,4.7852335
+2018,7,"IARC (Brettschneider et al.)","Statistical","Statistical",4.6389999,,,"Scientist",.14623356,.14623356,4.8218999,4.7852335
+2018,7,"Dmitri Kondrashov (UCLA)","Statistical","Statistical",4.6700001,,.50999999,"Scientist",.11523342,.11523342,4.8218999,4.7852335
+2018,7,"NRL-NESM","Dynamical","Dynamical",4.6999998,21.299999,.81,"Scientist",.085233688,.085233688,4.8218999,4.7852335
+2018,7,"CPOM (D. Schroeder, et al.)","Statistical","Statistical",4.6999998,,,"Scientist",.085233688,.085233688,4.8218999,4.7852335
+2018,7,"UTokyo (Kimura et al.)","Statistical","Statistical",4.71,,,"Scientist",.075233459,.075233459,4.8218999,4.7852335
+2018,7,"Zhang & Schweiger","Dynamical","Dynamical",4.7199998,,,"Scientist",.065233707,.065233707,4.8218999,4.7852335
+2018,7,"RASM (Kamal et al.)","Dynamical","Dynamical",4.75,,.46799999,"Scientist",.035233498,.035233498,4.8218999,4.7852335
+2018,7,"NCEP CPC","Dynamical","Dynamical",4.77,,.89999998,"Scientist",.015233517,.015233517,4.8218999,4.7852335
+2018,7,"Xiaojun Yuan, LDEO","Statistical","Statistical",4.7800002,18.950001,.60000002,"Scientist",.0052332878,.0052332878,4.8218999,4.7852335
+2018,7,"Wu & Grumbine","Dynamical","Dynamical",4.8400002,19.620001,,"Scientist",-.054766655,.054766655,4.8218999,4.7852335
+2018,7,"Qing Bao (LASG, IAP)","Mixed","Dynamical",4.8699999,18.01,.36000001,"Scientist",-.084766388,.084766388,4.8218999,4.7852335
+2018,7,"Met Office","Dynamical","Dynamical",4.9000001,17.799999,.57999998,"Scientist",-.1147666,.1147666,4.8218999,4.7852335
+2018,7,"Ionita & Grosfeld","Statistical","Statistical",4.9000001,,,"Scientist",-.1147666,.1147666,4.8218999,4.7852335
+2018,7,"ECMWF SEAS5","Dynamical","Dynamical",4.9299998,,,"Scientist",-.14476633,.14476633,4.8218999,4.7852335
+2018,7,"Slater/Barrett NSIDC","Statistical","Statistical",4.9699998,,,"Scientist",-.18476629,.18476629,4.8218999,4.7852335
+2018,7,"Meier, NSIDC","Statistical","Statistical",4.98,18.049999,,"Scientist",-.19476652,.19476652,4.8218999,4.7852335
+2018,7,"CNRM (Chevallier et al.)","Dynamical","Dynamical",4.9899998,17.83,,"Scientist",-.20476627,.20476627,4.8218999,4.7852335
+2018,7,"Alek Petty, NASA-GSFC","Statistical","Statistical",4.9899998,18.4,.60000002,"Scientist",-.20476627,.20476627,4.8218999,4.7852335
+2018,7,"Modified CanSIPS","Dynamical","Dynamical",5.1700001,,,"Scientist",-.38476658,.38476658,4.8218999,4.7852335
+2018,7,"Rob Dekker","Statistical","Statistical",5.1900001,,,"Citizen",-.40476656,.40476656,4.8218999,4.7852335
+2018,7,"AWI Consortium","Dynamical","Dynamical",5.1999998,,,"Scientist",-.41476631,.41476631,4.8218999,4.7852335
+2018,7,"FIO-ESM (Qiao et al.)","Dynamical","Dynamical",5.1999998,,,"Scientist",-.41476631,.41476631,4.8218999,4.7852335
+2018,7,"Frank Bosse","Mixed","Statistical",5.1999998,,,"Citizen",-.41476631,.41476631,4.8218999,4.7852335
+2018,8,"Morison","Heuristic","Heuristic",3.4000001,,,"Scientist",1.3852334,1.3852334,4.8218999,4.7852335
+2018,8,"NASA GMAO","Dynamical","Dynamical",3.9100001,,.20999999,"Scientist",.87523341,.87523341,4.8218999,4.7852335
+2018,8,"FIO-ESM (Qiao et al.)","Dynamical","Dynamical",4.0999999,,,"Scientist",.68523359,.68523359,4.8218999,4.7852335
+2018,8,"Gavin Cawley","Statistical","Statistical",4.1486139,,,"Scientist",.63661957,.63661957,4.8218999,4.7852335
+2018,8,"MPAS-CESM","Dynamical","Dynamical",4.1999998,17.4,.60000002,"Scientist",.58523369,.58523369,4.8218999,4.7852335
+2018,8,"Kay/Bailey/Holland (NCAR/CU)","Heuristic","Heuristic",4.1999998,,,"Scientist",.58523369,.58523369,4.8218999,4.7852335
+2018,8,"John, Christian","Statistical","Statistical",4.2399998,,,"Citizen",.54523373,.54523373,4.8218999,4.7852335
+2018,8,"UC Louvain (Massonnet et al.)","Dynamical","Dynamical",4.25,20.959999,.44999999,"Scientist",.5352335,.5352335,4.8218999,4.7852335
+2018,8,"Sean Horvath, NSIDC","Statistical","Statistical",4.27,,,"Scientist",.51523352,.51523352,4.8218999,4.7852335
+2018,8,"NRL-NESM","Dynamical","Dynamical",4.3000002,21.700001,.63999999,"Scientist",.48523331,.48523331,4.8218999,4.7852335
+2018,8,"Robert Grimm","Statistical","Statistical",4.3000002,,,"Scientist",.48523331,.48523331,4.8218999,4.7852335
+2018,8,"McGill Team","Statistical","Statistical",4.3099999,,,"Scientist",.47523355,.47523355,4.8218999,4.7852335
+2018,8,"Qing Bao (LASG, IAP)","Mixed","Dynamical",4.3699999,,,"Scientist",.41523361,.41523361,4.8218999,4.7852335
+2018,8,"NMEFC (Li & Li)","Statistical","Statistical",4.4200001,,,"Scientist",.36523342,.36523342,4.8218999,4.7852335
+2018,8,"Sanwa Elementary School (Iihoshi et al.)","Heuristic","Heuristic",4.4299998,,,"Citizen",.35523367,.35523367,4.8218999,4.7852335
+2018,8,"Yizhe Zhan","Statistical","Statistical",4.4499998,,,"Scientist",.33523369,.33523369,4.8218999,4.7852335
+2018,8,"GFDL/NOAA (Bushuk et al.)","Dynamical","Dynamical",4.4899998,,.1,"Scientist",.29523373,.29523373,4.8218999,4.7852335
+2018,8,"Dmitri Kondrashov (UCLA)","Statistical","Statistical",4.52,,.5,"Scientist",.26523352,.26523352,4.8218999,4.7852335
+2018,8,"NSIDC Hivemind","Heuristic","Heuristic",4.5500002,,,"Scientist",.23523331,.23523331,4.8218999,4.7852335
+2018,8,"Meier, NSIDC","Statistical","Statistical",4.5700002,18.24,,"Scientist",.21523333,.21523333,4.8218999,4.7852335
+2018,8,"IARC (Brettschneider et al.)","Statistical","Statistical",4.6420002,,,"Scientist",.1432333,.1432333,4.8218999,4.7852335
+2018,8,"Lamont (Yuan & Li)","Statistical","Statistical",4.6900001,19.030001,.63,"Scientist",.09523344,.09523344,4.8218999,4.7852335
+2018,8,"CPOM (D. Schroeder, et al.)","Statistical","Statistical",4.6999998,,,"Scientist",.085233688,.085233688,4.8218999,4.7852335
+2018,8,"UTokyo (Kimura et al.)","Statistical","Statistical",4.71,,,"Scientist",.075233459,.075233459,4.8218999,4.7852335
+2018,8,"Slater/Barrett NSIDC","Statistical","Statistical",4.75,,,"Scientist",.035233498,.035233498,4.8218999,4.7852335
+2018,8,"Met Office","Dynamical","Dynamical",4.9000001,,,"Scientist",-.1147666,.1147666,4.8218999,4.7852335
+2018,8,"RASM (Kamal et al.)","Dynamical","Dynamical",4.921,,.50199997,"Scientist",-.13576651,.13576651,4.8218999,4.7852335
+2018,8,"NCEP CPC","Dynamical","Dynamical",4.9299998,,.88,"Scientist",-.14476633,.14476633,4.8218999,4.7852335
+2018,8,"Nico Sun","Statistical","Statistical",4.9330001,,.53500003,"Citizen",-.14776659,.14776659,4.8218999,4.7852335
+2018,8,"Zhang & Schweiger","Dynamical","Dynamical",4.9499998,,,"Scientist",-.16476631,.16476631,4.8218999,4.7852335
+2018,8,"Wu & Grumbine","Dynamical","Dynamical",4.96,20.129999,,"Scientist",-.17476654,.17476654,4.8218999,4.7852335
+2018,8,"ECMWF SEAS5","Dynamical","Dynamical",4.9699998,,,"Scientist",-.18476629,.18476629,4.8218999,4.7852335
+2018,8,"CNRM (Chevallier et al.)","Dynamical","Dynamical",4.9899998,17.83,,"Scientist",-.20476627,.20476627,4.8218999,4.7852335
+2018,8,"Alek Petty, NASA-GSFC","Statistical","Statistical",4.9899998,18.4,.60000002,"Scientist",-.20476627,.20476627,4.8218999,4.7852335
+2018,8,"Ionita & Grosfeld","Statistical","Statistical",5.0999999,,,"Scientist",-.31476641,.31476641,4.8218999,4.7852335
+2018,8,"AWI Consortium","Dynamical","Dynamical",5.1900001,,,"Scientist",-.40476656,.40476656,4.8218999,4.7852335
+2018,8,"Rob Dekker","Statistical","Statistical",5.1900001,,,"Citizen",-.40476656,.40476656,4.8218999,4.7852335
+2018,8,"Frank Bosse","Mixed","Statistical",5.1999998,,,"Citizen",-.41476631,.41476631,4.8218999,4.7852335
+2018,8,"Modified CanSIPS","Dynamical","Dynamical",5.2199998,,,"Scientist",-.43476629,.43476629,4.8218999,4.7852335
+2019,6,"Sanwa Elementary School (Iihoshi et al.)","Heuristic","Heuristic",3.0599999,,,"Citizen",1.3039002,1.3039002,4.7852302,4.3639002
+2019,6,"Morison","Heuristic","Heuristic",3.8,,,"Scientist",.56390023,.56390023,4.7852302,4.3639002
+2019,6,"McGill Team","Statistical","Statistical",3.99,,,"Scientist",.37390018,.37390018,4.7852302,4.3639002
+2019,6,"NASA GISS / McGill University","Statistical","Statistical",4,,,"Scientist",.36390018,.36390018,4.7852302,4.3639002
+2019,6,"Simmons, Charles","Statistical","Statistical",4.026,,,"Citizen",.33790016,.33790016,4.7852302,4.3639002
+2019,6,"University of Washington/APL","Dynamical","Dynamical",4.0700002,,,"Scientist",.29390001,.29390001,4.7852302,4.3639002
+2019,6,"Univ. of East Anglia (Cawley)","Statistical","Statistical",4.1451998,,,"Scientist",.21870041,.21870041,4.7852302,4.3639002
+2019,6,"LASG-IAP","Dynamical","Dynamical",4.1500001,,,"Scientist",.21390009,.21390009,4.7852302,4.3639002
+2019,6,"Meier NSIDC","Statistical","Statistical",4.1999998,17.049999,,"Scientist",.16390038,.16390038,4.7852302,4.3639002
+2019,6,"NASA GMAO","Dynamical","Dynamical",4.27,,.41,"Scientist",.093900204,.093900204,4.7852302,4.3639002
+2019,6,"CPOM (D. Schroeder, et al.)","Statistical","Statistical",4.3000002,,,"Scientist",.063899994,.063899994,4.7852302,4.3639002
+2019,6,"GFDL/NOAA (Bushuk et al.)","Dynamical","Dynamical",4.3099999,,.13,"Scientist",.053900242,.053900242,4.7852302,4.3639002
+2019,6,"UC Louvain (Massonnet et al.)","Dynamical","Dynamical",4.3200002,20.9,.5,"Scientist",.043900013,.043900013,4.7852302,4.3639002
+2019,6,"NCAR/CU (Kay et al.)","Heuristic","Heuristic",4.3800001,,,"Scientist",-.01609993,.01609993,4.7852302,4.3639002
+2019,6,"NSIDC (Group)","Heuristic","Heuristic",4.4000001,,,"Scientist",-.036099911,.036099911,4.7852302,4.3639002
+2019,6,"Sun, Nico","Statistical","Statistical",4.4000001,,.329,"Citizen",-.036099911,.036099911,4.7852302,4.3639002
+2019,6,"Wu, Tallapragada and Grumbine","Dynamical","Dynamical",4.4099998,19.719999,,"Scientist",-.046099663,.046099663,4.7852302,4.3639002
+2019,6,"IARC (Brettschneider et al.)","Statistical","Statistical",4.441,,,"Scientist",-.0770998,.0770998,4.7852302,4.3639002
+2019,6,"UCLA (Kondrashov)","Statistical","Statistical",4.48,,.49000001,"Scientist",-.11609983,.11609983,4.7852302,4.3639002
+2019,6,"Modified CanSIPS","Dynamical","Dynamical",4.5100002,,,"Scientist",-.14610004,.14610004,4.7852302,4.3639002
+2019,6,"Lamont (Yuan & Li)","Statistical","Statistical",4.5100002,18.639999,.23999999,"Scientist",-.14610004,.14610004,4.7852302,4.3639002
+2019,6,"NCEP CPC","Dynamical","Dynamical",4.6199999,,.52999997,"Scientist",-.2560997,.2560997,4.7852302,4.3639002
+2019,6,"FIO-ESM (Shu et al.)","Dynamical","Dynamical",4.6300001,,,"Scientist",-.26609993,.26609993,4.7852302,4.3639002
+2019,6,"UTokyo (Kimura et al.)","Statistical","Statistical",4.8699999,,,"Scientist",-.5060997,.5060997,4.7852302,4.3639002
+2019,6,"RASM (Kamal et al.)","Dynamical","Dynamical",4.9099998,,.324,"Scientist",-.54609966,.54609966,4.7852302,4.3639002
+2019,6,"NMEFC of China (Li and Li )","Statistical","Statistical",4.9400001,,,"Scientist",-.57609987,.57609987,4.7852302,4.3639002
+2019,6,"AWI Consortium","Dynamical","Dynamical",5.1799998,,,"Scientist",-.81609964,.81609964,4.7852302,4.3639002
+2019,6,"Met Office","Dynamical","Dynamical",5.1999998,17.700001,,"Scientist",-.83609962,.83609962,4.7852302,4.3639002
+2019,6,"NSIDC, CU Boulder (Horvath et al.)","Statistical","Statistical",5.5900002,,,"Scientist",-1.2261,1.2261,4.7852302,4.3639002
+2019,6,"Navy ESPC (Metzger et al.)","Dynamical","Dynamical",5.6999998,20.5,.72000003,"Scientist",-1.3360996,1.3360996,4.7852302,4.3639002
+2019,6,"METNO-SPARSE-ST","Dynamical","Dynamical",5.8959999,,,"Scientist",-1.5320997,1.5320997,4.7852302,4.3639002
+2019,7,"Sanwa Elementary School (Iihoshi et al.)","Heuristic","Heuristic",3.0599999,,,"Citizen",1.3039002,1.3039002,4.7852302,4.3639002
+2019,7,"Navy ESPC (Metzger et al.)","Dynamical","Dynamical",3.5999999,20.299999,.25,"Scientist",.76390028,.76390028,4.7852302,4.3639002
+2019,7,"GFDL/NOAA (Bushuk et al.)","Dynamical","Dynamical",3.6700001,,.1,"Scientist",.69390011,.69390011,4.7852302,4.3639002
+2019,7,"Morison","Heuristic","Heuristic",3.8,,,"Scientist",.56390023,.56390023,4.7852302,4.3639002
+2019,7,"Sun, Nico","Statistical","Statistical",3.95,,.20999999,"Citizen",.41390014,.41390014,4.7852302,4.3639002
+2019,7,"Simmons, Charles","Statistical","Statistical",3.9779999,,,"Citizen",.38590026,.38590026,4.7852302,4.3639002
+2019,7,"McGill Team","Statistical","Statistical",3.99,,,"Scientist",.37390018,.37390018,4.7852302,4.3639002
+2019,7,"NASA GISS / McGill University","Statistical","Statistical",4,,,"Scientist",.36390018,.36390018,4.7852302,4.3639002
+2019,7,"LASG-IAP","Dynamical","Dynamical",4.0100002,,,"Scientist",.35389996,.35389996,4.7852302,4.3639002
+2019,7," UCL (Gregory et al.)","Statistical","Statistical",4.0209999,,.2,"Scientist",.34290028,.34290028,4.7852302,4.3639002
+2019,7,"UIUC (Zhan)","Statistical","Statistical",4.04,,,"Scientist",.32390022,.32390022,4.7852302,4.3639002
+2019,7,"CPOM (D. Schroeder, et al.)","Statistical","Statistical",4.0999999,,,"Scientist",.26390028,.26390028,4.7852302,4.3639002
+2019,7,"NASA GSFC","Statistical","Statistical",4.1300001,,,"Scientist",.23390007,.23390007,4.7852302,4.3639002
+2019,7,"Univ. of East Anglia (Cawley)","Statistical","Statistical",4.1451998,,,"Scientist",.21870041,.21870041,4.7852302,4.3639002
+2019,7,"John, Christian","Statistical","Statistical",4.1700001,,,"Citizen",.19390011,.19390011,4.7852302,4.3639002
+2019,7,"Dekker, Rob","Statistical","Statistical",4.2199998,,,"Citizen",.14390039,.14390039,4.7852302,4.3639002
+2019,7,"NSIDC, CU Boulder (Horvath et al.)","Statistical","Statistical",4.25,,,"Scientist",.11390018,.11390018,4.7852302,4.3639002
+2019,7,"University of Washington/APL","Dynamical","Dynamical",4.2600002,,,"Scientist",.10389996,.10389996,4.7852302,4.3639002
+2019,7,"NASA GMAO","Dynamical","Dynamical",4.27,,.41,"Scientist",.093900204,.093900204,4.7852302,4.3639002
+2019,7,"Modified CanSIPS","Dynamical","Dynamical",4.2800002,,,"Scientist",.083899975,.083899975,4.7852302,4.3639002
+2019,7,"UC Louvain (Massonnet et al.)","Dynamical","Dynamical",4.3200002,20.9,.5,"Scientist",.043900013,.043900013,4.7852302,4.3639002
+2019,7,"NSIDC (Meier)","Statistical","Statistical",4.3400002,17.459999,,"Scientist",.023900032,.023900032,4.7852302,4.3639002
+2019,7,"NCAR/CU (Kay et al.)","Heuristic","Heuristic",4.3800001,,,"Scientist",-.01609993,.01609993,4.7852302,4.3639002
+2019,7,"NSIDC (Group)","Heuristic","Heuristic",4.4000001,,,"Scientist",-.036099911,.036099911,4.7852302,4.3639002
+2019,7,"NSIDC (Barrett/Slater)","Statistical","Statistical",4.46,,,"Scientist",-.096099854,.096099854,4.7852302,4.3639002
+2019,7,"IARC (Brettschneider et al.)","Statistical","Statistical",4.5240002,,,"Scientist",-.16009998,.16009998,4.7852302,4.3639002
+2019,7,"NCEP CPC","Dynamical","Dynamical",4.5500002,,.61000001,"Scientist",-.18610001,.18610001,4.7852302,4.3639002
+2019,7,"UCLA (Kondrashov)","Statistical","Statistical",4.5599999,,.47,"Scientist",-.19609976,.19609976,4.7852302,4.3639002
+2019,7,"RASM (Maslowski et al.) ","Dynamical","Dynamical",4.5700002,,.39300001,"Scientist",-.20609999,.20609999,4.7852302,4.3639002
+2019,7,"Wu, Tallapragada and Grumbine","Dynamical","Dynamical",4.5799999,20.18,,"Scientist",-.21609974,.21609974,4.7852302,4.3639002
+2019,7,"NMEFC of China (Li and Li )","Statistical","Statistical",4.5900002,,,"Scientist",-.22609997,.22609997,4.7852302,4.3639002
+2019,7,"PolArctic","Other","Statistical",4.5999999,,,"Scientist",-.23609972,.23609972,4.7852302,4.3639002
+2019,7,"FIO-ESM (Shu et al.)","Dynamical","Dynamical",4.6300001,,,"Scientist",-.26609993,.26609993,4.7852302,4.3639002
+2019,7,"UTokyo (Kimura et al.)","Statistical","Statistical",4.6999998,,,"Scientist",-.33609962,.33609962,4.7852302,4.3639002
+2019,7,"Lamont (Yuan & Li)","Statistical","Statistical",4.8699999,18.629999,.31,"Scientist",-.5060997,.5060997,4.7852302,4.3639002
+2019,7,"AWI Consortium","Dynamical","Dynamical",4.8899999,,,"Scientist",-.52609968,.52609968,4.7852302,4.3639002
+2019,7,"NMEFC (Zhao, et al.)","Dynamical","Dynamical",5.1100001,,,"Scientist",-.74609995,.74609995,4.7852302,4.3639002
+2019,7,"Met Office","Dynamical","Dynamical",5.1999998,17.9,,"Scientist",-.83609962,.83609962,4.7852302,4.3639002
+2019,7,"METNO-SPARSE-ST","Dynamical","Dynamical",5.8959999,,,"Scientist",-1.5320997,1.5320997,4.7852302,4.3639002
+2019,8,"Navy ESPC (Metzger et al.)","Dynamical","Dynamical",3,20.1,.12,"Scientist",1.3639002,1.3639002,4.7852302,4.3639002
+2019,8,"Sanwa Elementary School (Iihoshi et al.)","Heuristic","Heuristic",3.0599999,,,"Citizen",1.3039002,1.3039002,4.7852302,4.3639002
+2019,8,"GFDL/NOAA (Bushuk et al.)","Dynamical","Dynamical",3.21,,.029999999,"Scientist",1.1539001,1.1539001,4.7852302,4.3639002
+2019,8,"NSIDC, CU Boulder (Horvath et al.)","Statistical","Statistical",3.51,,,"Scientist",.85390019,.85390019,4.7852302,4.3639002
+2019,8,"Morison","Heuristic","Heuristic",3.8,,,"Scientist",.56390023,.56390023,4.7852302,4.3639002
+2019,8,"NASA GSFC","Statistical","Statistical",3.8900001,18.389999,.15000001,"Scientist",.47390008,.47390008,4.7852302,4.3639002
+2019,8,"GloSea (Blockley et al.)","Dynamical","Dynamical",3.9000001,,,"Scientist",.46390009,.46390009,4.7852302,4.3639002
+2019,8,"Simmons, Charles","Statistical","Statistical",3.9100001,,,"Citizen",.4539001,.4539001,4.7852302,4.3639002
+2019,8,"UCL (Gregory et al.)","Statistical","Statistical",3.9200001,,,"Scientist",.44390011,.44390011,4.7852302,4.3639002
+2019,8,"McGill Team","Statistical","Statistical",3.99,,,"Scientist",.37390018,.37390018,4.7852302,4.3639002
+2019,8,"NASA GISS / McGill University","Statistical","Statistical",4,,,"Scientist",.36390018,.36390018,4.7852302,4.3639002
+2019,8,"UIUC (Zhan)","Statistical","Statistical",4.04,,,"Scientist",.32390022,.32390022,4.7852302,4.3639002
+2019,8,"NSIDC (Meier)","Statistical","Statistical",4.0599999,17.870001,,"Scientist",.30390024,.30390024,4.7852302,4.3639002
+2019,8,"CPOM (D. Schroeder, et al.)","Statistical","Statistical",4.0999999,,,"Scientist",.26390028,.26390028,4.7852302,4.3639002
+2019,8,"Sun, Nico","Statistical","Statistical",4.1300001,,.22,"Citizen",.23390007,.23390007,4.7852302,4.3639002
+2019,8,"Univ. of East Anglia (Cawley)","Statistical","Statistical",4.1451998,,,"Scientist",.21870041,.21870041,4.7852302,4.3639002
+2019,8,"NSIDC (Barrett/Slater)","Statistical","Statistical",4.1599998,,,"Scientist",.20390034,.20390034,4.7852302,4.3639002
+2019,8,"IARC (Brettschneider et al.)","Statistical","Statistical",4.1680002,,,"Scientist",.19589996,.19589996,4.7852302,4.3639002
+2019,8,"John, Christian","Statistical","Statistical",4.1700001,,,"Citizen",.19390011,.19390011,4.7852302,4.3639002
+2019,8,"NASA GSFC","Statistical","Statistical",4.1799998,,,"Scientist",.18390036,.18390036,4.7852302,4.3639002
+2019,8,"Dekker, Rob","Statistical","Statistical",4.2199998,,,"Citizen",.14390039,.14390039,4.7852302,4.3639002
+2019,8,"UCLA (Kondrashov)","Statistical","Statistical",4.23,,.34999999,"Scientist",.13390017,.13390017,4.7852302,4.3639002
+2019,8,"METNO-SPARSE-ST","Dynamical","Dynamical",4.25,,,"Scientist",.11390018,.11390018,4.7852302,4.3639002
+2019,8,"NASA GMAO","Dynamical","Dynamical",4.27,,.41,"Scientist",.093900204,.093900204,4.7852302,4.3639002
+2019,8,"PolArctic","Other","Statistical",4.3000002,,,"Scientist",.063899994,.063899994,4.7852302,4.3639002
+2019,8,"NCEP CPC","Dynamical","Dynamical",4.3099999,,.61000001,"Scientist",.053900242,.053900242,4.7852302,4.3639002
+2019,8,"UC Louvain (Massonnet et al.)","Dynamical","Dynamical",4.3200002,20.9,.5,"Scientist",.043900013,.043900013,4.7852302,4.3639002
+2019,8,"LASG-IAP","Dynamical","Dynamical",4.3499999,,,"Scientist",.01390028,.01390028,4.7852302,4.3639002
+2019,8,"Modified CanSIPS","Dynamical","Dynamical",4.3800001,,,"Scientist",-.01609993,.01609993,4.7852302,4.3639002
+2019,8,"NCAR/CU (Kay et al.)","Heuristic","Heuristic",4.3800001,,,"Scientist",-.01609993,.01609993,4.7852302,4.3639002
+2019,8,"University of Washington/APL","Dynamical","Dynamical",4.4000001,,,"Scientist",-.036099911,.036099911,4.7852302,4.3639002
+2019,8,"NSIDC (Group)","Heuristic","Heuristic",4.4000001,,,"Scientist",-.036099911,.036099911,4.7852302,4.3639002
+2019,8,"Wu, Tallapragada and Grumbine","Dynamical","Dynamical",4.4699998,20.6,,"Scientist",-.10609961,.10609961,4.7852302,4.3639002
+2019,8,"Lamont (Yuan & Li)","Statistical","Statistical",4.5300002,18.879999,.38999999,"Scientist",-.16610003,.16610003,4.7852302,4.3639002
+2019,8,"RASM (Maslowski et al.)","Dynamical","Dynamical",4.5700002,,.39300001,"Scientist",-.20609999,.20609999,4.7852302,4.3639002
+2019,8,"NMEFC of China (Li and Li )","Statistical","Statistical",4.5900002,,,"Scientist",-.22609997,.22609997,4.7852302,4.3639002
+2019,8,"UTokyo (Kimura et al.)","Statistical","Statistical",4.6100001,,,"Scientist",-.24609995,.24609995,4.7852302,4.3639002
+2019,8,"FIO-ESM (Shu et al.)","Dynamical","Dynamical",4.6300001,,,"Scientist",-.26609993,.26609993,4.7852302,4.3639002
+2019,8,"ECMWF SEAS5","Dynamical","Dynamical",4.6300001,,,"Scientist",-.26609993,.26609993,4.7852302,4.3639002
+2019,8,"Met Office","Dynamical","Dynamical",4.6999998,18.200001,,"Scientist",-.33609962,.33609962,4.7852302,4.3639002
+2019,8,"AWI Consortium","Dynamical","Dynamical",4.71,,,"Scientist",-.34609985,.34609985,4.7852302,4.3639002
+2019,8,"NMEFC (Zhao, et al.)","Dynamical","Dynamical",5.6199999,,,"Scientist",-1.2560997,1.2560997,4.7852302,4.3639002
+2020,6,"University of Washington/APL","Dynamical","Dynamical",2.99,,,"Scientist",1.0105331,1.0105331,4.3639002,4.0005331
+2020,6,"University of Washington/APL ","Dynamical","Dynamical",3.2,,,"Scientist",.80053306,.80053306,4.3639002,4.0005331
+2020,6,"GFDL/NOAA (Bushuk et al.)","Dynamical","Dynamical",3.5,,.14,"Scientist",.5005331,.5005331,4.3639002,4.0005331
+2020,6,"ANSO IAP-LASG","Dynamical","Dynamical",3.8,,,"Scientist",.20053315,.20053315,4.3639002,4.0005331
+2020,6,"McGill Team","Statistical","Statistical",3.8900001,,,"Scientist",.110533,.110533,4.3639002,4.0005331
+2020,6,"Simmons, Charles","Statistical","Statistical",3.9489999,,,"Citizen",.051533222,.051533222,4.3639002,4.0005331
+2020,6,"CPOM UCL (Gregory et al.)","Statistical","Statistical",3.96,,,"Scientist",.040533066,.040533066,4.3639002,4.0005331
+2020,6,"Climate Prediction Center","Dynamical","Dynamical",4.0100002,,.56,"Scientist",-.0094671249,.0094671249,4.3639002,4.0005331
+2020,6,"Cawley, Gavin","Statistical","Statistical",4.0791001,,,"Scientist",-.078567028,.078567028,4.3639002,4.0005331
+2020,6,"NSIDC (Meier)","Statistical","Statistical",4.1300001,18.389999,,"Scientist",-.12946701,.12946701,4.3639002,4.0005331
+2020,6,"NSIDC (Horvath et al.)","Statistical","Statistical",4.1900001,,,"Scientist",-.18946695,.18946695,4.3639002,4.0005331
+2020,6,"APPLICATE (UCLouvain)","Dynamical","Dynamical",4.23,20.77,.47,"Scientist",-.22946692,.22946692,4.3639002,4.0005331
+2020,6,"AWI Consortium","Dynamical","Dynamical",4.27,,,"Scientist",-.26946688,.26946688,4.3639002,4.0005331
+2020,6,"Wu, Tallapragada, and Grumbine","Dynamical","Dynamical",4.3000002,18.879999,,"Scientist",-.29946709,.29946709,4.3639002,4.0005331
+2020,6,"NCAR/CU-Boulder","Heuristic","Heuristic",4.3000002,,,"Scientist",-.29946709,.29946709,4.3639002,4.0005331
+2020,6,"CPOM","Statistical","Statistical",4.3000002,,,"Scientist",-.29946709,.29946709,4.3639002,4.0005331
+2020,6,"FIO-ESM (Shu et al.)","Dynamical","Dynamical",4.3299999,,,"Scientist",-.32946682,.32946682,4.3639002,4.0005331
+2020,6,"UColorado/NSIDC (Slater-Barrett)","Statistical","Statistical",4.3299999,,,"Scientist",-.32946682,.32946682,4.3639002,4.0005331
+2020,6,"ARCUS Team (Wiggins et al.)","Heuristic","Heuristic",4.3400002,,,"Scientist",-.33946705,.33946705,4.3639002,4.0005331
+2020,6,"NSIDC Hivemind","Heuristic","Heuristic",4.3600001,,,"Scientist",-.35946703,.35946703,4.3639002,4.0005331
+2020,6,"RASM (Maslowski et al.)","Dynamical","Dynamical",4.3779998,,.39399999,"Scientist",-.37746668,.37746668,4.3639002,4.0005331
+2020,6,"Kondrashov, Dmitri ","Statistical","Statistical",4.4699998,,.41999999,"Scientist",-.46946669,.46946669,4.3639002,4.0005331
+2020,6,"ECCC-CanSIPSv2","Dynamical","Dynamical",4.48,,,"Scientist",-.47946692,.47946692,4.3639002,4.0005331
+2020,6,"APPLICATE Benchmark","Statistical","Statistical",4.5100002,18.540001,,"Scientist",-.50946712,.50946712,4.3639002,4.0005331
+2020,6,"UTokyo (Kimura et al.)","Statistical","Statistical",4.5700002,,,"Scientist",-.56946707,.56946707,4.3639002,4.0005331
+2020,6,"NMEFC of China (Li and Li )","Statistical","Statistical",4.5900002,,,"Scientist",-.58946705,.58946705,4.3639002,4.0005331
+2020,6,"Met Office (Blockley et al.)","Dynamical","Dynamical",4.5999999,18.200001,,"Scientist",-.5994668,.5994668,4.3639002,4.0005331
+2020,6,"Lamont (Yuan & Li)","Statistical","Statistical",4.6399999,18.57,.52999997,"Scientist",-.63946676,.63946676,4.3639002,4.0005331
+2020,6,"NMEFC (Jiechen Zhao)","Dynamical","Dynamical",4.8200002,,,"Scientist",-.81946707,.81946707,4.3639002,4.0005331
+2020,6,"Sun, Nico","Statistical","Statistical",4.8400002,,.56099999,"Citizen",-.83946705,.83946705,4.3639002,4.0005331
+2020,6,"APPLICATE CNRM (Batte, et al.)","Dynamical","Dynamical",4.9499998,,,"Scientist",-.94946671,.94946671,4.3639002,4.0005331
+2020,6,"BSC (Acosta Navarro et al.)","Dynamical","Dynamical",5,15.7,,"Scientist",-.9994669,.9994669,4.3639002,4.0005331
+2020,6,"METNO SPARSE (Wang et al.)","Dynamical","Dynamical",5,,,"Scientist",-.9994669,.9994669,4.3639002,4.0005331
+2020,6,"Navy ESPC (Metzger and Barton)","Dynamical","Dynamical",6.1999998,21.299999,1.03,"Scientist",-2.1994667,2.1994667,4.3639002,4.0005331
+2020,7,"GFDL/NOAA (Bushuk et al.)","Dynamical","Dynamical",3.1900001,,.079999998,"Scientist",.81053305,.81053305,4.3639002,4.0005331
+2020,7,"University of Washington/APL ","Dynamical","Dynamical",3.3499999,,,"Scientist",.6505332,.6505332,4.3639002,4.0005331
+2020,7,"McGill Team","Statistical","Statistical",3.8900001,,,"Scientist",.110533,.110533,4.3639002,4.0005331
+2020,7,"UTokyo (Kimura et al.)","Statistical","Statistical",3.95,,,"Scientist",.050533056,.050533056,4.3639002,4.0005331
+2020,7,"ANSO IAP-LASG","Dynamical","Dynamical",4,,,"Scientist",.00053310394,.00053310394,4.3639002,4.0005331
+2020,7,"AWI Consortium ","Dynamical","Dynamical",4.0300002,,,"Scientist",-.029467106,.029467106,4.3639002,4.0005331
+2020,7,"Cawley, Gavin","Statistical","Statistical",4.0799999,,,"Scientist",-.07946682,.07946682,4.3639002,4.0005331
+2020,7,"Climate Prediction Center","Dynamical","Dynamical",4.1199999,,.55000001,"Scientist",-.11946678,.11946678,4.3639002,4.0005331
+2020,7,"RASM (Maslowski et al.)","Dynamical","Dynamical",4.1560001,,.38999999,"Scientist",-.15546703,.15546703,4.3639002,4.0005331
+2020,7,"NASA GSFC (Petty)","Statistical","Statistical",4.1999998,,,"Scientist",-.19946671,.19946671,4.3639002,4.0005331
+2020,7,"APPLICATE Benchmark","Statistical","Statistical",4.2199998,18.370001,,"Scientist",-.21946669,.21946669,4.3639002,4.0005331
+2020,7,"APPLICATE (UCLouvain)","Dynamical","Dynamical",4.23,20.77,.47,"Scientist",-.22946692,.22946692,4.3639002,4.0005331
+2020,7,"FIO-ESM (Shu et al.)","Dynamical","Dynamical",4.3000002,,,"Scientist",-.29946709,.29946709,4.3639002,4.0005331
+2020,7,"NCAR/CU-Boulder","Heuristic","Heuristic",4.3000002,,,"Scientist",-.29946709,.29946709,4.3639002,4.0005331
+2020,7,"CPOM UCL (Gregory et al.)","Statistical","Statistical",4.3000002,,.40700001,"Scientist",-.29946709,.29946709,4.3639002,4.0005331
+2020,7,"CPOM","Statistical","Statistical",4.3000002,,,"Scientist",-.29946709,.29946709,4.3639002,4.0005331
+2020,7,"Metservice (Yizhe Zhan)","Statistical","Statistical",4.3299999,,,"Scientist",-.32946682,.32946682,4.3639002,4.0005331
+2020,7,"ARCUS Team (Wiggins et al.)","Heuristic","Heuristic",4.3400002,,,"Scientist",-.33946705,.33946705,4.3639002,4.0005331
+2020,7,"ECCC-CanSIPSv2","Dynamical","Dynamical",4.3600001,,,"Scientist",-.35946703,.35946703,4.3639002,4.0005331
+2020,7,"NSIDC Hivemind","Heuristic","Heuristic",4.3600001,,,"Scientist",-.35946703,.35946703,4.3639002,4.0005331
+2020,7,"Goulet Coulombe &","Statistical","Statistical",4.3699999,,,"Scientist",-.36946678,.36946678,4.3639002,4.0005331
+2020,7,"Sanwa school (Lihoshi et al.)","Heuristic","Heuristic",4.4000001,,,"Citizen",-.39946699,.39946699,4.3639002,4.0005331
+2020,7,"Sun, Nico","Statistical","Statistical",4.4099998,,.56099999,"Citizen",-.40946674,.40946674,4.3639002,4.0005331
+2020,7,"Kondrashov, Dmitri (UCLA) ","Statistical","Statistical",4.4299998,,.44999999,"Scientist",-.42946672,.42946672,4.3639002,4.0005331
+2020,7,"NSIDC (Meier)","Statistical","Statistical",4.4400001,18.27,,"Scientist",-.43946695,.43946695,4.3639002,4.0005331
+2020,7,"UPenn Group (Diebold et al.)","Statistical","Statistical",4.447,,,"Scientist",-.44646692,.44646692,4.3639002,4.0005331
+2020,7,"NSIDC (Horvath et al.)","Statistical","Statistical",4.4899998,,,"Scientist",-.48946667,.48946667,4.3639002,4.0005331
+2020,7,"Wu, Tallapragada, and Grumbine","Dynamical","Dynamical",4.5599999,20.02,,"Scientist",-.55946684,.55946684,4.3639002,4.0005331
+2020,7,"Lamont (Yuan & Li)","Statistical","Statistical",4.5900002,18.24,.60000002,"Scientist",-.58946705,.58946705,4.3639002,4.0005331
+2020,7,"NMEFC of China (Li and Li )","Statistical","Statistical",4.5900002,,,"Scientist",-.58946705,.58946705,4.3639002,4.0005331
+2020,7,"NMEFC (Jiechen Zhao)","Dynamical","Dynamical",4.5999999,,,"Scientist",-.5994668,.5994668,4.3639002,4.0005331
+2020,7,"UColorado/NSIDC (Slater-Barrett)","Statistical","Statistical",4.6399999,,,"Scientist",-.63946676,.63946676,4.3639002,4.0005331
+2020,7,"Met Office (Blockley et al.)","Dynamical","Dynamical",4.6999998,18.299999,,"Scientist",-.69946671,.69946671,4.3639002,4.0005331
+2020,7,"NASA GMAO","Dynamical","Dynamical",4.8699999,,.98000002,"Scientist",-.86946678,.86946678,4.3639002,4.0005331
+2020,7,"APPLICATE CNRM (Batte, et al.)","Dynamical","Dynamical",4.9499998,,,"Scientist",-.94946671,.94946671,4.3639002,4.0005331
+2020,7,"METNO SPARSE (Wang et al.)","Dynamical","Dynamical",5,,,"Scientist",-.9994669,.9994669,4.3639002,4.0005331
+2020,7,"Navy ESPC (Metzger and Barton)","Dynamical","Dynamical",5.1999998,21.799999,.88999999,"Scientist",-1.1994667,1.1994667,4.3639002,4.0005331
+2020,8,"GFDL/NOAA (Bushuk et al.)","Dynamical","Dynamical",2.26,,.050000001,"Scientist",1.7405331,1.7405331,4.3639002,4.0005331
+2020,8,"ANSO IAP-LASG","Dynamical","Dynamical",3.8,,,"Scientist",.20053315,.20053315,4.3639002,4.0005331
+2020,8,"University of Washington/APL ","Dynamical","Dynamical",3.8099999,,,"Scientist",.19053316,.19053316,4.3639002,4.0005331
+2020,8,"AWI Consortium","Dynamical","Dynamical",3.8199999,,,"Scientist",.18053317,.18053317,4.3639002,4.0005331
+2020,8,"Simmons, Charles","Statistical","Statistical",3.823,,,"Citizen",.17753315,.17753315,4.3639002,4.0005331
+2020,8,"McGill Team","Statistical","Statistical",3.8900001,,,"Scientist",.110533,.110533,4.3639002,4.0005331
+2020,8,"NSIDC (Meier)","Statistical","Statistical",3.9300001,18.09,,"Scientist",.070533037,.070533037,4.3639002,4.0005331
+2020,8,"Cawley, Gavin","Statistical","Statistical",4.0791001,,,"Scientist",-.078567028,.078567028,4.3639002,4.0005331
+2020,8,"RASM (Maslowski et al.)","Dynamical","Dynamical",4.1339998,,.50800002,"Scientist",-.13346672,.13346672,4.3639002,4.0005331
+2020,8,"FIO-ESM (Shu et al.)","Dynamical","Dynamical",4.1799998,,,"Scientist",-.17946672,.17946672,4.3639002,4.0005331
+2020,8,"Climate Prediction Center","Dynamical","Dynamical",4.1900001,,.69999999,"Scientist",-.18946695,.18946695,4.3639002,4.0005331
+2020,8,"Navy ESPC (Metzger and Barton)","Dynamical","Dynamical",4.1999998,22,.75999999,"Scientist",-.19946671,.19946671,4.3639002,4.0005331
+2020,8,"IceNet1 (Andersson et al.)","Other","Statistical",4.21,,,"Scientist",-.20946693,.20946693,4.3639002,4.0005331
+2020,8,"PolArctic","Other","Statistical",4.21,,,"Scientist",-.20946693,.20946693,4.3639002,4.0005331
+2020,8,"APPLICATE (UCLouvain)","Dynamical","Dynamical",4.23,20.77,.47,"Scientist",-.22946692,.22946692,4.3639002,4.0005331
+2020,8,"Lamont (Yuan and Li)","Statistical","Statistical",4.2399998,18.65,.63999999,"Scientist",-.23946667,.23946667,4.3639002,4.0005331
+2020,8,"METNO SPARSE (Wang et al.)","Dynamical","Dynamical",4.3000002,,,"Scientist",-.29946709,.29946709,4.3639002,4.0005331
+2020,8,"NCAR/CU-Boulder","Heuristic","Heuristic",4.3000002,,,"Scientist",-.29946709,.29946709,4.3639002,4.0005331
+2020,8,"Kondrashov, Dmitri (UCLA)","Statistical","Statistical",4.3000002,,.56999999,"Scientist",-.29946709,.29946709,4.3639002,4.0005331
+2020,8,"NSIDC (Horvath et al.) ","Statistical","Statistical",4.3000002,,,"Scientist",-.29946709,.29946709,4.3639002,4.0005331
+2020,8,"CPOM UCL (Gregory et al.)","Statistical","Statistical",4.3000002,,.384,"Scientist",-.29946709,.29946709,4.3639002,4.0005331
+2020,8,"CPOM","Statistical","Statistical",4.3000002,,,"Scientist",-.29946709,.29946709,4.3639002,4.0005331
+2020,8,"UTokyo (Kimura et al.)","Statistical","Statistical",4.3200002,,,"Scientist",-.31946707,.31946707,4.3639002,4.0005331
+2020,8,"Metservice (Yizhe Zhan)","Statistical","Statistical",4.3299999,,,"Scientist",-.32946682,.32946682,4.3639002,4.0005331
+2020,8,"ARCUS Team (Wiggins et al.)","Heuristic","Heuristic",4.3400002,,,"Scientist",-.33946705,.33946705,4.3639002,4.0005331
+2020,8,"NSIDC Hivemind","Heuristic","Heuristic",4.3600001,,,"Scientist",-.35946703,.35946703,4.3639002,4.0005331
+2020,8,"Sun, Nico","Statistical","Statistical",4.3600001,,.491,"Citizen",-.35946703,.35946703,4.3639002,4.0005331
+2020,8,"Goulet Coulombe and Gobel","Statistical","Statistical",4.3699999,,,"Scientist",-.36946678,.36946678,4.3639002,4.0005331
+2020,8,"Met Office (Blockley et al.)","Dynamical","Dynamical",4.4000001,18.4,,"Scientist",-.39946699,.39946699,4.3639002,4.0005331
+2020,8,"Sanwa school (Lihoshi et al.)","Heuristic","Heuristic",4.4000001,,,"Citizen",-.39946699,.39946699,4.3639002,4.0005331
+2020,8,"ECCC-CanSIPSv2","Dynamical","Dynamical",4.4099998,,,"Scientist",-.40946674,.40946674,4.3639002,4.0005331
+2020,8,"EMC/NCEP (Wu, et al.)","Dynamical","Dynamical",4.4499998,20.01,,"Scientist",-.44946671,.44946671,4.3639002,4.0005331
+2020,8,"UColorado/NSIDC (Slater-Barrett)","Statistical","Statistical",4.48,,,"Scientist",-.47946692,.47946692,4.3639002,4.0005331
+2020,8,"APPLICATE Benchmark","Statistical","Statistical",4.5799999,18.35,,"Scientist",-.57946682,.57946682,4.3639002,4.0005331
+2020,8,"NMEFC of China (Li and Li )","Statistical","Statistical",4.5900002,,,"Scientist",-.58946705,.58946705,4.3639002,4.0005331
+2020,8,"NMEFC (Jiechen Zhao)","Dynamical","Dynamical",4.5999999,,,"Scientist",-.5994668,.5994668,4.3639002,4.0005331
+2020,8,"UPenn Group (Diebold et al.)","Statistical","Statistical",4.8130002,,,"Scientist",-.8124671,.8124671,4.3639002,4.0005331
+2020,8,"NASA GMAO","Dynamical","Dynamical",4.8699999,,.98000002,"Scientist",-.86946678,.86946678,4.3639002,4.0005331
+2020,8,"APPLICATE CNRM (Batte, et al.)","Dynamical","Dynamical",4.9499998,,,"Scientist",-.94946671,.94946671,4.3639002,4.0005331
+2021,6,"University of Washington/APL","Dynamical","Dynamical",3.73,,,,1.2224002,1.2224002,,4.9524002
+2021,6,"UPenn Group 1 (FERL)","Statistical","Statistical",3.77,,,,1.1824002,1.1824002,,4.9524002
+2021,6,"PolArctic","Other","Statistical",3.8299999,,,,1.1224003,1.1224003,,4.9524002
+2021,6,"Wu, Tallapragada and Grumbine","Dynamical","Dynamical",3.8699999,18.530001,,,1.0824003,1.0824003,,4.9524002
+2021,6,"Met Office","Dynamical","Dynamical",3.9000001,16.5,,,1.0524001,1.0524001,,4.9524002
+2021,6,"UCLouvain","Dynamical","Dynamical",3.9100001,20.780001,.5,,1.0424001,1.0424001,,4.9524002
+2021,6,"Simmons, Charles","Statistical","Statistical",3.9200001,,,"Citizen",1.0324001,1.0324001,,4.9524002
+2021,6,"GP Regression (Cawley)","Statistical","Statistical",3.960695,,,,.99170518,.99170518,,4.9524002
+2021,6,"KOPRI (Chi et al.)","Other","Other",4.04,,,,.91240025,.91240025,,4.9524002
+2021,6,"CNRM (Batté et al.)","Mixed","Dynamical",4.04,,,,.91240025,.91240025,,4.9524002
+2021,6,"NCAR/CU (Kay et al.)","Heuristic","Heuristic",4.1399999,,,,.81240034,.81240034,,4.9524002
+2021,6,"AWI Consortium","Dynamical","Dynamical",4.1599998,,,,.79240036,.79240036,,4.9524002
+2021,6,"ARCUS Team (Wiggins et al.)","Heuristic","Heuristic",4.1700001,,,"Citizen",.78240013,.78240013,,4.9524002
+2021,6,"CPOM","Statistical","Statistical",4.1999998,,,,.7524004,.7524004,,4.9524002
+2021,6,"ANSO IAP-LASG","Dynamical","Dynamical",4.23,,,,.72240019,.72240019,,4.9524002
+2021,6,"UPenn (VARCTIC)","Statistical","Statistical",4.25,,,,.70240021,.70240021,,4.9524002
+2021,6,"ASIC NIPR","Statistical","Statistical",4.27,,,,.68240023,.68240023,,4.9524002
+2021,6,"Sun, Nico","Statistical","Statistical",4.3299999,18.889999,.389,"Citizen",.62240028,.62240028,,4.9524002
+2021,6,"Climate Prediction Center","Dynamical","Dynamical",4.3600001,,.72000003,,.59240007,.59240007,,4.9524002
+2021,6,"FIO-ESM (Shu et al.)","Dynamical","Dynamical",4.3800001,,,,.57240009,.57240009,,4.9524002
+2021,6,"NSIDC Hivemind","Heuristic","Heuristic",4.4000001,,,,.55240011,.55240011,,4.9524002
+2021,6,"METNO-SPARSE-ST","Statistical","Statistical",4.4000001,18.299999,,,.55240011,.55240011,,4.9524002
+2021,6,"NSIDC (Horvath et al.)","Statistical","Statistical",4.4400001,,,,.51240015,.51240015,,4.9524002
+2021,6,"NMEFC of China (Li and Li )","Statistical","Statistical",4.48,,,,.47240019,.47240019,,4.9524002
+2021,6,"APPLICATE Benchmark","Statistical","Statistical",4.5,18.52,,,.45240021,.45240021,,4.9524002
+2021,6,"CPOM UCL (Gregory et al)","Statistical","Statistical",4.5,,.56999999,,.45240021,.45240021,,4.9524002
+2021,6,"ECCC-CanSIPSv2","Dynamical","Dynamical",4.5100002,,,,.44239998,.44239998,,4.9524002
+2021,6,"Vandevoorde, Pirlet, and Audoor","Statistical","Statistical",4.5946922,,,"Citizen",.35770798,.35770798,,4.9524002
+2021,6,"UTokyo (Kimura et al.)","Statistical","Statistical",4.6100001,,,,.34240007,.34240007,,4.9524002
+2021,6,"BDAL Group (Sahara et al.)","Other","Other",4.6279998,,,,.32440042,.32440042,,4.9524002
+2021,6,"Dmitri Kondrashov (UCLA)","Other","Other",4.6300001,,,,.32240009,.32240009,,4.9524002
+2021,6,"SYSU/SML-MLM","Statistical","Statistical",4.6300001,,.70999998,,.32240009,.32240009,,4.9524002
+2021,6,"NSIDC (Meier)","Statistical","Statistical",4.6500001,18.57,,,.30240011,.30240011,,4.9524002
+2021,6,"Lamont (Yuan & Li)","Statistical","Statistical",4.7399998,18.77,.69,,.21240044,.21240044,,4.9524002
+2021,6,"RASM@NPS (Maslowski et al.)","Dynamical","Dynamical",4.7620001,,.667,,.19040012,.19040012,,4.9524002
+2021,6,"SYSU/SML-KNN","Other","Other",4.8000002,,,,.15240002,.15240002,,4.9524002
+2021,6,"Mihara Primary School (Iihoshi, et al.)","Heuristic","Heuristic",5.1700001,,,"Citizen",-.21759987,.21759987,,4.9524002
+2021,6,"OSEIBOLA","Statistical","Statistical",5.2314048,,,,-.27900457,.27900457,,4.9524002
+2021,7,"PolArctic","Other","Other",3.8299999,,,,1.1224003,1.1224003,,4.9524002
+2021,7,"McGill Team","Statistical","Statistical",3.8900001,,,,1.0624001,1.0624001,,4.9524002
+2021,7,"UCLouvain","Dynamical","Dynamical",3.9100001,20.780001,.5,,1.0424001,1.0424001,,4.9524002
+2021,7,"UPenn Group 1 (FERL)","Statistical","Statistical",3.95,,,,1.0024002,1.0024002,,4.9524002
+2021,7,"Wu, Tallapragada and Grumbine","Dynamical","Dynamical",3.96,19.6,,,.99240017,.99240017,,4.9524002
+2021,7,"GP Regression (Cawley)","Statistical","Statistical",3.960695,,,,.99170518,.99170518,,4.9524002
+2021,7,"Simmons, Charles","Statistical","Statistical",4,,,"Citizen",.95240021,.95240021,,4.9524002
+2021,7,"University of Washington/APL","Dynamical","Dynamical",4.0100002,,,,.94239998,.94239998,,4.9524002
+2021,7,"ANSO IAP-LASG","Dynamical","Dynamical",4.0300002,,,,.9224,.9224,,4.9524002
+2021,7,"AWI Consortium","Dynamical","Dynamical",4.0700002,,,,.88240004,.88240004,,4.9524002
+2021,7,"NASA GMAO","Dynamical","Dynamical",4.0900002,,.41,,.86240005,.86240005,,4.9524002
+2021,7,"SYSU/SML-MLM","Statistical","Statistical",4.1100001,,.51999998,,.84240007,.84240007,,4.9524002
+2021,7,"Chen, Thomas Y.","Other","Other",4.1199999,,,"Citizen",.83240032,.83240032,,4.9524002
+2021,7,"NCAR/CU (Kay et al.)","Heuristic","Heuristic",4.1399999,,,,.81240034,.81240034,,4.9524002
+2021,7,"ARCUS Team (Wiggins et al.)","Heuristic","Heuristic",4.1700001,,,"Citizen",.78240013,.78240013,,4.9524002
+2021,7,"ASIC NIPR","Statistical","Statistical",4.1869998,,,,.76540041,.76540041,,4.9524002
+2021,7,"UPenn (VARCTIC)","Statistical","Statistical",4.25,,,,.70240021,.70240021,,4.9524002
+2021,7,"KOPRI (Chi et al.)","Other","Other",4.3099999,,,,.64240026,.64240026,,4.9524002
+2021,7,"Dmitri Kondrashov (UCLA)","Other","Other",4.3299999,,,,.62240028,.62240028,,4.9524002
+2021,7,"METNO-SPARSE-ST","Statistical","Statistical",4.3600001,18.4,,,.59240007,.59240007,,4.9524002
+2021,7,"CPOM UCL (Gregory et al)","Statistical","Statistical",4.3600001,,.44999999,,.59240007,.59240007,,4.9524002
+2021,7,"APPLICATE Benchmark","Statistical","Statistical",4.3699999,18.389999,,,.58240032,.58240032,,4.9524002
+2021,7,"Metservice (Yizhe Zhan)","Statistical","Statistical",4.3800001,,,,.57240009,.57240009,,4.9524002
+2021,7,"Climate Prediction Center","Dynamical","Dynamical",4.4000001,,.95999998,,.55240011,.55240011,,4.9524002
+2021,7,"NSIDC Hivemind","Heuristic","Heuristic",4.4000001,,,,.55240011,.55240011,,4.9524002
+2021,7,"CPOM","Statistical","Statistical",4.4000001,,,,.55240011,.55240011,,4.9524002
+2021,7,"NSIDC (Meier)","Statistical","Statistical",4.4200001,18.66,,,.53240013,.53240013,,4.9524002
+2021,7,"BDAL Group (Sahara et al.)","Other","Other",4.4520001,,,,.50040007,.50040007,,4.9524002
+2021,7,"NSIDC (Horvath et al.)","Statistical","Statistical",4.46,,,,.49240017,.49240017,,4.9524002
+2021,7,"FIO-ESM (Shu et al.)","Dynamical","Dynamical",4.5,,,,.45240021,.45240021,,4.9524002
+2021,7,"Sun, Nico","Statistical","Statistical",4.52,18.959999,.5,"Citizen",.43240023,.43240023,,4.9524002
+2021,7,"NMEFC of China (Li and Li )","Statistical","Statistical",4.5700002,,,,.38240004,.38240004,,4.9524002
+2021,7,"RASM@NPS (Maslowski et al.)","Dynamical","Dynamical",4.5830002,,.62900001,,.36940002,.36940002,,4.9524002
+2021,7,"Lamont (Yuan & Li)","Statistical","Statistical",4.5900002,18.370001,.72000003,,.36240005,.36240005,,4.9524002
+2021,7,"Vandevoorde, Pirlet, and Audoor","Statistical","Statistical",4.5946922,,,"Citizen",.35770798,.35770798,,4.9524002
+2021,7,"Met Office","Dynamical","Dynamical",4.5999999,17.200001,,,.3524003,.3524003,,4.9524002
+2021,7,"UTokyo (Kimura et al.)","Statistical","Statistical",4.6599998,,,,.29240036,.29240036,,4.9524002
+2021,7,"ECCC-CanSIPSv2","Dynamical","Dynamical",4.71,,,,.24240017,.24240017,,4.9524002
+2021,7,"Big Data REU Team 1 @ UMBC","Other","Other",4.8699999,,,,.082400322,.082400322,,4.9524002
+2021,7,"SYSU/SML-KNN","Other","Other",5,,,,-.047599792,.047599792,,4.9524002
+2021,7,"Mihara Primary School (Iihoshi, et al.)","Heuristic","Heuristic",5.1700001,,,"Citizen",-.21759987,.21759987,,4.9524002
+2021,8,"EMC/NCEP (UFS)","Dynamical","Dynamical",3.6900001,20.459999,,,1.2624002,1.2624002,,4.9524002
+2021,8,"McGill Team","Statistical","Statistical",3.8900001,,,,1.0624001,1.0624001,,4.9524002
+2021,8,"UCLouvain","Dynamical","Dynamical",3.9100001,20.780001,.5,"Citizen",1.0424001,1.0424001,,4.9524002
+2021,8,"AWI Consortium","Dynamical","Dynamical",3.9200001,,,,1.0324001,1.0324001,,4.9524002
+2021,8,"SYSU/SML-MLM","Statistical","Statistical",3.9300001,,.62,,1.0224001,1.0224001,,4.9524002
+2021,8,"GP Regression (Cawley)","Statistical","Statistical",3.960695,,,"Citizen",.99170518,.99170518,,4.9524002
+2021,8,"Wu, Tallapragada and Grumbine","Dynamical","Dynamical",3.97,21.809999,,,.98240018,.98240018,,4.9524002
+2021,8,"PolArctic","Other","Statistical",4.0599999,,,,.89240026,.89240026,,4.9524002
+2021,8,"NASA GMAO","Dynamical","Dynamical",4.0900002,,.41,,.86240005,.86240005,,4.9524002
+2021,8,"Chen, Thomas Y.","Other","Other",4.1199999,,,,.83240032,.83240032,,4.9524002
+2021,8,"NCAR/CU (Kay et al.)","Heuristic","Heuristic",4.1399999,,,"Citizen",.81240034,.81240034,,4.9524002
+2021,8,"ARCUS Team (Wiggins et al.)","Heuristic","Heuristic",4.1700001,,,,.78240013,.78240013,,4.9524002
+2021,8,"CSU-REU21","Statistical","Statistical",4.23,,,,.72240019,.72240019,,4.9524002
+2021,8,"Lamont (Yuan & Li)","Statistical","Statistical",4.2800002,18.77,.69,"Citizen",.6724,.6724,,4.9524002
+2021,8,"SYSU/SML-KNN","Other","Other",4.29,,,,.66240025,.66240025,,4.9524002
+2021,8,"Met Office","Dynamical","Dynamical",4.3000002,17.5,,,.65240002,.65240002,,4.9524002
+2021,8,"METNO-SPARSE-ST","Statistical","Statistical",4.3000002,18.6,,,.65240002,.65240002,,4.9524002
+2021,8,"ANSO IAP-LASG","Dynamical","Dynamical",4.3200002,,,,.63240004,.63240004,,4.9524002
+2021,8,"University of Washington/APL","Dynamical","Dynamical",4.3200002,,,,.63240004,.63240004,,4.9524002
+2021,8,"Big Data REU Team 1 @ UMBC","Other","Other",4.3579998,,,,.59440041,.59440041,,4.9524002
+2021,8,"ASIC NIPR","Statistical","Statistical",4.3709998,,,,.58140039,.58140039,,4.9524002
+2021,8,"Metservice (Yizhe Zhan)","Statistical","Statistical",4.3800001,,,,.57240009,.57240009,,4.9524002
+2021,8,"BDAL Group (Sahara et al.)","Other","Other",4.3889999,,,,.56340027,.56340027,,4.9524002
+2021,8,"Simmons, Charles","Statistical","Statistical",4.3899999,,,"Citizen",.56240034,.56240034,,4.9524002
+2021,8,"NSIDC Hivemind","Heuristic","Heuristic",4.4000001,,,,.55240011,.55240011,,4.9524002
+2021,8,"CPOM","Statistical","Statistical",4.4000001,,,,.55240011,.55240011,,4.9524002
+2021,8,"Climate Prediction Center","Dynamical","Dynamical",4.4099998,,1.05,,.54240036,.54240036,,4.9524002
+2021,8,"KOPRI (Chi et al.)","Other","Other",4.4499998,,,,.5024004,.5024004,,4.9524002
+2021,8,"APPLICATE Benchmark","Statistical","Statistical",4.4499998,18.27,,,.5024004,.5024004,,4.9524002
+2021,8,"UPenn (VARCTIC)","Statistical","Statistical",4.4699998,,,,.48240042,.48240042,,4.9524002
+2021,8,"FIO-ESM (Shu et al.)","Dynamical","Dynamical",4.5,,,,.45240021,.45240021,,4.9524002
+2021,8,"NSIDC (Meier)","Statistical","Statistical",4.5,18.959999,,,.45240021,.45240021,,4.9524002
+2021,8,"RASM@NPS (Maslowski et al.)","Dynamical","Dynamical",4.5029998,,.67400002,,.44940042,.44940042,,4.9524002
+2021,8,"CPOM UCL (Gregory et al)","Statistical","Statistical",4.5300002,,.60000002,,.4224,.4224,,4.9524002
+2021,8,"Dmitri Kondrashov (UCLA)","Other","Other",4.5599999,,.62,,.39240026,.39240026,,4.9524002
+2021,8,"NMEFC of China (Li and Li )","Statistical","Statistical",4.5700002,,,"Citizen",.38240004,.38240004,,4.9524002
+2021,8,"Vandevoorde, Pirlet, and Audoor","Statistical","Statistical",4.5946922,,,,.35770798,.35770798,,4.9524002
+2021,8,"UTokyo (Kimura et al.)","Statistical","Statistical",4.6599998,,,,.29240036,.29240036,,4.9524002
+2021,8,"UPenn Group 1 (FERL)","Statistical","Statistical",4.7399998,,,,.21240044,.21240044,,4.9524002
+2021,8,"IceNet1","Other","Statistical",4.75,,,,.20240021,.20240021,,4.9524002
+2021,8,"ECCC-CanSIPSv2","Dynamical","Dynamical",4.77,,,,.18240023,.18240023,,4.9524002
+2021,8,"NASA GSFC","Statistical","Statistical",4.7800002,,,,.1724,.1724,,4.9524002
+2021,8,"NSIDC (Horvath et al.)","Statistical","Statistical",4.9099998,,,,.04240036,.04240036,,4.9524002
+2021,8,"Sun, Nico","Statistical","Statistical",4.9499998,18.92,.86199999,"Citizen",.0024003983,.0024003983,,4.9524002
+2021,8,"Mihara Primary School (Iihoshi, et al.)","Heuristic","Heuristic",5.1700001,,,,-.21759987,.21759987,,4.9524002
+2022,6,"University of Washington/APL","Dynamical","Dynamical",3.4100001,,,,1.4869335,1.4869335,,4.8969336
+2022,6,"ArCS II Kids","Heuristic","Heuristic",3.52,,,,1.3769336,1.3769336,,4.8969336
+2022,6,"Met Office","Dynamical","Dynamical",3.7,18,,,1.1969335,1.1969335,,4.8969336
+2022,6,"ANSO IAP-LASG","Dynamical","Dynamical",3.78,,,,1.1169336,1.1169336,,4.8969336
+2022,6,"Simmons, Charles","Other","Other",4.0999999,,,,.79693365,.79693365,,4.8969336
+2022,6,"NCAR/CU (Kay et al.)","Heuristic","Heuristic",4.2800002,,,,.61693335,.61693335,,4.8969336
+2022,6,"FIO-ESM (Shu et al.)","Dynamical","Dynamical",4.3000002,,,,.59693336,.59693336,,4.8969336
+2022,6,"CPOM","Other","Other",4.3000002,,,,.59693336,.59693336,,4.8969336
+2022,6,"UPenn-UQAM Group","Other","Other",4.3200002,,,,.57693338,.57693338,,4.8969336
+2022,6,"NCEP-EMC (Wu et al.)","Dynamical","Dynamical",4.3400002,18.370001,,,.5569334,.5569334,,4.8969336
+2022,6,"SYSU/SML-MLM","Other","Other",4.4099998,,.63,,.48693371,.48693371,,4.8969336
+2022,6,"NSIDC Hivemind","Heuristic","Heuristic",4.48,,,,.41693354,.41693354,,4.8969336
+2022,6,"HEU Group (Zhao, et al)","Other","Other",4.5,18.4,,,.39693356,.39693356,,4.8969336
+2022,6,"CPOM UCL (Gregory et al)","Other","Other",4.5,,.33000001,,.39693356,.39693356,,4.8969336
+2022,6,"UQAM (VARCTIC)","Other","Other",4.5056,,,,.39133358,.39133358,,4.8969336
+2022,6,"NMEFC of China (Li and Li )","Other","Other",4.54,,,,.35693359,.35693359,,4.8969336
+2022,6,"ASIC NIPR","Other","Other",4.5489998,,,,.34793377,.34793377,,4.8969336
+2022,6,"GFDL/NOAA (Bushuk et al.)","Dynamical","Dynamical",4.5599999,,.52999997,,.33693361,.33693361,,4.8969336
+2022,6,"APPLICATE Benchmark","Other","Other",4.5700002,18.280001,,,.32693338,.32693338,,4.8969336
+2022,6,"METNO-SPARSE-ST","Other","Other",4.6389999,17.773001,.49700001,,.25793362,.25793362,,4.8969336
+2022,6,"PolArctic","Other","Other",4.71,,,,.18693352,.18693352,,4.8969336
+2022,6,"NASA GMAO","Dynamical","Dynamical",4.75,,.97000003,,.14693356,.14693356,,4.8969336
+2022,6,"AWI Consortium","Dynamical","Dynamical",4.75,,,,.14693356,.14693356,,4.8969336
+2022,6,"ARCUS Team (Wiggins et al.)","Heuristic","Heuristic",4.75,,,,.14693356,.14693356,,4.8969336
+2022,6,"Slater/Barrett NSIDC","Other","Other",4.8299999,,,,.066933632,.066933632,,4.8969336
+2022,6,"IceTFT(Bin Mu, et al.)","Other","Other",4.8499999,,,,.046933651,.046933651,,4.8969336
+2022,6,"Sun, Nico","Other","Other",4.8600001,18.73,.55500001,,.036933422,.036933422,,4.8969336
+2022,6,"Climate Prediction Center","Dynamical","Dynamical",4.9000001,,.97000003,,-.0030665398,.0030665398,,4.8969336
+2022,6,"Dmitri Kondrashov (UCLA)","Other","Other",4.9000001,,.55000001,,-.0030665398,.0030665398,,4.8969336
+2022,6,"LPHYS2268 - CDDF","Other","Other",4.9057851,,,,-.0088515282,.0088515282,,4.8969336
+2022,6,"RASM@NPS (Maslowski et al.)","Dynamical","Dynamical",4.9099998,,.546,,-.013066292,.013066292,,4.8969336
+2022,6,"NSIDC (Meier)","Other","Other",4.9699998,17.34,,,-.073066235,.073066235,,4.8969336
+2022,6,"KOPRI (Chi et al.)","Other","Other",5,,,,-.10306644,.10306644,,4.8969336
+2022,6,"SYSU/SML-KNN","Other","Other",5.04,,,,-.14306641,.14306641,,4.8969336
+2022,6,"Horvath, et al.","Other","Other",5.0700002,,,,-.17306662,.17306662,,4.8969336
+2022,6,"Lamont (Yuan & Li)","Other","Other",5.1799998,18.42,.56999999,,-.28306627,.28306627,,4.8969336
+2022,6,"EMC/NCEP (UFS)","Dynamical","Dynamical",5.1999998,18.41,,,-.30306625,.30306625,,4.8969336
+2022,7,"University of Washington/APL","Dynamical","Dynamical",3.96,,,,.93693352,.93693352,,4.8969336
+2022,7,"FIO-ESM (Shu et al.)","Dynamical","Dynamical",4.0100002,,,,.88693333,.88693333,,4.8969336
+2022,7,"ANSO IAP-LASG","Dynamical","Dynamical",4.04,,,,.85693359,.85693359,,4.8969336
+2022,7,"Simmons, Charles","Other","Other",4.0599999,,,,.83693361,.83693361,,4.8969336
+2022,7,"Met Office","Dynamical","Dynamical",4.0999999,17.799999,,,.79693365,.79693365,,4.8969336
+2022,7,"Gavin Cawley","Other","Other",4.2115898,,,,.68534374,.68534374,,4.8969336
+2022,7,"UKMO-OIT","Heuristic","Heuristic",4.25,,,,.64693356,.64693356,,4.8969336
+2022,7,"HEU Group (Zhao, et al)","Other","Other",4.48,18.27,,,.41693354,.41693354,,4.8969336
+2022,7,"CPOM","Other","Other",4.5,,,,.39693356,.39693356,,4.8969336
+2022,7,"UPenn-UQAM Group","Other","Other",4.52,,,,.37693357,.37693357,,4.8969336
+2022,7,"METNO-SPARSE-ST","Other","Other",4.5240002,17.594999,.54000002,,.37293339,.37293339,,4.8969336
+2022,7,"ASIC NIPR","Other","Other",4.5300002,,,,.36693335,.36693335,,4.8969336
+2022,7,"Lamont (Yuan & Li)","Other","Other",4.54,18.440001,.63999999,,.35693359,.35693359,,4.8969336
+2022,7,"APPLICATE Benchmark","Other","Other",4.5700002,18.209999,,,.32693338,.32693338,,4.8969336
+2022,7,"Climate Prediction Center","Dynamical","Dynamical",4.6399999,,.80000001,,.25693369,.25693369,,4.8969336
+2022,7,"NSIDC (Meier)","Other","Other",4.6500001,17.25,,,.24693346,.24693346,,4.8969336
+2022,7,"RASM@NPS (Maslowski et al.)","Dynamical","Dynamical",4.6570001,,.463,,.23993349,.23993349,,4.8969336
+2022,7,"CPOM UCL (Gregory et al)","Other","Other",4.6799998,,.56999999,,.21693373,.21693373,,4.8969336
+2022,7,"UQAM (VARCTIC)","Other","Other",4.6799998,,,,.21693373,.21693373,,4.8969336
+2022,7,"NCEP-EMC (Wu et al.)","Dynamical","Dynamical",4.71,19.15,,,.18693352,.18693352,,4.8969336
+2022,7,"PolArctic","Other","Other",4.71,,,,.18693352,.18693352,,4.8969336
+2022,7,"GFDL/NOAA (Bushuk et al.)","Dynamical","Dynamical",4.7399998,,.56,,.15693378,.15693378,,4.8969336
+2022,7,"AWI Consortium","Dynamical","Dynamical",4.7600002,,,,.13693333,.13693333,,4.8969336
+2022,7,"NMEFC of China (Li and Li )","Other","Other",4.7600002,,,,.13693333,.13693333,,4.8969336
+2022,7,"Dmitri Kondrashov (UCLA)","Other","Other",4.8099999,,.51999998,,.086933613,.086933613,,4.8969336
+2022,7,"Horvath, et al.","Other","Other",4.9699998,,,,-.073066235,.073066235,,4.8969336
+2022,7,"KOPRI (Chi et al.)","Other","Other",5.0500002,,,,-.15306664,.15306664,,4.8969336
+2022,7,"EMC/NCEP (UFS)","Dynamical","Dynamical",5.0999999,18.42,,,-.20306635,.20306635,,4.8969336
+2022,7,"MetService (Yizhe Zhan)","Other","Other",5.0999999,,,,-.20306635,.20306635,,4.8969336
+2022,7,"Sun, Nico","Other","Other",5.2600002,18.24,.60000002,,-.36306667,.36306667,,4.8969336
+2022,8,"FIO-ESM (Shu et al.)","Dynamical","Dynamical",4.0599999,,,,.83693361,.83693361,,4.8969336
+2022,8,"Met Office","Dynamical","Dynamical",4.4000001,17.5,,,.49693346,.49693346,,4.8969336
+2022,8,"AWI consortium","Dynamical","Dynamical",4.5100002,,,,.38693333,.38693333,,4.8969336
+2022,8,"UQAM (VARCTIC)","Other","Other",4.5599999,,,,.33693361,.33693361,,4.8969336
+2022,8,"HEU Group (Zhao, et al)","Other","Other",4.5799999,18.24,,,.31693363,.31693363,,4.8969336
+2022,8,"RASM@NPS (Maslowski et al.)","Dynamical","Dynamical",4.5929999,,.456,,.30393362,.30393362,,4.8969336
+2022,8,"ASIC NIPR","Other","Other",4.6399999,,,,.25693369,.25693369,,4.8969336
+2022,8,"University of Washington/APL","Dynamical","Dynamical",4.6500001,,,,.24693346,.24693346,,4.8969336
+2022,8,"Climate Prediction Center","Dynamical","Dynamical",4.6900001,,.74000001,,.2069335,.2069335,,4.8969336
+2022,8,"APPLICATE Benchmark","Other","Other",4.7199998,18.190001,,,.17693377,.17693377,,4.8969336
+2022,8,"Simmons, Charles","Other","Other",4.73,,,,.16693354,.16693354,,4.8969336
+2022,8,"METNO-SPARSE-ST","Other","Other",4.7800002,17.719999,,,.11693335,.11693335,,4.8969336
+2022,8,"CSU-REU21","Other","Other",4.8099999,,,,.086933613,.086933613,,4.8969336
+2022,8,"Dmitri Kondrashov (UCLA)","Other","Other",4.8200002,,.47999999,,.076933384,.076933384,,4.8969336
+2022,8,"NCEP-EMC (Wu et al.)","Dynamical","Dynamical",4.8299999,19.639999,,,.066933632,.066933632,,4.8969336
+2022,8,"NSIDC (Meier)","Other","Other",4.8800001,17.4,,,.016933441,.016933441,,4.8969336
+2022,8,"GFDL/NOAA (Bushuk et al.)","Dynamical","Dynamical",4.9299998,,.66000003,,-.033066273,.033066273,,4.8969336
+2022,8,"CPOM UCL (Gregory et al)","Other","Other",4.9400001,,.54000002,,-.043066502,.043066502,,4.8969336
+2022,8,"Horvath, et al.","Other","Other",4.98,,,,-.083066463,.083066463,,4.8969336
+2022,8,"Slater/Barrett NSIDC","Other","Other",5.02,,,,-.12306643,.12306643,,4.8969336
+2022,8,"Lamont (Yuan & Li)","Other","Other",5.04,18.540001,.68000001,,-.14306641,.14306641,,4.8969336
+2022,8,"EMC/NCEP (UFS)","Dynamical","Dynamical",5.0599999,18.559999,,,-.16306639,.16306639,,4.8969336
+2022,8,"UPenn-UQAM Group","Other","Other",5.1199999,,,,-.22306633,.22306633,,4.8969336
+2022,8,"IceNet1","Other","Statistical",5.1300001,,,,-.23306656,.23306656,,4.8969336
+2022,8,"KOPRI (Chi et al.)","Other","Other",5.1799998,,,,-.28306627,.28306627,,4.8969336
+2022,8,"SYSU/SML-MLM","Other","Other",5.3000002,,1.01,,-.40306664,.40306664,,4.8969336
+2022,8,"Sun, Nico","Other","Statistical",5.5500002,18.23,.755,,-.65306664,.65306664,,4.8969336
+2022,8,"SYSU/SML-KNN","Other","Other",5.6799998,,,,-.78306627,.78306627,,4.8969336
+2022,9,"Lamont (Yuan & Li)","Other","Other",4.4899998,18.120001,.49000001,,.40693378,.40693378,,4.8969336
+2022,9,"SYSU/SML-KNN","Other","Other",4.6399999,,,,.25693369,.25693369,,4.8969336
+2022,9,"UQAM (VARCTIC)","Other","Other",4.6999998,,,,.19693375,.19693375,,4.8969336
+2022,9,"APPLICATE Benchmark","Other","Other",4.7199998,17.84,,,.17693377,.17693377,,4.8969336
+2022,9,"RASM@NPS (Maslowski et al.)","Dynamical","Dynamical",4.7509999,,.40099999,,.14593363,.14593363,,4.8969336
+2022,9,"PolArctic","Other","Statistical",4.7800002,,,,.11693335,.11693335,,4.8969336
+2022,9,"Horvath, et al.","Other","Other",4.8000002,,,,.096933365,.096933365,,4.8969336
+2022,9,"FIO-ESM (Shu et al.)","Dynamical","Dynamical",4.8099999,,,,.086933613,.086933613,,4.8969336
+2022,9,"Dmitri Kondrashov (UCLA)","Other","Other",4.8499999,,.44999999,,.046933651,.046933651,,4.8969336
+2022,9,"Sun, Nico","Other","Statistical",4.9000001,18.110001,.47999999,,-.0030665398,.0030665398,,4.8969336
+2022,9,"EMC/NCEP (UFS)","Dynamical","Dynamical",4.9099998,19.049999,,,-.013066292,.013066292,,4.8969336
+2022,9,"CPOM UCL (Gregory et al)","Other","Other",4.9699998,,.58999997,,-.073066235,.073066235,,4.8969336
+2022,9,"University of Washington/APL","Dynamical","Dynamical",5,,,,-.10306644,.10306644,,4.8969336
+2022,9,"KOPRI (Chi et al.)","Other","Other",5,,,,-.10306644,.10306644,,4.8969336
+2022,9,"NCEP-EMC (Wu et al.)","Dynamical","Dynamical",5.0100002,18.940001,,,-.11306667,.11306667,,4.8969336
+2022,9,"UPenn-UQAM Group","Other","Other",5.02,,,,-.12306643,.12306643,,4.8969336
+2022,9,"NSIDC (Meier)","Other","Other",5.0300002,17.700001,,,-.13306665,.13306665,,4.8969336
+2022,9,"GFDL/NOAA (Bushuk et al.)","Dynamical","Dynamical",5.0700002,,.67000002,,-.17306662,.17306662,,4.8969336
+2022,9,"METNO-SPARSE-ST","Other","Other",5.1040001,17.735001,,,-.20706654,.20706654,,4.8969336
+2022,9,"Slater/Barrett NSIDC","Other","Statistical",5.1199999,,,,-.22306633,.22306633,,4.8969336
+2023,6,"Climate Prediction Center","Dynamical","Dynamical",4.4099998,,.55000001,"Scientist",-.038833141,.038833141,,4.3711667
+2023,6,"IceTFT (Bin Mu et al.)","Statistical","Statistical",4.5668888,,,"Scientist",-.1957221,.1957221,,4.3711667
+2023,6,"ArCS II Kids","Heuristic","Heuristic",4.5100002,,,"Citizen",-.13883352,.13883352,,4.3711667
+2023,6,"SYSU/SML-MLM","Statistical","Statistical",4.625,,.64999998,"Scientist",-.25383329,.25383329,,4.3711667
+2023,6,"SYSU/SML-KNN","Statistical","Statistical",4.8099999,,,"Scientist",-.43883324,.43883324,,4.3711667
+2023,6,"SYSU/SML-LSTM","Statistical","Statistical",4.77,,,"Scientist",-.39883327,.39883327,,4.3711667
+2023,6,"NCEP-EMC (Wu et al.)","Dynamical","Dynamical",3.6099999,18.66,,"Scientist",.76116681,.76116681,,4.3711667
+2023,6,"University of Washington/APL","Dynamical","Dynamical",3.99,,,"Scientist",.3811667,.3811667,,4.3711667
+2023,6,"Dmitri Kondrashv (UCLA)","Statistical","Statistical",4.8899999,,.46000001,"Scientist",-.51883316,.51883316,,4.3711667
+2023,6,"UQAM (VARCTIC)","Statistical","Statistical",4.8000002,,,"Scientist",-.42883348,.42883348,,4.3711667
+2023,6,"UPenn-UQAM Group","Statistical","Statistical",4.6100001,,,"Scientist",-.23883343,.23883343,,4.3711667
+2023,6,"FIO-ESM","Dynamical","Dynamical",4.5100002,,,"Scientist",-.13883352,.13883352,,4.3711667
+2023,6,"HEU Group (Zhao and Yang)","Statistical","Statistical",5.5999999,,,"Scientist",-1.2288332,1.2288332,,4.3711667
+2023,6,"ASIC, NIPR","Statistical","Statistical",4.5999999,,,"Scientist",-.2288332,.2288332,,4.3711667
+2023,6,"Charles Simmons","Statistical","Statistical",4.1100001,,,"Citizen",.26116657,.26116657,,4.3711667
+2023,6,"SICNet_IOCAS","Statistical","Statistical",5.1308999,,,"Scientist",-.7597332,.7597332,,4.3711667
+2023,6,"ANSO IAP-LASG","Dynamical","Dynamical",3.9920001,,,"Scientist",.3791666,.3791666,,4.3711667
+2023,6,"ANSO-IAP","Dynamical","Dynamical",3.9920001,,,"Scientist",.3791666,.3791666,,4.3711667
+2023,6,"UCLouvain","Dynamical","Dynamical",2.95,18.530001,.18000001,"Scientist",1.4211667,1.4211667,,4.3711667
+2023,6,"Met Office","Dynamical","Dynamical",3.5999999,17.4,,"Scientist",.7711668,.7711668,,4.3711667
+2023,6,"APPLICATE team","Statistical","Statistical",4.6599998,17.940001,,"Scientist",-.28883314,.28883314,,4.3711667
+2023,6,"UKMO-OIT","Heuristic","Heuristic",4.1399999,,,"Scientist",.23116684,.23116684,,4.3711667
+2023,6,"CPOM UCL (Gregory et al)","Statistical","Statistical",4.46,,.47,"Scientist",-.088833332,.088833332,,4.3711667
+2023,6,"CPOM","Statistical","Statistical",4.1999998,,,"Scientist",.1711669,.1711669,,4.3711667
+2023,6,"Okhotsk Sea Ice Museum","Mixed","Statistical",4.27,,,"Citizen",.10116673,.10116673,,4.3711667
+2023,6,"SUN","Statistical","Statistical",4.5700002,18.379999,.54299998,"Citizen",-.19883347,.19883347,,4.3711667
+2023,6,"GMAO","Dynamical","Dynamical",4.46,,.75999999,"Scientist",-.088833332,.088833332,,4.3711667
+2023,6,"GFDL/NOAA, Bushuk et al.","Dynamical","Dynamical",4.25,,.38,"Scientist",.12116671,.12116671,,4.3711667
+2023,6,"METNO-S (Wang et al.)","Statistical","Statistical",4.5209999,17.284,,"Scientist",-.1498332,.1498332,,4.3711667
+2023,6,"AWI Consortium (Kauker et al.)","Dynamical","Dynamical",4.0300002,,,"Scientist",.3411665,.3411665,,4.3711667
+2023,6,"Lamont (Yuan & Li)","Statistical","Statistical",5.1399999,17.889999,.66000003,"Scientist",-.76883316,.76883316,,4.3711667
+2023,6,"Meier (NSIDC)","Statistical","Statistical",4.7600002,16.530001,,"Scientist",-.38883352,.38883352,,4.3711667
+2023,6,"PolArctic","Statistical","Statistical",4.9000001,,,"Scientist",-.52883339,.52883339,,4.3711667
+2023,6,"NCAR / CU Pool (Bailey and Kay)","Heuristic","Heuristic",4.1900001,,,"Scientist",.18116665,.18116665,,4.3711667
+2023,6,"ARCUS Team","Heuristic","Heuristic",4.6100001,,,"Citizen",-.23883343,.23883343,,4.3711667
+2023,6,"RASM@NPS (Maslowski et al.)","Dynamical","Dynamical",4.6849999,,.31600001,"Scientist",-.31383324,.31383324,,4.3711667
+2023,6,"NMEFC ArcCFPS","Dynamical","Dynamical",5.4200001,,,"Scientist",-1.0488334,1.0488334,,4.3711667
+2023,6,"NMEFC of China (Li and Li )","Statistical","Statistical",4.5500002,,,"Scientist",-.17883348,.17883348,,4.3711667
+2023,7,"Climate Prediction Center","Dynamical","Dynamical",5.0300002,,.86000001,"Scientist",-.6588335,.6588335,,4.3711667
+2023,7,"GFDL/NOAA, Bushuk et al.","Dynamical","Dynamical",4.3800001,,.34999999,"Scientist",-.0088334084,.0088334084,,4.3711667
+2023,7,"University of Washington/APL","Dynamical","Dynamical",4.5500002,,,"Scientist",-.17883348,.17883348,,4.3711667
+2023,7,"ANSO-IAP","Dynamical","Dynamical",3.8900001,,,"Scientist",.4811666,.4811666,,4.3711667
+2023,7,"UCLouvain","Dynamical","Dynamical",3.1199999,18.540001,.31,"Scientist",1.2511668,1.2511668,,4.3711667
+2023,7,"Met Office","Dynamical","Dynamical",4.4000001,17,,"Scientist",-.028833389,.028833389,,4.3711667
+2023,7,"AWI Consortium (Kauker et al.)","Dynamical","Dynamical",3.97,,,"Scientist",.40116668,.40116668,,4.3711667
+2023,7,"NCEP-EMC (Wu et al.)","Dynamical","Dynamical",4,19.26,,"Scientist",.37116671,.37116671,,4.3711667
+2023,7,"FIO-ESM","Dynamical","Dynamical",4.5100002,,,"Scientist",-.13883352,.13883352,,4.3711667
+2023,7,"RASM@NPS (Maslowski et al.)","Dynamical","Dynamical",4.7839999,,.36500001,"Scientist",-.41283321,.41283321,,4.3711667
+2023,7,"NMEFC ArcCFPS","Dynamical","Dynamical",5.3049998,,,"Scientist",-.93383312,.93383312,,4.3711667
+2023,7,"ASIC, NIPR","Statistical","Statistical",4.6100001,,,"Scientist",-.23883343,.23883343,,4.3711667
+2023,7,"HEU Group (Zhao and Yang)","Statistical","Statistical",4.9499998,,,"Scientist",-.5788331,.5788331,,4.3711667
+2023,7,"CPOM UCL (Gregory et al)","Statistical","Statistical",4.8200002,,.58999997,"Scientist",-.44883347,.44883347,,4.3711667
+2023,7,"Dmitri Kondrashv (UCLA)","Statistical","Statistical",4.6599998,,.41999999,"Scientist",-.28883314,.28883314,,4.3711667
+2023,7,"Simmons","Statistical","Statistical",4.3600001,,,"Citizen",.011166573,.011166573,,4.3711667
+2023,7,"SYSU/SML-MLM","Statistical","Statistical",4.6599998,,.75999999,"Scientist",-.28883314,.28883314,,4.3711667
+2023,7,"SYSU/SML-KNN","Statistical","Statistical",4.8600001,,,"Scientist",-.48883343,.48883343,,4.3711667
+2023,7,"SYSU/SML-LSTM","Statistical","Statistical",5.1399999,,,"Scientist",-.76883316,.76883316,,4.3711667
+2023,7,"CPOM","Statistical","Statistical",4.5999999,,,"Scientist",-.2288332,.2288332,,4.3711667
+2023,7,"SUN","Statistical","Statistical",4.8699999,18,.55000001,"Citizen",-.49883318,.49883318,,4.3711667
+2023,7,"UQAM (VARCTIC)","Statistical","Statistical",4.8200002,,,"Scientist",-.44883347,.44883347,,4.3711667
+2023,7,"UPenn-UQAM Group","Statistical","Statistical",4.6500001,,,"Scientist",-.27883339,.27883339,,4.3711667
+2023,7,"APPLICATE Benchmark","Statistical","Statistical",4.73,17.74,,"Scientist",-.35883331,.35883331,,4.3711667
+2023,7,"METNO-SPARSE-ST","Statistical","Statistical",4.5300002,16.969999,,"Scientist",-.1588335,.1588335,,4.3711667
+2023,7,"NSIDC (Meier)","Statistical","Statistical",4.6199999,15.87,,"Scientist",-.24883318,.24883318,,4.3711667
+2023,7,"Lamont (Yuan and Li)","Statistical","Statistical",4.9499998,17.950001,.73000002,"Scientist",-.5788331,.5788331,,4.3711667
+2023,7,"SICNet_IOCAS","Statistical","Statistical",4.9879999,,,"Scientist",-.61683321,.61683321,,4.3711667
+2023,7,"Horvath et al.","Statistical","Statistical",4.6199999,,,"Scientist",-.24883318,.24883318,,4.3711667
+2023,7,"Petty","Statistical","Statistical",5.0300002,,,"Scientist",-.6588335,.6588335,,4.3711667
+2023,8,"HEU Group (Zhao and Yang)","Statistical","Statistical",5,,,"Scientist",-.62883329,.62883329,,4.3711667
+2023,8,"CPOM UCL (Gregory et al)","Statistical","Statistical",4.3600001,,.41999999,"Scientist",.011166573,.011166573,,4.3711667
+2023,8,"University of Washington/APL","Dynamical","Dynamical",4.3600001,,,"Scientist",.011166573,.011166573,,4.3711667
+2023,8,"Climate Prediction Center","Dynamical","Dynamical",4.79,,.74000001,"Scientist",-.41883326,.41883326,,4.3711667
+2023,8,"SYSU/SML-KNN","Statistical","Statistical",4.46,,,"Scientist",-.088833332,.088833332,,4.3711667
+2023,8,"SYSU/SML-LSTM","Statistical","Statistical",4.8600001,,,"Scientist",-.48883343,.48883343,,4.3711667
+2023,8,"SYSU/SML-MLM","Statistical","Statistical",4.6500001,,.63999999,"Scientist",-.27883339,.27883339,,4.3711667
+2023,8,"CSU-REU21","Statistical","Statistical",4.4899998,,,"Scientist",-.11883307,.11883307,,4.3711667
+2023,8,"UCLouvain","Dynamical","Dynamical",2.8800001,18.190001,.25999999,"Scientist",1.4911666,1.4911666,,4.3711667
+2023,8,"Simmons","Statistical","Statistical",4.4200001,,,"Citizen",-.04883337,.04883337,,4.3711667
+2023,8,"METNO-SPARSE-ST","Statistical","Statistical",4.6300001,16.73,,"Scientist",-.25883341,.25883341,,4.3711667
+2023,8,"Kondrashov (UCLA)","Statistical","Statistical",4.6399999,,.33000001,"Scientist",-.26883316,.26883316,,4.3711667
+2023,8,"Met Office","Dynamical","Dynamical",4.3000002,16.700001,,"Scientist",.071166515,.071166515,,4.3711667
+2023,8,"NCEP-EMC (Wu et al.)","Dynamical","Dynamical",4.2800002,19.959999,,"Scientist",.091166496,.091166496,,4.3711667
+2023,8,"Sun","Statistical","Statistical",4.98,17.700001,.465,"Citizen",-.60883331,.60883331,,4.3711667
+2023,8,"FIO-ESM","Dynamical","Dynamical",4.4499998,,,"Scientist",-.078833103,.078833103,,4.3711667
+2023,8,"UQAM (VARCTIC)","Statistical","Statistical",4.8400002,,,"Scientist",-.46883345,.46883345,,4.3711667
+2023,8,"UPenn-UQAM Group","Statistical","Statistical",4.5999999,,,"Scientist",-.2288332,.2288332,,4.3711667
+2023,8,"NSIDC (Meier)","Statistical","Statistical",4.77,16.219999,,"Scientist",-.39883327,.39883327,,4.3711667
+2023,8,"Lamont (Yuan & Li)","Statistical","Statistical",4.6799998,18.280001,.46000001,"Scientist",-.30883312,.30883312,,4.3711667
+2023,8,"RASM@NPS (Maslowski et al.)","Dynamical","Dynamical",4.6040001,,.243,"Scientist",-.23283339,.23283339,,4.3711667
+2023,8,"Horvath, et al.","Statistical","Statistical",4,,,"Scientist",.37116671,.37116671,,4.3711667
+2023,8,"GFDL/NOAA, Bushuk et al.","Dynamical","Dynamical",4.1900001,,.27000001,"Scientist",.18116665,.18116665,,4.3711667
+2023,8,"GMAO","Dynamical","Dynamical",5.3800001,,.81,"Scientist",-1.0088334,1.0088334,,4.3711667
+2023,8,"AWI Consortium (Kauker et al.)","Dynamical","Dynamical",3.55,,,"Scientist",.82116675,.82116675,,4.3711667
+2023,8,"ANSO-IAP","Dynamical","Dynamical",4.1999998,,,"Scientist",.1711669,.1711669,,4.3711667
+2023,8,"ASIC, NIPR","Statistical","Statistical",4.6199999,,,"Scientist",-.24883318,.24883318,,4.3711667
+2023,8,"SICNet_IOCAS","Statistical","Statistical",4.8140001,,,"Scientist",-.44283342,.44283342,,4.3711667
+2023,8,"NMEFC ArcCFPS","Dynamical","Dynamical",5.4679999,,,"Scientist",-1.0968332,1.0968332,,4.3711667
+2023,9,"GFDL/NOAA, Bushuk et al.","Dynamical","Dynamical",4.46,,.23,"Scientist",-.088833332,.088833332,,4.3711667
+2023,9,"Lamont (Yuan & Li)","Statistical","Statistical",4.5900002,17.76,.30000001,"Scientist",-.21883345,.21883345,,4.3711667
+2023,9,"Charles Simmons","Statistical","Statistical",4.25,,,"Citizen",.12116671,.12116671,,4.3711667
+2023,9,"METNO-SPARSE-ST","Statistical","Statistical",4.5799999,16.5,,"Scientist",-.20883322,.20883322,,4.3711667
+2023,9,"SUN","Statistical","Statistical",4.5,17.25,.31299999,"Citizen",-.12883329,.12883329,,4.3711667
+2023,9,"FIO-ESM","Dynamical","Dynamical",4.4499998,,,"Scientist",-.078833103,.078833103,,4.3711667
+2023,9,"PolArctic","Statistical","Statistical",4.23,,,"Scientist",.14116669,.14116669,,4.3711667
+2023,9,"SICNet_IOCAS","Statistical","Statistical",4.2800002,,,"Scientist",.091166496,.091166496,,4.3711667
+2023,9,"RASM@NPS (Maslowski et al.)","Dynamical","Dynamical",4.6669998,,.236,"Scientist",-.29583311,.29583311,,4.3711667
+2023,9,"ANSO-IAP","Dynamical","Dynamical",4.25,,,"Scientist",.12116671,.12116671,,4.3711667
+2023,9,"NSIDC (Meier)","Statistical","Statistical",4.5,16.6,,"Scientist",-.12883329,.12883329,,4.3711667
+2023,9,"UQAM (VARCTIC)","Statistical","Statistical",4.7600002,,,"Scientist",-.38883352,.38883352,,4.3711667
+2023,9,"UPenn-UQAM Group","Statistical","Statistical",4.5,,,"Scientist",-.12883329,.12883329,,4.3711667
