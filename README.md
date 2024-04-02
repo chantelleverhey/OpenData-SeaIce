@@ -2,6 +2,8 @@ README
 
 This repository was created as an exercise for the 5803 Geomatics class at Carleton University. The following demostrates the intended outcomes of the Tutorial.
 
+Lawrence Hamilton, Uma Bhatt, Edward Blanchard-Wrigglesworth, Mitchell Bushuk, Julienne Stroeve, Betsy Turner-Bogren, & Helen Wiggins. (2023). Sea Ice Outlook 2008-2023, Pan-arctic region. Arctic Data Center. doi:10.18739/A2WS8HN79.
+
 ## Learning objectives 
 - Demonstrate the practicalities of open data (Walking through applying and assessing FAIR principles)
 - Reuse of open sea-ice data extent found through federated system
